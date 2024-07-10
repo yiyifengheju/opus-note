@@ -1,0 +1,28 @@
+[project]
+name = "mynote"
+version = "0.1.0"
+description = "Add your description here"
+dependencies = [
+    "fonttools>=4.53.1",
+    "mkdocs-material>=9.5.28",
+    "mkdocs-glightbox>=0.4.0",
+    "neoteroi-mkdocs>=1.0.5",
+    "mkdocs-jupyter>=0.24.8",
+    "tqdm>=4.66.4",
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+dev-dependencies = []
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/mynote"]

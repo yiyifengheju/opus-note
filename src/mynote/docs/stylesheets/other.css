@@ -1,0 +1,45 @@
+/*内容宽度*/
+.md-grid {
+    max-width: 80%;
+}
+
+/*导航栏缩进*/
+a.md-nav__link {
+    padding-left: 15px !important;
+}
+
+/*图标大小*/
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    height: 1.6rem;
+}
+
+/*隐藏滚动条*/
+html {
+    scrollbar-width: none;
+}
+
+/*左侧导航栏滚动条*/
+.md-sidebar__scrollwrap {
+    scrollbar-width: none;
+}
+
+/*.md-sidebar {*/
+/*    width: 350px;*/
+/*}*/
+
+.md-nav__item {
+    width: 320px;
+}
+
+/*石蒜模拟器*/
+html #sakana-widget {
+    position: fixed;
+    right: 330px;
+    top: 80px;
+    transform-origin: 100% 100%; /* 从右下开始变换 */
+    z-index: 9;
+}
+
+.md-sidebar--secondary{
+    top: 270px!important;
+}

@@ -1,0 +1,67 @@
+/*表格*/
+.md-typeset__table {
+    min-width: 100%;
+    max-width: 100%;
+    display: table;
+    margin: auto;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.md-typeset table:not([class]) {
+    display: table;
+    border: 0;
+}
+
+[data-md-color-scheme=slate] {
+    --table-color: rgba(224, 224, 224, .2);
+
+}
+
+[data-md-color-scheme=default] {
+    --table-color: rgba(20, 20, 20, .2);
+}
+
+thead {
+    border-top: 2px solid var(--table-color);
+    border-bottom: 1px solid var(--table-color);
+}
+
+tbody {
+    border-bottom: 2px solid var(--table-color);
+}
+
+.md-typeset table:not([class]) td {
+    border-top: 0;
+}
+
+.md-typeset table:not([class]) td:not([align]), .md-typeset table:not([class]) th:not([align]) {
+    text-align: center;
+}
+
+.no-line tbody {
+    border-bottom: 0;
+}
+
+.no-line td {
+    text-align: center;
+}
+
+.dataframe {
+    min-width: 100%;
+    max-width: 100%;
+    display: table;
+    margin: auto;
+}
+
+.dataframe table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.jupyter-wrapper table.dataframe tr, .jupyter-wrapper table.dataframe th, .jupyter-wrapper table.dataframe td {
+    text-align: center !important;
+}
