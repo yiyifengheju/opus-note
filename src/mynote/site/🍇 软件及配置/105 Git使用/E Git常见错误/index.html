@@ -1515,6 +1515,33 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#2-rpc" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. RPC错误
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-wsl" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. WSL代理问题
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-git" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. 每次git都需要输入用户名和密码
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -6332,6 +6359,33 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#2-rpc" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. RPC错误
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-wsl" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. WSL代理问题
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-git" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. 每次git都需要输入用户名和密码
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -6382,16 +6436,48 @@
 
 <!-- Page content -->
 <h3 id="1">1. 网络错误<a class="headerlink" href="#1" title="Permanent link">&para;</a></h3>
+<p>【问题复现】</p>
 <div class="highlight"><pre><span></span><code><span class="linenos" data-linenos="1 "></span><span class="c1"># 代理ON：</span>
 <span class="linenos" data-linenos="2 "></span>fatal:<span class="w"> </span>unable<span class="w"> </span>to<span class="w"> </span>access<span class="w"> </span><span class="s1">&#39;https://github.com/yiyifengheju/ONAV.git/&#39;</span>:<span class="w"> </span>Error<span class="w"> </span><span class="k">in</span><span class="w"> </span>the<span class="w"> </span>HTTP2<span class="w"> </span>framing<span class="w"> </span>layer
 <span class="linenos" data-linenos="3 "></span><span class="c1"># 代理OFF：</span>
 <span class="linenos" data-linenos="4 "></span>fatal:<span class="w"> </span>unable<span class="w"> </span>to<span class="w"> </span>access<span class="w"> </span><span class="s1">&#39;https://github.com/yiyifengheju/ONAV.git/&#39;</span>:<span class="w"> </span>GnuTLS<span class="w"> </span>recv<span class="w"> </span>error<span class="w"> </span><span class="o">(</span>-110<span class="o">)</span>:<span class="w"> </span>The<span class="w"> </span>TLS<span class="w"> </span>connection<span class="w"> </span>was<span class="w"> </span>non-properly<span class="w"> </span>terminated.
 </code></pre></div>
-<p>解决方法</p>
+<p>【解决方法】</p>
 <div class="highlight"><pre><span></span><code><span class="linenos" data-linenos="1 "></span>sudo<span class="w"> </span>apt-get<span class="w"> </span>update
 <span class="linenos" data-linenos="2 "></span>sudo<span class="w"> </span>apt-get<span class="w"> </span>install<span class="w"> </span>gnutls-bin
 <span class="linenos" data-linenos="3 "></span>git<span class="w"> </span>config<span class="w"> </span>--global<span class="w"> </span>http.sslVerify<span class="w"> </span><span class="nb">false</span>
 <span class="linenos" data-linenos="4 "></span>git<span class="w"> </span>config<span class="w"> </span>--global<span class="w"> </span>http.postBuffer<span class="w"> </span><span class="m">1048576000</span>
+</code></pre></div>
+<h3 id="2-rpc">2. RPC错误<a class="headerlink" href="#2-rpc" title="Permanent link">&para;</a></h3>
+<p>【问题复现】</p>
+<div class="highlight"><pre><span></span><code><span class="linenos" data-linenos="1 "></span>error:<span class="w"> </span>RPC<span class="w"> </span>failed<span class="p">;</span><span class="w"> </span>curl<span class="w"> </span><span class="m">16</span><span class="w"> </span>Error<span class="w"> </span><span class="k">in</span><span class="w"> </span>the<span class="w"> </span>HTTP2<span class="w"> </span>framing<span class="w"> </span>layer
+<span class="linenos" data-linenos="2 "></span>send-pack:<span class="w"> </span>unexpected<span class="w"> </span>disconnect<span class="w"> </span><span class="k">while</span><span class="w"> </span>reading<span class="w"> </span>sideband<span class="w"> </span>packet
+<span class="linenos" data-linenos="3 "></span>fatal:<span class="w"> </span>the<span class="w"> </span>remote<span class="w"> </span>end<span class="w"> </span>hung<span class="w"> </span>up<span class="w"> </span>unexpectedly
+</code></pre></div>
+<p>【解决方法】强制将git设置为HTTP 1.1：</p>
+<div class="highlight"><pre><span></span><code><span class="linenos" data-linenos="1 "></span>git<span class="w"> </span>config<span class="w"> </span>--global<span class="w"> </span>http.version<span class="w"> </span>HTTP/1.1
+</code></pre></div>
+<blockquote>
+<p>恢复方法：</p>
+<div class="highlight"><pre><span></span><code><span class="linenos" data-linenos="1 "></span>git<span class="w"> </span>config<span class="w"> </span>--global<span class="w"> </span>http.version<span class="w"> </span>HTTP/2
+</code></pre></div>
+</blockquote>
+<h3 id="3-wsl">3. WSL代理问题<a class="headerlink" href="#3-wsl" title="Permanent link">&para;</a></h3>
+<p>【问题复现】打开WSL时显示：</p>
+<div class="highlight"><pre><span></span><code><span class="linenos" data-linenos="1 "></span>wsl:<span class="w"> </span>检测到<span class="w"> </span>localhost<span class="w"> </span>代理配置，但未镜像到<span class="w"> </span>WSL。NAT<span class="w"> </span>模式下的<span class="w"> </span>WSL<span class="w"> </span>不支持<span class="w"> </span>localhost<span class="w"> </span>代理。
+</code></pre></div>
+<p>【解决方法】在Windows中的<code>C:\Users\$Username$\</code>目录下创建一个<code>.wslconfig</code>文件，然后在文件中写入如下内容：</p>
+<div class="highlight"><pre><span></span><code><span class="linenos" data-linenos="1 "></span><span class="k">[experimental]</span>
+<span class="linenos" data-linenos="2 "></span><span class="n">autoMemoryReclaim</span><span class="o">=</span><span class="err">gradual  </span>
+<span class="linenos" data-linenos="3 "></span><span class="n">networkingMode</span><span class="o">=</span><span class="err">mirrored</span>
+<span class="linenos" data-linenos="4 "></span><span class="n">dnsTunneling</span><span class="o">=</span><span class="kc">true</span>
+<span class="linenos" data-linenos="5 "></span><span class="n">firewall</span><span class="o">=</span><span class="kc">true</span>
+<span class="linenos" data-linenos="6 "></span><span class="n">autoProxy</span><span class="o">=</span><span class="kc">true</span>
+</code></pre></div>
+<h3 id="4-git">4. 每次git都需要输入用户名和密码<a class="headerlink" href="#4-git" title="Permanent link">&para;</a></h3>
+<p>【问题复现】如题</p>
+<p>【解决方法】执行下述命令后，再执行<code>git pull</code>或<code>git push</code>，输入用户名密码，以后就不需要每次都输入了。</p>
+<div class="highlight"><pre><span></span><code><span class="linenos" data-linenos="1 "></span>git<span class="w"> </span>config<span class="w"> </span>--global<span class="w"> </span>credential.helper<span class="w"> </span>store
 </code></pre></div>
 
 <!-- Source file information -->
