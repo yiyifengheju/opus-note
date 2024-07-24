@@ -1,5 +1,5 @@
 ---
-title: 🎈 Rye踩坑记录
+title: 🧩 Rye踩坑记录
 comments: true
 ---
 

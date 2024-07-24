@@ -1,5 +1,5 @@
 ---
-title: SciencePlots
+title: 🥰 SciencePlots
 comments: true
 ---
 

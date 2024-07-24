@@ -1,5 +1,5 @@
 ---
-title: 🎄 Rye安装Jupyter
+title: 🔫 Rye安装Jupyter
 comments: true
 ---
 

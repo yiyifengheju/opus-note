@@ -1,5 +1,5 @@
 ---
-title: MinIO托管Python库
+title: 🌀 MinIO托管Python库
 comments: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: C Matplotlib中英文设置（一）
+title: 🍒 Matplotlib中英文设置（一）
 comments: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: C Scipy
+title: 🥣 Scipy
 comments: true
 ---
 

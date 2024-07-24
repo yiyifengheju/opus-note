@@ -1,7 +1,8 @@
 ---
-title: B Python多线程(二)
+title: 🐙 Python多线程(二)
 comments: true
 ---
+
 在Python多线程中：
 
 * `join()`方法的作用是线程同步[^1]。

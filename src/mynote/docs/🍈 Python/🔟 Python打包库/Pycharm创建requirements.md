@@ -1,5 +1,5 @@
 ---
-title: H Pycharm创建requirements
+title: 🌩️ Pycharm创建requirements
 comments: true
 ---
 

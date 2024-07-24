@@ -1,5 +1,5 @@
 ---
-title: B Numpy
+title: 🐟 Numpy
 comments: true
 ---
 

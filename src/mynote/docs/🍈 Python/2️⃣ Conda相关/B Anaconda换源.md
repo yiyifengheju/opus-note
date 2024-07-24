@@ -1,5 +1,5 @@
 ---
-title: 🧣 Anaconda换源
+title: 🪵 Anaconda换源
 comments: true
 ---
 

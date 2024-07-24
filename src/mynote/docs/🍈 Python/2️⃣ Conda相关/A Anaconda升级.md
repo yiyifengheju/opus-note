@@ -1,5 +1,5 @@
 ---
-title: 🥽 Anaconda升级
+title: 🏇 Anaconda升级
 comments: true
 ---
 

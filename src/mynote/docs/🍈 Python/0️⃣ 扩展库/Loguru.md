@@ -1,5 +1,5 @@
 ---
-title: Loguru
+title: 🤣 Loguru
 comments: true
 ---
 

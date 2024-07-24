@@ -1,5 +1,5 @@
 ---
-title: 🎃 Rye使用指南
+title: 🥎 Rye使用指南
 comments: true
 ---
 

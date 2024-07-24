@@ -1,5 +1,5 @@
 ---
-title: Argparse
+title: 😀 Argparse
 comments: true
 ---
 

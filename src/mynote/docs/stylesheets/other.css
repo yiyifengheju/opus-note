@@ -34,12 +34,12 @@ html {
 /*石蒜模拟器*/
 html #sakana-widget {
     position: fixed;
-    right: 330px;
-    top: 80px;
+    right: 15%;
+    top: 8%;
     transform-origin: 100% 100%; /* 从右下开始变换 */
     z-index: 9;
 }
 
-.md-sidebar--secondary{
-    top: 270px!important;
+.md-sidebar--secondary {
+    top: 270px !important;
 }

@@ -1,5 +1,5 @@
 ---
-title: D Matplotlib中英文设置（二）
+title: 🍓 Matplotlib中英文设置（二）
 comments: true
 ---
 Matplotlib无法同时使用两种字体
