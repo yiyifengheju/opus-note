@@ -1,0 +1,198 @@
+---
+title: A yaml配置
+comments: true
+---
+
+```yaml title='mkdocs.yml'
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
+site_name: 一一风和橘's笔记
+theme:
+  # 主题名称
+  name: material
+  # 语言
+  language: zh
+  # 首页
+  #  homepage: mastermao.cn
+  # 网站图标 (位于./docs/assets)
+  favicon: assets/favicon.svg
+  # logo(网页标签显示的图标)
+  logo: assets/logo.svg
+  # 不使用google fonts(字体设置在css中)
+  font: false
+  # icon
+  icon:
+    #logo: fontawesome/brands/battle-net
+    #repo: fontawesome/brands/git
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+  # 扩展材料(自己写的HTML, 保存在 ./overrides)
+  custom_dir: overrides
+
+  # 配色
+  palette:
+    # ==================亮色模式==================
+    - media: "(prefers-color-scheme: light)"
+      # 亮/暗
+      scheme: default
+      # 主题色
+      primary: white
+      # 高亮色
+      accent: indigo
+      # 切换按钮
+      toggle:
+        icon: material/brightness-7
+        name: 夜间模式
+    # ==================暗色模式==================
+    - media: "(prefers-color-scheme: dark)"
+      scheme: black
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 日间模式
+
+  features:
+    # ==================页面设置==================
+    # 即时加载
+    - navigation.instant
+    # 锚点跟踪
+    - navigation.tracking
+    # 锚点跟踪滚动（文章TOC添加到侧边栏）
+    #- toc.integrate
+    # 返回顶部
+    - navigation.top
+    # 添加章节索引
+    # nav:
+    #  - Section:
+    #    - section/McDocs.md
+    #    - Page 1: section/page-1.md
+    #    ...
+    #    - Page n: section/page-n.md
+    # 章节索引(把index独立放在侧边栏一级标题下)
+    - navigation.indexes
+    # ==================导航栏设置==================
+    # 导航栏选项卡
+    - navigation.tabs
+    # 导航栏始终可见(往下滚动的时候始终可见选项卡)
+    #- navigation.tabs.sticky
+    # ==================侧边栏设置==================
+    # 侧边栏二级展示
+    - navigation.tracking
+    # 展示方式（多级标题or折叠）
+    #- navigation.sections
+    # 侧边栏不折叠
+    - navigation.expand
+    # ==================标头设置==================
+    # 搜索高亮显示
+    - search.highlight
+    # 标头自动隐藏
+    - header.autohide
+    # 公告栏关闭按钮
+    - announce.dismiss
+    # ==================页脚设置==================
+    # 上一页下一页
+    #- navigation.footer
+    # ==================代码复制==================
+    - content.code.copy
+
+# Markdown扩展
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.snippets:
+      auto_append:
+        - lib/abbreviations.md
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx-inline
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
+
+  # 需要安装(https://www.neoteroi.dev/mkdocs-plugins/) pip install neoteroi-mkdocs
+  - neoteroi.timeline
+
+# 插件
+plugins:
+  # 搜索
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  # 需要安装 pip install mkdocs-glightbox
+  - glightbox:
+      zoomable: false
+      auto_caption: false
+# 需要安装 pip install mkdocs-jupyter
+  - mkdocs-jupyter
+
+extra:
+  # 页脚社交连接
+  social:
+    - icon: fontawesome/solid/bath
+      link: https://mastermao.cn
+    - icon: fontawesome/solid/camera-retro
+      link: https://gallery.mastermao.cn
+    - icon: fontawesome/brands/git
+      link: https://gitee.com/mastermao
+    - icon: fontawesome/brands/500px
+      link: https://500px.com.cn/MonsterMao
+    - icon: fontawesome/solid/envelope
+      link: mailto:wego_mao@hotmail.com
+  # 页脚是否显示 made with Material...
+  generator: true
+
+# 页脚显示版权信息
+copyright: Copyright &copy; 2023 - 2023 一一风和橘
+
+# 导航栏右侧显示GitHub
+#repo_url: https://github.com/squidfunk/mkdocs-material
+#repo_name: squidfunk/mkdocs-material
+
+# 自定义CSS
+extra_css:
+  - stylesheets/extra.css
+
+# 自定义js
+extra_javascript:
+  - javascripts/extra.js
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+```
+
