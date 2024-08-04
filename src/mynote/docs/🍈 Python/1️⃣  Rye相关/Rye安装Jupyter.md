@@ -15,7 +15,7 @@ comments: true
 ~/mao_py311
 ```
 
-## 壹丨安装Jupyter
+## 壹丨安装Jupyter[^1]
 
 第一步，安装Jupyter：
 
@@ -46,7 +46,7 @@ jupyter notebook
 jupyter lab
 ```
 
-## 贰丨配置远程访问
+## 贰丨配置远程访问[^2]
 
 ### 第一步，配置Jupyter Lab访问密码
 
@@ -166,5 +166,4 @@ Set-ExecutionPolicy RemoteSigned
 ## 参考：
 
 [^1]: Rye，[官方文档](https://rye-up.com/guide/commands/install/)
-[^2]: Github issues，[`rye install jupyter` does not add `jupyter` to ~/.rye/shims #65 ](https://github.com/astral-sh/rye/issues/65)
-[^3]: 一一风和橘's笔记，@一一风和橘，[Ubuntu设置Jupyter Lab远程访问](https://note.mastermao.cn/100%20%E8%BD%AF%E4%BB%B6%E5%8F%8A%E9%85%8D%E7%BD%AE/101%20Linux/G%20Ubuntu%E9%85%8D%E7%BD%AEJupyterLab%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE/)
+[^2]: 一一风和橘's笔记，@一一风和橘，[Ubuntu设置Jupyter Lab远程访问](https://note.mastermao.cn/100%20%E8%BD%AF%E4%BB%B6%E5%8F%8A%E9%85%8D%E7%BD%AE/101%20Linux/G%20Ubuntu%E9%85%8D%E7%BD%AEJupyterLab%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE/)

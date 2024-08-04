@@ -19,8 +19,8 @@ GITEE_BED = 'https://mastermao.gitee.io/picbed/'
 
 
 def switch_pic_bed(contents):
-    new_contents = [line.replace(GITHUB_BED, GITEE_BED) for line in contents]
-    return new_contents
+    # new_contents = [line.replace(GITHUB_BED, GITEE_BED) for line in contents]
+    return contents
 
 
 def get_html():

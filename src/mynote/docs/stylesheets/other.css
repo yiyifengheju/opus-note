@@ -23,6 +23,11 @@ html {
     scrollbar-width: none;
 }
 
+/*导航栏*/
+.md-tabs__item {
+    padding-right: 2.6rem;
+}
+
 /*.md-sidebar {*/
 /*    width: 350px;*/
 /*}*/
