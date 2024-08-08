@@ -1,5 +1,5 @@
 [project]
-name = "mynote"
+name = "opus-note"
 version = "0.1.0"
 description = "Add your description here"
 dependencies = [
@@ -32,4 +32,4 @@ dev-dependencies = []
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/mynote"]
+packages = ["src/opus_note"]

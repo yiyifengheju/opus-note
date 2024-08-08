@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato-Italic.ttf'), url('./FONTS/Lato.woff2') format('truetype');
+}
+
+@font-face {
+    font-family: "Monaco";
+    src: local('monaco'), url("./FONTS/MONACO.woff2") format('truetype');
+}
+
+@font-face {
+    font-family: 'NotoSerifSC';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NotoSerifSC.otf'), url('./FONTS/NotoSerifSC.subset.otf') format('truetype');
+}
+
+/*@font-face {*/
+/*    font-family: "EBGaramond";*/
+/*    font-size: 16px;*/
+/*    src: url("./FONTS/woff2/EBGaramond-Regular.woff2");*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: "LavishlyYours";*/
+/*    font-size: 16px;*/
+/*    src: url("./FONTS/woff2/LavishlyYours-Regular.woff2");*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: "LiuJianMaoCao";*/
+/*    font-size: 16px;*/
+/*    src: url("./FONTS/woff2/LiuJianMaoCao-Regular.woff2");*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: "Monoton";*/
+/*    font-size: 16px;*/
+/*    src: url("./FONTS/woff2/Monoton.woff2");*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: "PressStart2P";*/
+/*    font-size: 16px;*/
+/*    src: url("./FONTS/woff2/PressStart2P-Regular.woff2");*/
+/*}*/
+
+/*@font-face {*/
+/*    font-family: "ZhiMangXing";*/
+/*    font-size: 16px;*/
+/*    src: url("./FONTS/woff2/ZhiMangXing-Regular.woff2");*/
+/*}*/
+
+:root {
+    --md-code-font: "Monaco";
+    --md-text-font: "Lato", "NotoSerifSC";
+}
+
+/*导航栏字体大小*/
+.md-tabs__link {
+    font-size: 0.8rem;
+}
+
+.md-nav {
+    /*font-size: .75rem;*/
+    line-height: 1.3;
+}
+
+/*jupyter插件*/
+.jupyter-wrapper {
+    --jp-code-font-size: 16px !important;
+}

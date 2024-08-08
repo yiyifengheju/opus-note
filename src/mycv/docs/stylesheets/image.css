@@ -1,0 +1,45 @@
+.glightbox {
+    flex: 1;
+    margin-right: 2px;
+    display: flex;
+    flex-direction: column;
+}
+
+.glightbox img {
+    max-width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+img {
+    -webkit-transition: filter 375ms ease-in .2s, -webkit-transform .6s;
+    -moz-transition: filter 375ms ease-in .2s, -moz-transform .6s;
+    -o-transition: filter 375ms ease-in .2s, -o-transform .6s;
+    -ms-transition: filter 375ms ease-in .2s, -ms-transform .6s;
+    transition: filter 375ms ease-in .2s, transform .6s;
+}
+
+
+/*普通图片*/
+.md-typeset img {
+    max-width: 85%;
+    max-height: 480px;
+    display: grid;
+    box-shadow: 0 5px 10px rgba(20, 20, 20, .2);
+    border-radius: 5px;
+    padding: 0 !important;
+    margin: 0 auto;
+}
+
+/*放大图片大小控制*/
+.gslide-media{
+    max-width: 85% !important;
+    min-width: 60% !important;
+}
+
+/*并排图片*/
+.inline-img {
+    display: flex;
+    justify-content: space-between;
+}
