@@ -1,3 +1,3 @@
-# mynote
+# opus-note
 
 Describe your project here.
