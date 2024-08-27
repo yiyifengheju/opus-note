@@ -155,8 +155,8 @@ plugins:
       zoomable: false
       auto_caption: false
   # 需要安装 rye add mkdocs-jupyter
-#  - mkdocs-jupyter:
-#      ignore: [".ipynb_checkpoints/*.ipynb"]
+  - mkdocs-jupyter:
+      ignore: [".ipynb_checkpoints/*.ipynb"]
 #      ignore: [".ipynb_checkpoints/*.ipynb", "*.py", "*.ipynb"]
 
 
