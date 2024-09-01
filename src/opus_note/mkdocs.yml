@@ -86,9 +86,9 @@ theme:
     # 侧边栏二级展示
     - navigation.tracking
     # 展示方式（多级标题or折叠）
-    - navigation.sections
+    #- navigation.sections
     # 侧边栏不折叠
-    - navigation.expand
+    #- navigation.expand
     # ==================标头设置==================
     # 搜索高亮显示
     - search.highlight
@@ -164,15 +164,15 @@ extra:
   # 页脚社交连接
   social:
     - icon: fontawesome/solid/bath
-      link: https://mastermao.cn
+      link: https://blog.mastermao.cn
     - icon: fontawesome/solid/camera-retro
       link: https://gallery.mastermao.cn
+    - icon: fontawesome/solid/microscope
+      link: https://note.mastermao.cn
     - icon: fontawesome/brands/git
       link: https://gitee.com/mastermao
-    - icon: fontawesome/brands/500px
-      link: https://500px.com.cn/MonsterMao
-    - icon: fontawesome/solid/envelope
-      link: mailto:wego_mao@hotmail.com
+    - icon: fontawesome/solid/dna
+      link: https://onav.mastermao.cn
   # 页脚是否显示 made with Material...
   generator: true
 
@@ -191,6 +191,7 @@ extra_css:
 extra_javascript:
   - javascripts/extra.js
   - javascripts/mathjax.min.js
-  - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - javascripts/after.min.js
+  - https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js
+  - javascripts/fireworks.min.js

@@ -24,9 +24,9 @@ html {
 }
 
 /*导航栏*/
-.md-tabs__item {
-    padding-right: 2.6rem;
-}
+/*.md-tabs__item {*/
+/*    padding-right: 2.6rem;*/
+/*}*/
 
 /*.md-sidebar {*/
 /*    width: 350px;*/
@@ -40,11 +40,7 @@ html {
 html #sakana-widget {
     position: fixed;
     right: 15%;
-    top: 8%;
+    bottom: 8%;
     transform-origin: 100% 100%; /* 从右下开始变换 */
     z-index: 9;
-}
-
-.md-sidebar--secondary {
-    top: 270px !important;
 }

@@ -16,6 +16,9 @@ dependencies = [
     "notebook>=7.2.1",
     "jupyterlab>=4.2.4",
     "cleanlab[all]>=2.6.6",
+    "ngboost>=0.5.1",
+    "seaborn>=0.13.2",
+    "shap>=0.46.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
