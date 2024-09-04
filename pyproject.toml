@@ -4,9 +4,9 @@ version = "0.1.0"
 description = "Add your description here"
 dependencies = [
     "fonttools>=4.53.1",
-    "mkdocs-material>=9.5.28",
+    "mkdocs-material>=9.5.34",
     "mkdocs-glightbox>=0.4.0",
-    "neoteroi-mkdocs>=1.0.5",
+    "neoteroi-mkdocs>=1.1.0",
     "mkdocs-jupyter>=0.24.8",
     "tqdm>=4.66.4",
     "pillow>=10.4.0",
@@ -19,6 +19,8 @@ dependencies = [
     "ngboost>=0.5.1",
     "seaborn>=0.13.2",
     "shap>=0.46.0",
+    "catboost>=1.2.5",
+    "regex>=2024.7.24",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"

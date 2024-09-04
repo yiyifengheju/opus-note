@@ -11,11 +11,11 @@ document$.subscribe(() => {
     // END====================================================
 
     // 石蒜模拟器====================================================
-    var script = document.createElement('script');
-    script.async = true;
-    script.onload = initSakanaWidget;
-    script.src = 'https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.js';
-    document.head.appendChild(script);
+    // var script = document.createElement('script');
+    // script.async = true;
+    // script.onload = initSakanaWidget;
+    // script.src = 'https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.js';
+    // document.head.appendChild(script);
     // END====================================================
 
     // Vanilla图片懒加载================================================
@@ -29,11 +29,13 @@ document$.subscribe(() => {
 
     // Lightbox重新加载================================================
     lightbox.reload();
-
-    var script2 = document.createElement('script');
-    script2.async = false;
-    script2.onload = setCanvasSize;
-    script2.src = '/javascripts/fireworks.min.js';
-    document.head.appendChild(script2);
+    // END====================================================
+    
+    // fireworks================================================
+    // var script2 = document.createElement('script');
+    // script2.async = false;
+    // script2.onload = setCanvasSize;
+    // script2.src = '/javascripts/fireworks.min.js';
+    // document.head.appendChild(script2);
     // END====================================================
 });
