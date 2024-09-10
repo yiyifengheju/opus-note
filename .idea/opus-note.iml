@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/src/opus_note/site" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (opus-note)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.11 (opus-note) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

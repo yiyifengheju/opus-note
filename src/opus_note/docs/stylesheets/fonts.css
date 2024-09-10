@@ -2,6 +2,7 @@
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
+    font-size: 40px;
     src: local('Lato-Italic.ttf'), url('./FONTS/Lato.woff2') format('truetype');
 }
 
@@ -14,6 +15,7 @@
     font-family: 'NotoSerifSC';
     font-style: normal;
     font-weight: 400;
+    font-size: 40px;
     src: local('NotoSerifSC.otf'), url('./FONTS/NotoSerifSC.subset.otf') format('truetype');
 }
 
@@ -55,12 +57,12 @@
 
 :root {
     --md-code-font: "Monaco";
-    --md-text-font: "Lato", "NotoSerifSC";
+    --md-text-font: "Lato", "NotoSerifSC", serif;
 }
 
 /*导航栏字体大小*/
 .md-tabs__link {
-    font-size: 0.8rem;
+    font-size: 0.85rem;
 }
 
 .md-nav {
