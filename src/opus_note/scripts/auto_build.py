@@ -13,9 +13,13 @@ import os
 import shutil
 
 import tqdm
+from markdown.inlinepatterns import NOT_STRONG_RE
 
 GITHUB_BED = 'https://cdn.jsdelivr.net/gh/yiyifengheju/picbed@main/'
 GITEE_BED = 'https://mastermao.gitee.io/picbed/'
+
+FONT_SRC_NOTO = 'NotoSerifSC-SemiBold.otf'
+FONT_DST_NOTO = 'NotoSerifSC-SemiBold.subset.otf'
 
 
 def switch_pic_bed(contents):
@@ -74,12 +78,12 @@ def generate_fonts(letter_list):
     with open('./Fonts/sc_unicode.txt', 'w', encoding='utf8') as f:
         f.writelines(char_unicode)
 
-    cmd = 'cd ./Fonts && pyftsubset NotoSerifSC.otf --unicodes-file=sc_unicode.txt'
+    cmd = f'cd ./Fonts && pyftsubset {FONT_SRC_NOTO} --unicodes-file=sc_unicode.txt'
     re = os.system(cmd)
     assert [1, 0][re], '生成字体失败'
     if not os.path.exists('../site/stylesheets/FONTS'):
         os.mkdir('../site/stylesheets/FONTS')
-    shutil.copy('./Fonts/NotoSerifSC.subset.otf', '../site/stylesheets/FONTS/NotoSerifSC.subset.otf')
+    shutil.copy(f'./Fonts/{FONT_DST_NOTO}', f'../site/stylesheets/FONTS/{FONT_DST_NOTO}')
     shutil.copy('./Fonts/Lato.woff2', '../site/stylesheets/FONTS/Lato.woff2')
     shutil.copy('./Fonts/monaco.woff2', '../site/stylesheets/FONTS/monaco.woff2')
 

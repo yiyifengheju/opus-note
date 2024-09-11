@@ -1,6 +1,6 @@
 /*内容宽度*/
 .md-grid {
-    max-width: 80%;
+    max-width: 90%;
 }
 
 /*导航栏缩进*/
@@ -34,10 +34,10 @@ html {
 
 
 /*石蒜模拟器*/
-html #sakana-widget {
-    position: fixed;
-    right: 15%;
-    bottom: 8%;
-    transform-origin: 100% 100%; /* 从右下开始变换 */
-    z-index: 9;
-}
+/*html #sakana-widget {*/
+/*    position: fixed;*/
+/*    right: 15%;*/
+/*    bottom: 8%;*/
+/*    transform-origin: 100% 100%; !* 从右下开始变换 *!*/
+/*    z-index: 9;*/
+/*}*/

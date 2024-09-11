@@ -2,7 +2,6 @@
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    font-size: 40px;
     src: local('Lato-Italic.ttf'), url('./FONTS/Lato.woff2') format('truetype');
 }
 
@@ -15,8 +14,7 @@
     font-family: 'NotoSerifSC';
     font-style: normal;
     font-weight: 400;
-    font-size: 40px;
-    src: local('NotoSerifSC.otf'), url('./FONTS/NotoSerifSC.subset.otf') format('truetype');
+    src: local('NotoSerifSC-SemiBold.subset.otf'), url('./FONTS/NotoSerifSC-SemiBold.subset.otf') format('truetype');
 }
 
 /*@font-face {*/

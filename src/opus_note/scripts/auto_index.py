@@ -26,6 +26,8 @@ def generate_toml(path):
         for folder in folders:
             if folder == 'info.toml':
                 continue
+            if folder == 'index.md':
+                continue
             if folder not in info_dict.keys():
                 info_dict[folder] = {'info': ''}
     else:
@@ -36,7 +38,7 @@ def generate_toml(path):
 
 
 def generate_index(path):
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🐸 机器学习'
+    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎁 机器学习'
     with open(os.path.join(path, 'info.toml'), "rb") as f:
         info = tomllib.load(f)
     folders = os.listdir(path)
@@ -105,11 +107,11 @@ def generate_index(path):
 
 
 if __name__ == '__main__':
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\☘️ 软件及配置'
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🌵 前端'
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🍈 Python'
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🐸 机器学习'
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🥦 其他编程\🍏 C'
-    path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🥦 其他编程\🍐 Rust'
+    path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎀 软件及配置'
+    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎈 前端'
+    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎈 Python'
+    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎁 机器学习'
+    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎈 其他编程\🍏 C'
+    # path = r'/opus_note/docs/🎈 其他编程\🍐 Rust'
     generate_toml(path)
     generate_index(path)
