@@ -1,5 +1,6 @@
 ---
 title: ✌️ PyQt5开发环境配置
+date: 2021-06-29
 comments: true
 ---
 ## 壹丨环境
@@ -20,8 +21,6 @@ pip install pyqt5
 ```bash
 pip uninstall pyqt5
 ```
-
-
 
 ## 贰丨配置QtDesigner和PyUIC
 

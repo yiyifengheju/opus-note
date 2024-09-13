@@ -3,6 +3,10 @@ title: 😀 Mkdocs新建环境
 comments: true
 ---
 
+[MkDocs](https://www.mkdocs.org/)是一个快速、简单、华丽的静态站点生成器，适用于构建项目文档。文档源码使用Markdown来撰写，用一个YAML文件作为配置文件。它可以构建静态HTML站点并托管到GitHub Pages等地方。主题可以在[这里](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)找到。
+
+[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)是一个MkDocs的主题（每月下载量最多），Material for MkDocs特点包括开源、内置搜索、代码注释、社交卡与emoji支持
+
 ## 壹丨新建环境
 
 安装MkDocs

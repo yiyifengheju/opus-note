@@ -3,9 +3,9 @@ title: 🎈 前端
 comments: false
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
--   1️⃣ __环境配置__
+-   :frog: __环境配置__
 
 	---
 
@@ -13,7 +13,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./1️⃣ 环境配置/index.md)
 
--   2️⃣ __MkDocs__
+-   :simple-materialformkdocs: __MkDocs__
 
 	---
 
@@ -21,7 +21,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./2️⃣ MkDocs/index.md)
 
--   3️⃣ __MinIO__
+-   :simple-minio: __MinIO__
 
 	---
 
@@ -29,7 +29,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./3️⃣ MinIO/index.md)
 
--   4️⃣ __Markdown__
+-   :simple-markdown: __Markdown__
 
 	---
 
@@ -37,7 +37,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./4️⃣ Markdown/index.md)
 
--   5️⃣ __Apache__
+-   :simple-apache: __Apache__
 
 	---
 
@@ -45,7 +45,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./5️⃣ Apache/index.md)
 
--   6️⃣ __Hexo__
+-   :simple-hexo: __Hexo__
 
 	---
 
@@ -53,12 +53,20 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./6️⃣ Hexo/index.md)
 
--   7️⃣ __字体__
+-   :fontawesome-solid-font: __字体__
 
 	---
 
 	
 
 	[:octicons-arrow-right-24: Getting started](./7️⃣ 字体/index.md)
+
+-   :simple-notion: __Notion__
+
+	---
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./8️⃣ Notion/index.md)
 
 </div>

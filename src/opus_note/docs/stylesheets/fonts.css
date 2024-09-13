@@ -53,6 +53,10 @@
 /*    src: url("./FONTS/woff2/ZhiMangXing-Regular.woff2");*/
 /*}*/
 
+html{
+    font-size: 24px;
+}
+
 :root {
     --md-code-font: "Monaco";
     --md-text-font: "Lato", "NotoSerifSC", serif;
@@ -60,11 +64,11 @@
 
 /*导航栏字体大小*/
 .md-tabs__link {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
 }
 
 .md-nav {
-    /*font-size: .75rem;*/
+    font-size: .7rem;
     line-height: 1.3;
 }
 

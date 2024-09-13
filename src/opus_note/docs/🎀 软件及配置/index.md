@@ -3,9 +3,9 @@ title: 🎀 软件及配置
 comments: false
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
--   0️⃣ __开源软件__
+-   :simple-opensourceinitiative: __开源软件__
 
 	---
 
@@ -13,7 +13,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./0️⃣ 开源软件/index.md)
 
--   1️⃣ __Linux(Ubuntu)__
+-   :simple-ubuntu: __Linux(Ubuntu)__
 
 	---
 
@@ -21,7 +21,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./1️⃣ Linux(Ubuntu)/index.md)
 
--   2️⃣ __WSL__
+-   :simple-linux: __WSL__
 
 	---
 
@@ -29,7 +29,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./2️⃣ WSL/index.md)
 
--   3️⃣ __Windows__
+-   :fontawesome-brands-windows: __Windows__
 
 	---
 
@@ -37,7 +37,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./3️⃣ Windows 10/index.md)
 
--   4️⃣ __Windows11__
+-   :fontawesome-brands-windows: __Windows11__
 
 	---
 
@@ -45,12 +45,28 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./4️⃣ Windows11/index.md)
 
--   5️⃣ __Git__
+-   :simple-git: __Git__
 
 	---
 
 	Git是一个开源的分布式版本控制系统，用于有效、高速地处理从小到大的项目版本管理。它由Linus Torvalds创建，支持分支和合并操作，广泛用于软件开发中以协调代码变更和多人协作。
 
 	[:octicons-arrow-right-24: Getting started](./5️⃣ Git/index.md)
+
+-   :material-apple: __macOS__
+
+	---
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./6️⃣ macOS/index.md)
+
+-   :simple-leagueoflegends: __英雄联盟__
+
+	---
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./7️⃣ 英雄联盟/index.md)
 
 </div>

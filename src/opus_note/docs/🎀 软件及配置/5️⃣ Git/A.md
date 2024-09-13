@@ -40,7 +40,7 @@ ssh-keygen -t rsa -C "youremail"
 cat ~/.ssh/id_rsa.pub
 ```
 
-将 id_rsa.pub 文件的内容复制，并将其粘贴到 GitHub 的——Setting——SSH keys——New SSH key中
+将`id_rsa.pub`文件的内容复制，并将其粘贴到GitHub的Setting——SSH keys——New SSH key中
 
 ### 5. 测试连接
 

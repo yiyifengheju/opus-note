@@ -3,15 +3,15 @@ div#waline {
 }
 
 .wl-editor {
-    min-height: 3em !important;
+    min-height: 2rem !important;
 }
 
 .wl-count {
-    font-size: 1em !important;
+    font-size: 0.85rem !important;
 }
 
 .wl-empty {
-    font-size: 0.8em !important;
+    font-size: 0.8rem !important;
 }
 
 .wl-card .wl-delete, .wl-card .wl-like, .wl-card .wl-reply, .wl-card .wl-edit {
@@ -23,7 +23,6 @@ div#waline {
 }
 
 :root {
-    --waline-avatar-size: 2em !important;
-    --waline-font-size: 0.75rem !important;
-
+    --waline-avatar-size: 2rem !important;
+    --waline-font-size: 0.85rem !important;
 }

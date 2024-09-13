@@ -3,9 +3,9 @@ title: 🎁 机器学习
 comments: false
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
--   1️⃣ __开源数据集__
+-   :simple-kaggle: __开源数据集__
 
 	---
 
@@ -13,7 +13,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./1️⃣ 开源数据集/index.md)
 
--   3️⃣ __ML相关概念__
+-   :simple-scikitlearn: __ML相关概念__
 
 	---
 
@@ -21,7 +21,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./3️⃣ ML相关概念/index.md)
 
--   4️⃣ __集成学习__
+-   :simple-scikitlearn: __集成学习__
 
 	---
 
@@ -29,7 +29,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./4️⃣ 集成学习/index.md)
 
--   5️⃣ __超参数优化__
+-   :simple-scikitlearn: __超参数优化__
 
 	---
 
@@ -37,7 +37,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./5️⃣ 超参数优化/index.md)
 
--   6️⃣ __模型可解释性__
+-   :simple-scikitlearn: __模型可解释性__
 
 	---
 
@@ -45,7 +45,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./6️⃣ 模型可解释性/index.md)
 
--   7️⃣ __置信学习__
+-   :simple-scikitlearn: __置信学习__
 
 	---
 
@@ -53,7 +53,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./7️⃣ 置信学习/index.md)
 
--   8️⃣ __NGBoost__
+-   :simple-scikitlearn: __NGBoost__
 
 	---
 
@@ -61,7 +61,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./8️⃣ NGBoost/index.md)
 
--   9️⃣ __CatBoost__
+-   :simple-scikitlearn: __CatBoost__
 
 	---
 

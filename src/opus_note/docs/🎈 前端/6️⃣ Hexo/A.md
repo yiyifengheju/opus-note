@@ -1,177 +1,227 @@
 ---
-title: 🛌 Hexo-NexT为文章添加介绍卡片
-date: 2023-10-12
+title: 🐬 Hexo配置记录
+date: 2021-06-26
 comments: true
 ---
 
-### 第一步，修改Nunjucks模板  
+## 壹丨安装Hexo
 
-![image-20231012225334351](https://my-gallery-1306340269.cos.ap-beijing.myqcloud.com/mastermao/image-20231012225334351.png)
+第一步，安装NodeJS，参考：
 
-位于：`themes/next/layout/_macro/post.njk` 
+<div class="grid cards" markdown>
 
-锁定展示框的位置，应该放在`<header>`之后，`{{theme.read_more_btn}}`之前：
+-   :simple-nodedotjs:{ .lg .middle }  __安装NodeJS__
 
-```html
-{#################}
-{### POST BODY ###}
-{#################}
-<div class="post-body{% if post.direction and post.direction.toLowerCase() === 'rtl' %} rtl{% endif %}" itemprop="articleBody">
-    ...
+    ---
+
+
+    [:octicons-arrow-right-24: Getting started](../1️⃣ 环境配置/B.md)
+
+</div>
+
+第二步，安装`Hexo`
+
+```bash
+sudo npm install -g hexo-cli
 ```
 
-添加：  
+第三步，（可选）安装`deployer`
 
-```html
-{% set randomClass = 'random-bg-' + range(1, 55) | random %}
-<myheader class="{{randomClass}}">
-    <my_black_layer>
-      <div class="upper-myheader">
-        <div class="mini-title">{{post.article_type}}</div>
-        <div class="date-since">
-          <img src="/lib/svg/cloc.svg">
-          <p><span class="date-value" id="sinceData">{{post.lines}} 行</span></p></div>
-      </div>
-      <div class="lower-myheader">
-        <div class="title">{{post.title}}</div>
-        <p class="subtitle">{{post.subtitle}}</p></div>
-    </my_black_layer>
-</myheader>
+```bash
+sudo npm install hexo-deployer-git --save
 ```
 
-使用的关键字包括：
+## 贰丨新建博客
 
-| 关键字              | 含义           |
-| ------------------- | -------------- |
-| `post.article_type` | 文章类型       |
-| `post.lines`        | 文章行数、长度 |
-| `post.title`        | 文章标题       |
-| `post.subtitle`     | 文章副标题     |
+### 第一步，博客初始化
 
-上述关键字可以在博客头部定义，可以通过修改post模板文件实现自动添加上述关键词。
-
-位于：`scaffolds/post.md`。修改如下：
-
-```markdown
----
-title: {{ title }}
-date: {{ date }}
-subtitle: 
-article_type: 
-lines:
-categories:
-
-tags:
-
----
-<div></div>
-<!--more-->
+```bash
+mkdir hexo-site
 ```
 
-### 第二步，设置随机图片
-
-通过Nunjucks产生[1, 55]的随机数（取决于有多少张背景图片），然后形成随机类名`random-bg-x`，传递到`{{randomClass}}` ，如：
-
-```html
-{% set randomClass = 'random-bg-' + range(1, 55) | random %}
-<myheader class="{{randomClass}}">
+```bash
+cd hexo-site
 ```
 
-这样一来，可以直接定义随机类名的CSS，以对应上不同的背景图片。  
-
-使用SCSS可以产生随机数并定义对应的随机类，如：
-
-```scss
-$photoList: (
-        "url(/lib/images/photo-1514908866475-59af9c4069bb.webp)",
-        "url(/lib/images/photo-1624291732715-8f01d3a22138.webp)",
-        "url(/lib/images/photo-1613100354134-eeaf0ca9ae41.webp)",
-);
-
-@for $i from 1 through 60 {
-  .random-bg-#{$i} {
-    $index: random(length($photoList)); // 生成随机索引
-    $photo: nth($photoList, $index); // 获取列表中的对应项
-    background-image: #{$photo}; // 生成背景图像URL
-  }
-}
+```bash
+hexo init
 ```
 
-??? tip "JS方法（存在Bug）"
+> __配置文件介绍__
+>
+> `~/hexo-site/_config.yml`，博客网站配置文件
+> `~/hexo-site/themes/next/_config.yml`，主题配置文件
+>
+> Tips：将主题配置文件复制到博客目录下并改名为：`~/hexo-site/_config.next.yml`，这样每次升级主题时只需要覆盖主题文件夹
 
-    第一步，修改NexT模板
+### 第二步，使用[NexT主题](https://theme-next.js.org)
+
+> 官方提供了git方法和npm方法，其中，npm方法安装的主题文件位于`~/hexo-site/node_modules/next`下，本文推荐git方法。
+
+安装主题：
+
+```bash
+cd hexo-site
+```
+
+```bash
+git clone https://github.com/next-theme/hexo-theme-next themes/next
+```
+
+> __升级主题__
+>
+> ```bash
+> cd hexo-site
+> ```
+>
+> ```bash
+> cd themes/next
+> ```
+>
+> ```bash
+> git pull origin master
+> ```
+
+### 第三步，启用NexT主题
+
+博客配置文件`~/hexo-site/_config.yml`
+
+```bash ~/hexo-site/_config.yml
++ theme: next
+```
+
+### 第四步，本地预览
+
+```bash
+# 清除缓存
+hexo clean
+# 生成静态网页
+hexo g
+# 本地预览
+hexo s
+```
+
+打开默认端口http://localhost:4000即可本地预览
+
+## 叁丨部署
+
+>网页托管服务很多，如 Github Pages、Gitee Pages、Coding 持续集成、Cloudflare Pages 、Vercel等……
+
+> Coding、Gitee 为国内服务提供商，需要实名认证，其中 Coding 和鹅云联系密切，需要 **超大量** 的认证工作，没个三五天搞不完。Cloudflare Pages、Github Pages、Vercel 为国外服务提供商，相对而言访问速度较慢。
+
+| 服务             | 优点                                            | 缺点                                                         |
+| ---------------- | ----------------------------------------------- | ------------------------------------------------------------ |
+| Coding           | 速度快<br/>可被百度爬取                         | 需要认证的太多<br/>构建过程漫长<br>(部署过程繁琐，需要配置鹅云权限、各种实名认证) |
+| Github Pages     | 部署简单<br/>构建速度快                         | 访问速度慢<br/>不能被百度收录                                |
+| Cloudflare Pages | 部署简单<br/>部署&自定义域名一条龙<br/>速度还行 | 不能百度收录                                                 |
+| Gitee Pages      | 速度快                                          | 上传后需要手动部署<br/>不能避免审查<br>__现已下线__          |
+| Vercel           | 部署简单<br/>自带域名解析                       | 不能百度收录                                                 |
+
+> Vercel部署方法最简单，这里不再赘述
+
+!!! note "Github部署方法"
+
+    第一步，新建仓库，命名为：
     
-    位于：`themes/next/layout/_macro/post.njk`
-    
-    ```html
-    {#################}
-    {### POST BODY ###}
-    {#################}
-    <div class="post-body{% if post.direction and post.direction.toLowerCase() === 'rtl' %} rtl{% endif %}" itemprop="articleBody">
-        ...
+    ```bash
+    用户名.github.io
     ```
     
-    添加图片条模板
+    第二步，修改配置文件
     
-    ```html
-    <myheader class="random-bg">
-        <my_black_layer>
-          <div class="upper-myheader">
-            <div class="mini-title">{{post.article_type}}</div>
-            <div class="date-since">
-              <img src="lib/svg/cloc.svg">
-              <p><span class="date-value" id="sinceData">{{post.lines}} 行</span></p></div>
-          </div>
-          <div class="lower-myheader">
-            <div class="title">{{post.title}}</div>
-            <p class="subtitle">{{post.subtitle}}</p></div>
-        </my_black_layer>
-    </myheader>
+    修改`~/hexo-site/_config.yml`：
+    
+    ```bash ~/hexo-site/_config.yml
+    + deploy:
+    +   type: git
+    +   repo: git@github.com:用户名/用户名.github.io.git
+    +   branch: master
     ```
     
-    使用的关键字包括：
+    第三步，部署博客
     
-    | 关键字              | 含义           |
-    | ------------------- | -------------- |
-    | `post.article_type` | 文章类型       |
-    | `post.lines`        | 文章行数、长度 |
-    | `post.title`        | 文章标题       |
-    | `post.subtitle`     | 文章副标题     |
-    
-    第二步，配置JS脚本设置随机背景
-    
-    在`source/_data/body-end.njk`中添加：
-    
-    ```html
-    <script>
-        // 获取所有具有 "random-bg" 类的 myheader 元素
-        var myHeaders = document.getElementsByClassName("random-bg");
-    
-        // 定义一些可能的背景图像URL
-        var bgImages = [
-            "url(lib/images/photo-1551668231-6a07c2b7d544.webp)",
-            "url(lib/images/photo-1553603227-2358aabe821e.webp)",
-            "url(lib/images/photo-1561998344-4bf90978561d.webp)",
-        ];
-    
-        // 为每个 myheader 元素分配随机背景图像
-        Array.from(myHeaders).forEach(function (header) {
-            // 生成一个随机索引
-            var randomIndex = Math.floor(Math.random() * bgImages.length);
-    
-            // 设置随机背景图像
-            header.style.backgroundImage = bgImages[randomIndex];
-        });
-    </script>
+    ```bash
+    hexo deploy
+    # 或
+    hexo d
     ```
     
-    > 然而，使用JS时只能对第一页的文章添加背景图片。由于使用了PJAX，切换页面时没有可监听的事件，导致JS脚本无法再次执行，也就是无法生成随机背景。
+    打开Git仓库，Settings——Pages——自行配置。打开`http://用户名.github.io`即可看到博客。
+
+## 肆丨设置个人域名
+
+> Vercel的设置方法比较简单，不再赘述
+
+!!! note "以阿里云为例"
+
+    __第一步，添加解析__：阿里云控制台——域名——解析——添加A记录：
+    
+    ```c
+    // 解析线路：默认
+    // 记录类型：A
+    
+    // 主机记录：@
+    // 记录值：下述任选一即可
+    ```
+    
+    ***使用 [IPAddress.com](https://www.ipaddress.com/) 查找 `github.io` 的地址：***
+    
+    ```bash
+    185.199.108.153
+    185.199.109.153
+    185.199.110.153
+    185.199.111.153
+    ```
+    
+    添加CNAME记录：
+    
+    ```C
+    // 解析线路，默认
+    // 记录类型，CNAME
+    // 主机记录，www
+    // 记录值，用户名.github.io
+    ```
+    
+    __第二步，本地配置__
+    
+    ```bash
+    cd ~/hexo-site/source
+    touch CNAME
+    nano CNAME
+    # 写入域名并保存
+    ```
+    
+    > 或者执行下一步会自动添加CNAME文件
+    
+    __第三步，GitHub 配置__
+    
+    仓库——setting——Custom domain——添加域名——填入域名
 
 
+!!! note "Cloudflare实现HTTPS"
 
+    第一步，Cloudflare注册：www.cloudflare.com；
+    
+    第二步，获取DNS服务器地址：Add Site——添加域名——扫描DNS记录——分配两个DNS——盛出备用；
+    
+    第三步，替换阿里云默认DNS服务器：阿里云——域名控制台——域名——管理——基本信息——修改DNS——添加分配的两个DNS地址——保存
 
+## 伍丨写作软件推荐
 
+| 软件   | 平台                                                       | 推荐度                         | 网站                           |
+| ------ | ---------------------------------------------------------- | ------------------------------ | ------------------------------ |
+| MWeb   | :simple-macos:                                             | :star::star::star::star:       | https://zh.mweb.im/            |
+| Typora | :simple-macos: :fontawesome-brands-windows: :simple-linux: | :star::star::star::star::star: | https://typora.io/             |
+| VSCode | :simple-macos: :fontawesome-brands-windows: :simple-linux: | :star::star::star:             | https://code.visualstudio.com/ |
+| 妙言   | :simple-macos:                                             | :star::star:                   | https://miaoyan.app/           |
 
+## 参考
 
-
+> [1] CSDN，@HongtaiWolf，[Mac下使用Homebrew安装nginx报错](https://blog.csdn.net/D516701881/article/details/107421940)
+>
+> [2] 知乎，@seay，[手把手教从零开始在GitHub上使用Hexo搭建博客教程(一)-附GitHub注册及配置](https://zhuanlan.zhihu.com/p/22405775)
+>
+> [3] CSDN，@yucicheung，[为GitHub Page绑定自定义域名并实现HTTPS访问 ](https://blog.csdn.net/yucicheung/article/details/79560027)
+>
+> [4] 知乎，@Momo，[MWeb配合Hexo高效管理博客](https://zhuanlan.zhihu.com/p/30513914)
 

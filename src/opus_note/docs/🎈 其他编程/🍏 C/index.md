@@ -3,9 +3,9 @@ title: 🍏 C
 comments: false
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
--   1️⃣ __环境配置__
+-   :simple-clion: __环境配置__
 
 	---
 
@@ -13,7 +13,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./1️⃣ 环境配置/index.md)
 
--   2️⃣ __基础编程__
+-   :simple-c: __基础编程__
 
 	---
 
@@ -21,7 +21,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./2️⃣ 基础编程/index.md)
 
--   3️⃣ __C工程API文档__
+-   :simple-c: __C工程API文档__
 
 	---
 
@@ -29,7 +29,7 @@ comments: false
 
 	[:octicons-arrow-right-24: Getting started](./3️⃣ C工程API文档/index.md)
 
--   4️⃣ __嵌入式编程__
+-   :simple-c: __嵌入式编程__
 
 	---
 

@@ -29,10 +29,10 @@ def generate_toml(path):
             if folder == 'index.md':
                 continue
             if folder not in info_dict.keys():
-                info_dict[folder] = {'info': ''}
+                info_dict[folder] = {'info': '','emoji':''}
     else:
         for folder in folders:
-            info_dict[folder] = {'info': ''}
+            info_dict[folder] = {'info': '','emoji':''}
     with open(os.path.join(path, 'info.toml'), "w", encoding='utf-8') as f:
         toml.dump(info_dict, f)
 
@@ -48,19 +48,20 @@ def generate_index(path):
                          'comments: false\n',
                          '---\n',
                          '\n'
-                         '<div class="grid cards" markdown>\n\n']
+                         '<div class="grid cards index-info" markdown>\n\n']
     pth_folder_index = os.path.join(path, 'index.md')
     for folder in folders:
         pth = os.path.join(path, folder)
         # print(pth)
         if not os.path.isdir(pth):
             continue
-        fa = folder.split(' ')[0]
+        fa = info[folder]['emoji'] or folder.split(' ')[0]
         fo = folder.split(' ')[1]
         folder_info = [f'-   {fa} __{fo}__\n\n',
                        '\t---\n\n',
                        f'\t{info[folder]["info"]}\n\n',
-                       f'\t[:octicons-arrow-right-24: Getting started](./{folder}/index.md)\n\n']
+                       f'\t[:octicons-arrow-right-24: Getting started](./{folder}/index.md)\n\n',
+                       ]
         folder_index_list.extend(folder_info)
         files = os.listdir(pth)
         pth_index = os.path.join(path, folder, 'index.md')
@@ -107,11 +108,7 @@ def generate_index(path):
 
 
 if __name__ == '__main__':
-    path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎀 软件及配置'
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎈 前端'
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎈 Python'
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎁 机器学习'
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎈 其他编程\🍏 C'
-    # path = r'/opus_note/docs/🎈 其他编程\🍐 Rust'
+    folders = ['🎀 软件及配置','🎁 信号处理','🎁 机器学习','🎈 Python','🎈 前端','🎈 其他编程/🍏 C','🎈 其他编程/🍐 Rust']
+    path = f'../docs/{folders[5]}'
     generate_toml(path)
     generate_index(path)

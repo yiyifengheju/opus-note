@@ -154,9 +154,36 @@ plugins:
   - glightbox:
       zoomable: false
       auto_caption: false
+      skip_classes:
+        - no-glb
+        - bandage
+  - blog:
+      post_date_format: full
+      post_url_date_format: yyyy/MM/dd
+      post_url_format: "{date}/{slug}"
+      post_excerpt_separator: <!-- more -->
+      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+      post_readtime: true
+      post_readtime_words_per_minute: 265
+      archive: true
+      archive_name: Archive
+      archive_date_format: yyyy
+      archive_url_date_format: yyyy
+      archive_url_format: "archive/{date}"
+      archive_toc: false
+      categories: true
+      categories_name: Categories
+      categories_url_format: "category/{slug}"
+      categories_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+      categories_toc: false
+      pagination_per_page: 5
   # 需要安装 rye add mkdocs-jupyter
-#  - mkdocs-jupyter:
-#      ignore: [".ipynb_checkpoints/*.ipynb"]
+  - mkdocs-jupyter:
+      ignore: [".ipynb_checkpoints/*.ipynb"]
 #      ignore: [".ipynb_checkpoints/*.ipynb", "*.py", "*.ipynb"]
 
 

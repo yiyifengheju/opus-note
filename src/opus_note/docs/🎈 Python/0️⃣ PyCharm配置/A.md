@@ -10,22 +10,22 @@ comments: true
 
 ```python
 """
-=========================================================================
+===================================================================
 @File Name: ${NAME}.py
 @Time: ${DATE} ${TIME}
-@Program IDE：${PRODUCT_NAME}
+@Program IDE: ${PRODUCT_NAME}
 @Create by Author: 一一风和橘
 @Motto: "The trick, William Potter, is not minding that it hurts."
 @Description:
 - 
 - 
-=========================================================================
+===================================================================
 """
 ```
 
 ??? note "附：PyCharm关键字"
 
-	```
+	```bash
 	${NAME} - 新建文件过程中设置的新文件名称；
 	${DATE} - 系统日期；
 	${TIME} - 系统时间；

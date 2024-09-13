@@ -21,15 +21,13 @@ img {
 }
 
 
-/*普通图片*/
 .md-typeset img {
     max-width: 85%;
-    max-height: 480px;
+    /* max-height: 480px; */
     display: grid;
-    box-shadow: 0 5px 10px rgba(20, 20, 20, .2);
+    box-shadow: 0 5px 10px rgba(20,20,20,.2);
     border-radius: 5px;
-    padding: 0 !important;
-    margin: 0 auto;
+    margin: 10px auto 0;
 }
 
 /*放大图片大小控制*/
