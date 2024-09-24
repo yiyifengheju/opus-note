@@ -112,7 +112,6 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.inlinehilite
@@ -190,10 +189,19 @@ plugins:
 extra:
   # 页脚社交连接
   social:
+    # Home
+    - icon: simple/googlehome
+      link: https://note.mastermao.cn
+    #  ONAV
+    - icon: simple/digitalocean
+      link: https://onav.mastermao.cn
+    # blog
     - icon: fontawesome/solid/bath
       link: https://blog.mastermao.cn
+    # Gallery
     - icon: fontawesome/solid/camera-retro
       link: https://gallery.mastermao.cn
+    # Note
     - icon: fontawesome/solid/microscope
       link: https://note.mastermao.cn
     - icon: fontawesome/brands/git
@@ -220,5 +228,5 @@ extra_javascript:
   - javascripts/mathjax.min.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - javascripts/after.min.js
-  - https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js
-  - javascripts/fireworks.min.js
+#  - https://cdn.jsdelivr.net/npm/animejs@3.2.2/lib/anime.min.js
+#  - javascripts/fireworks.min.js

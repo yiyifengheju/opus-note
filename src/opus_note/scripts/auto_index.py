@@ -29,10 +29,10 @@ def generate_toml(path):
             if folder == 'index.md':
                 continue
             if folder not in info_dict.keys():
-                info_dict[folder] = {'info': '','emoji':''}
+                info_dict[folder] = {'info': '', 'emoji': ''}
     else:
         for folder in folders:
-            info_dict[folder] = {'info': '','emoji':''}
+            info_dict[folder] = {'info': '', 'emoji': ''}
     with open(os.path.join(path, 'info.toml'), "w", encoding='utf-8') as f:
         toml.dump(info_dict, f)
 
@@ -108,7 +108,13 @@ def generate_index(path):
 
 
 if __name__ == '__main__':
-    folders = ['🎀 软件及配置','🎁 信号处理','🎁 机器学习','🎈 Python','🎈 前端','🎈 其他编程/🍏 C','🎈 其他编程/🍐 Rust']
+    folders = ['🎀 软件及配置',
+               '🎁 信号处理',
+               '🎁 机器学习',
+               '🎈 Python',
+               '🎈 其他编程',
+               '🎈 前端',
+               '🏅 我的脚本']
     path = f'../docs/{folders[5]}'
     generate_toml(path)
     generate_index(path)

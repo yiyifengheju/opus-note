@@ -9,16 +9,20 @@ comments: true
 
 ## 壹丨新建环境
 
+```bash
+rye add mkdocs-material mkdocs-glightbox neoteroi-mkdocs fonttools mkdocs-jupyter mkdocstrings-python
+```
+
 安装MkDocs
 
 ```bash
-pip install mkdocs-material
+rye add mkdocs-material
 ```
 
-安装glightbox
+安装`glightbox`
 
 ```bash
-pip install mkdocs-glightbox
+rye add mkdocs-glightbox
 ```
 
 安装扩展插件
@@ -26,7 +30,7 @@ pip install mkdocs-glightbox
 !!! note "[Roberto Prevato编写的几个MkDocs插件](https://www.neoteroi.dev/mkdocs-plugins/)"
 
 ```bash
-pip install neoteroi-mkdocs
+rye add neoteroi-mkdocs
 ```
 
 !!! note "MkDocs-Jupyter"
@@ -34,19 +38,25 @@ pip install neoteroi-mkdocs
     [MkDocs-Jupyter](https://github.com/danielfrg/mkdocs-jupyter#readme)：在MkDocs中使用Jupyter Notebook
     
     ```bash
-    pip install mkdocs-jupyter
+    rye add mkdocs-jupyter
     ```
     
     当报错`ImportError: cannot import name 'AstRenderer' from 'mistune.renderers' (/home/MasterMao/anaconda3/envs/MasterMaoPy311/lib/python3.11/site-packages/mistune/renderers/__init__.py)`时，需要更新下`mistune`：
     
     ```python
-    pip install mistune==3.0.1
+    rye add mistune==3.0.1
     ```
 
 !!! note "字体工具"
 	
     ```bash
-    pip install fonttools
+    rye add fonttools
+    ```
+
+!!! note "mkdocstrings-python"
+    
+    ```
+    rye add mkdocstrings-python
     ```
 
 ## 贰丨常用命令
