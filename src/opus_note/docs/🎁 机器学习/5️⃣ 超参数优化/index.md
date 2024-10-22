@@ -1,13 +1,50 @@
 ---
-title: 5️⃣ 超参数优化
-comments: true
+title: 🎁 机器学习/5️⃣ 超参数优化
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🦺 [__随机网格搜索__](./A.ipynb)
-- 🦐 [__对半网格搜索HalvingSearchCV__](./B.ipynb)
-- 🦊 [__贝叶斯优化__](./C.ipynb)
-- 🥕 [__Optuna调参__](./D.ipynb)
+-    __[A.ipynb](./A.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.ipynb)
+
+-    __[B.ipynb](./B.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.ipynb)
+
+-    __[C.ipynb](./C.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.ipynb)
+
+-    __[D.ipynb](./D.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./D.ipynb)
 
 </div>

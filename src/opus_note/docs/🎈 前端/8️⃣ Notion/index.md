@@ -1,10 +1,20 @@
 ---
-title: 8️⃣ Notion
-comments: true
+title: 🎈 前端/8️⃣ Notion
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🐬 [__Notion配置个人域名__](./A.md)
+-    __[Notion配置个人域名](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
 
 </div>

@@ -1,0 +1,83 @@
+["0️⃣ PyCharm配置"]
+title = "0️⃣ PyCharm配置"
+info = ""
+emoji = ":simple-pycharm:"
+cover = ""
+path = "../docs/🎈 Python/0️⃣ PyCharm配置"
+
+["0️⃣ 基础编程"]
+title = "0️⃣ 基础编程"
+info = ""
+emoji = ":octicons-terminal-16:"
+cover = ""
+path = "../docs/🎈 Python/0️⃣ 基础编程"
+
+["0️⃣ 扩展库"]
+title = "0️⃣ 扩展库"
+info = ""
+emoji = ":simple-pypi:"
+cover = ""
+path = "../docs/🎈 Python/0️⃣ 扩展库"
+
+["1️⃣ Rye相关"]
+title = "1️⃣ Rye相关"
+info = ""
+emoji = ":simple-rye:"
+cover = ""
+path = "../docs/🎈 Python/1️⃣ Rye相关"
+
+["2️⃣ Conda相关"]
+title = "2️⃣ Conda相关"
+info = ""
+emoji = ":simple-anaconda:"
+cover = ""
+path = "../docs/🎈 Python/2️⃣ Conda相关"
+
+["3️⃣ pip相关"]
+title = "3️⃣ pip相关"
+info = ""
+emoji = ":simple-python:"
+cover = ""
+path = "../docs/🎈 Python/3️⃣ pip相关"
+
+["5️⃣ Python可视化"]
+title = "5️⃣ Python可视化"
+info = ""
+emoji = ":simple-python:"
+cover = ""
+path = "../docs/🎈 Python/5️⃣ Python可视化"
+
+["6️⃣ Python科学计算"]
+title = "6️⃣ Python科学计算"
+info = ""
+emoji = ":simple-python:"
+cover = ""
+path = "../docs/🎈 Python/6️⃣ Python科学计算"
+
+["7️⃣ Python网络编程"]
+title = "7️⃣ Python网络编程"
+info = ""
+emoji = ":simple-python:"
+cover = ""
+path = "../docs/🎈 Python/7️⃣ Python网络编程"
+
+["8️⃣ Python GUI编程"]
+title = "8️⃣ Python GUI编程"
+info = ""
+emoji = ":simple-python:"
+cover = ""
+path = "../docs/🎈 Python/8️⃣ Python GUI编程"
+
+["9️⃣ Python硬件编程"]
+title = "9️⃣ Python硬件编程"
+info = ""
+emoji = ":simple-python:"
+cover = ""
+path = "../docs/🎈 Python/9️⃣ Python硬件编程"
+
+["🔟 其他"]
+title = "🔟 其他"
+info = ""
+emoji = ":simple-python:"
+cover = ""
+path = "../docs/🎈 Python/🔟 其他"

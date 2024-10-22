@@ -1,10 +1,20 @@
 ---
-title: 6️⃣ 模型可解释性
-comments: true
+title: 🎁 机器学习/6️⃣ 模型可解释性
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🍁 [__Shapash__](./A.md)
+-    __[Shapash](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
 
 </div>

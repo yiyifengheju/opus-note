@@ -1,12 +1,40 @@
 ---
-title: 2️⃣ Conda相关
-comments: true
+title: 🎈 Python/2️⃣ Conda相关
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🏇 [__Anaconda升级__](./A.md)
-- 🪵 [__Anaconda换源__](./B.md)
-- 🏈 [__Conda常用操作__](./C.md)
+-    __[Anaconda升级](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[Anaconda换源](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
+
+-    __[Conda常用操作](./C.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.md)
 
 </div>

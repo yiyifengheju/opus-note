@@ -1,11 +1,30 @@
 ---
-title: 🔟 其他
-comments: true
+title: 🎈 Python/🔟 其他
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🌀 [__MinIO托管Python库__](./MinIO托管Python库.md)
-- 🌌 [__Python打包自己的库__](./打包自己的库.md)
+-    __[MinIO托管Python库](./MinIO托管Python库.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./MinIO托管Python库.md)
+
+-    __[Python打包自己的库](./打包自己的库.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./打包自己的库.md)
 
 </div>

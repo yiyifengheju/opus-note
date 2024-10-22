@@ -1,12 +1,40 @@
 ---
-title: 6️⃣ Python科学计算
-comments: true
+title: 🎈 Python/6️⃣ Python科学计算
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🐋 [__循环添加元素的速度问题__](./A.ipynb)
-- 🐟 [__Numpy__](./B.md)
-- 🥣 [__Scipy__](./C.md)
+-    __[A.ipynb](./A.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.ipynb)
+
+-    __[Numpy](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
+
+-    __[Scipy](./C.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.md)
 
 </div>

@@ -184,6 +184,7 @@ plugins:
   - mkdocs-jupyter:
       ignore: [".ipynb_checkpoints/*.ipynb"]
 #      ignore: [".ipynb_checkpoints/*.ipynb", "*.py", "*.ipynb"]
+  - awesome-pages
 
 
 extra:

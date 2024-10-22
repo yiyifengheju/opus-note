@@ -1,14 +1,60 @@
 ---
-title: 8️⃣ NGBoost
-comments: true
+title: 🎁 机器学习/8️⃣ NGBoost
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🤷🏻 [__NGBoost总览__](./A.md)
-- 🤦🏻 [__用法__](./B.ipynb)
-- 🙆🏻 [__模型微调__](./C.ipynb)
-- 🙍🏻 [__模型可解释性__](./D.ipynb)
-- 🙋🏻 [__模型保存&加载__](./E.ipynb)
+-    __[NGBoost总览](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[B.ipynb](./B.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.ipynb)
+
+-    __[C.ipynb](./C.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.ipynb)
+
+-    __[D.ipynb](./D.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./D.ipynb)
+
+-    __[E.ipynb](./E.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./E.ipynb)
 
 </div>

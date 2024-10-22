@@ -1,11 +1,30 @@
 ---
-title: 4️⃣ Markdown
-comments: true
+title: 🎈 前端/4️⃣ Markdown
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🍋 [__基本语法__](./A.md)
-- 👷🏻 [__标签__](./B.md)
+-    __[基本语法](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[标签](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
 
 </div>

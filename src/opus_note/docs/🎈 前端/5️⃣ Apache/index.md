@@ -1,12 +1,40 @@
 ---
-title: 5️⃣ Apache
-comments: true
+title: 🎈 前端/5️⃣ Apache
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🎉 [__安装Apache__](./A.md)
-- 🎄 [__使用Apache2使用多个端口添加网站__](./B.md)
-- 🦚 [__Cloudflare配置__](./C.md)
+-    __[安装Apache](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[使用Apache2使用多个端口添加网站](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
+
+-    __[Cloudflare配置](./C.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.md)
 
 </div>

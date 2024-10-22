@@ -1,0 +1,275 @@
+["A0.ipynb"]
+title = "A0.ipynb"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/A0.ipynb"
+
+["Afit.md"]
+title = "🐔 fit"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/Afit.md"
+comments = true
+
+["Bpredict.md"]
+title = "🦢 predict"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/Bpredict.md"
+date = "2024.09.05"
+comments = true
+
+["calc_feature_statistics.md"]
+title = "🏐 calc_feature_statistics"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/calc_feature_statistics.md"
+date = "2024.09.05"
+comments = true
+
+["calc_leaf_indexes.md"]
+title = "⛄ calc_leaf_indexes"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/calc_leaf_indexes.md"
+date = "2024.09.05"
+comments = true
+
+["compare.md"]
+title = "⛄ compare"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/compare.md"
+date = "2024.09.05"
+comments = true
+
+["copy.md"]
+title = "⛄ copy"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/copy.md"
+date = "2024.09.05"
+comments = true
+
+["eval_metrics.md"]
+title = "⛄ eval_metrics"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/eval_metrics.md"
+date = "2024.09.05"
+comments = true
+
+["get_all_params.md"]
+title = "⛄ get_all_params"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_all_params.md"
+date = "2024.09.05"
+comments = true
+
+["get_best_iteration.md"]
+title = "⛄ get_best_iteration"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_best_iteration.md"
+date = "2024.09.05"
+comments = true
+
+["get_best_score.md"]
+title = "⛄ get_best_score"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_best_score.md"
+date = "2024.09.05"
+comments = true
+
+["get_borders.md"]
+title = "⛄ get_borders"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_borders.md"
+date = "2024.09.05"
+comments = true
+
+["get_evals_result.md"]
+title = "⛄ get_evals_result"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_evals_result.md"
+date = "2024.09.05"
+comments = true
+
+["get_feature_importance.md"]
+title = "⛄ get_feature_importance"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_feature_importance.md"
+date = "2024.09.05"
+comments = true
+
+["get_object_importance.md"]
+title = "⛄ get_object_importance"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_object_importance.md"
+date = "2024.09.05"
+comments = true
+
+["get_param.md"]
+title = "⛄ get_param"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_param.md"
+date = "2024.09.05"
+comments = true
+
+["get_params.md"]
+title = "⛄ get_params"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_params.md"
+date = "2024.09.05"
+comments = true
+
+["get_scale_and_bias.md"]
+title = "⛄ get_scale_and_bias"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_scale_and_bias.md"
+date = "2024.09.05"
+comments = true
+
+["get_test_eval.md"]
+title = "⛄ get_test_eval"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/get_test_eval.md"
+date = "2024.09.05"
+comments = true
+
+["grid_search.md"]
+title = "⛄ grid_search"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/grid_search.md"
+date = "2024.09.05"
+comments = true
+
+["is_fitted.md"]
+title = "⛄ is_fitted"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/is_fitted.md"
+date = "2024.09.05"
+comments = true
+
+["load_model.md"]
+title = "⛄ load_model"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/load_model.md"
+date = "2024.09.05"
+comments = true
+
+["plot_predictions.md"]
+title = "⛄ plot_predictions"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/plot_predictions.md"
+date = "2024.09.05"
+comments = true
+
+["plot_tree.md"]
+title = "⛄ plot_tree"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/plot_tree.md"
+date = "2024.09.05"
+comments = true
+
+["randomized_search.md"]
+title = "⛄ randomized_search"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/randomized_search.md"
+date = "2024.09.05"
+comments = true
+
+["save_borders.md"]
+title = "⛄ save_borders"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/save_borders.md"
+date = "2024.09.05"
+comments = true
+
+["save_model.md"]
+title = "⛄ save_model"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/save_model.md"
+date = "2024.09.05"
+comments = true
+
+["select_features.md"]
+title = "⛄ select_features"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/select_features.md"
+date = "2024.09.05"
+comments = true
+
+["set_feature_names.md"]
+title = "⛄ set_feature_names"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/set_feature_names.md"
+date = "2024.09.05"
+comments = true
+
+["set_params.md"]
+title = "⛄ set_params"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/set_params.md"
+date = "2024.09.05"
+comments = true
+
+["set_scale_and_bias.md"]
+title = "⛄ set_scale_and_bias"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/9️⃣ CatBoost/set_scale_and_bias.md"
+date = "2024.09.05"
+comments = true

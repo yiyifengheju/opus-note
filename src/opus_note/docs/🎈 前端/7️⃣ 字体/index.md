@@ -1,14 +1,60 @@
 ---
-title: 7️⃣ 字体
-comments: true
+title: 🎈 前端/7️⃣ 字体
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🦞 [__几个字体网站__](./A.md)
-- 🎀 [__CloudConvert在线压缩__](./AA.md)
-- 💥 [__FontTools字体压缩__](./B.md)
-- 🧧 [__Fontmin字体子集__](./C.md)
-- 🥩 [__字体压缩终极方法__](./D.md)
+-    __[几个字体网站](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[CloudConvert在线压缩](./AA.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./AA.md)
+
+-    __[FontTools字体压缩](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
+
+-    __[Fontmin字体子集](./C.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.md)
+
+-    __[字体压缩终极方法](./D.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./D.md)
 
 </div>

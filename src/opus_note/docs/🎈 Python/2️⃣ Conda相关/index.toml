@@ -1,0 +1,23 @@
+["A.md"]
+title = "🏇 Anaconda升级"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/2️⃣ Conda相关/A.md"
+comments = true
+
+["B.md"]
+title = "🪵 Anaconda换源"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/2️⃣ Conda相关/B.md"
+comments = true
+
+["C.md"]
+title = "🏈 Conda常用操作"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/2️⃣ Conda相关/C.md"
+comments = true

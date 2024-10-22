@@ -1,12 +1,40 @@
 ---
-title: 1️⃣ Rye相关
-comments: true
+title: 🎈 Python/1️⃣ Rye相关
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🥎 [__Rye使用指南__](./A.md)
-- 🧩 [__Rye踩坑记录__](./B.md)
-- 🔫 [__Rye安装Jupyter__](./C.md)
+-    __[Rye使用指南](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[Rye踩坑记录](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
+
+-    __[Rye安装Jupyter](./C.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.md)
 
 </div>

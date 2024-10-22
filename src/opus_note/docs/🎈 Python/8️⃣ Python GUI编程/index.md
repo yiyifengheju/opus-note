@@ -1,13 +1,50 @@
 ---
-title: 8️⃣ Python GUI编程
-comments: true
+title: 🎈 Python/8️⃣ Python GUI编程
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- ✌️ [__PyQt5开发环境配置__](./A.md)
-- 🐱 [__PySide6踩坑记__](./B.md)
-- 🥭 [__PythonGUI编程问题汇总__](./C.md)
-- 🎗️ [__Streamlit调用C__](./D.md)
+-    __[PyQt5开发环境配置](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[PySide6踩坑记](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
+
+-    __[PythonGUI编程问题汇总](./C.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.md)
+
+-    __[Streamlit调用C](./D.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./D.md)
 
 </div>

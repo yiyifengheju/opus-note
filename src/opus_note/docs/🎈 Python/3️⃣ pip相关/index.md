@@ -1,12 +1,40 @@
 ---
-title: 3️⃣ pip相关
-comments: true
+title: 🎈 Python/3️⃣ pip相关
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- ⛄ [__pip常用命令__](./A.md)
-- 🛁 [__pip换源__](./B.md)
-- 🎧 [__pip升级第三方库__](./C.md)
+-    __[pip常用命令](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[pip换源](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
+
+-    __[pip升级第三方库](./C.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.md)
 
 </div>

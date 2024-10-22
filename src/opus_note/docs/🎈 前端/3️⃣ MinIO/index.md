@@ -1,13 +1,50 @@
 ---
-title: 3️⃣ MinIO
-comments: true
+title: 🎈 前端/3️⃣ MinIO
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🌱 [__简单使用__](./A.md)
-- 🍐 [__ContentType文件类型__](./B.md)
-- 🍃 [__MinIO搭建本地图床__](./C.md)
-- 🐛 [__MinIO的Python交互__](./D.md)
+-    __[简单使用](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[ContentType文件类型](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
+
+-    __[MinIO搭建本地图床](./C.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./C.md)
+
+-    __[MinIO的Python交互](./D.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./D.md)
 
 </div>

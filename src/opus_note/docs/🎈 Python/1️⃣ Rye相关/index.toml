@@ -1,0 +1,23 @@
+["A.md"]
+title = "🥎 Rye使用指南"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/1️⃣ Rye相关/A.md"
+comments = true
+
+["B.md"]
+title = "🧩 Rye踩坑记录"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/1️⃣ Rye相关/B.md"
+comments = true
+
+["C.md"]
+title = "🔫 Rye安装Jupyter"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/1️⃣ Rye相关/C.md"
+comments = true

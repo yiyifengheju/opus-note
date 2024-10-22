@@ -1,0 +1,38 @@
+["A.md"]
+title = "😆 离群值对模型的影响"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/3️⃣ ML相关概念/A.md"
+comments = true
+
+["B.md"]
+title = "😎 CatBoost参数"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/3️⃣ ML相关概念/B.md"
+comments = true
+
+["C.ipynb"]
+title = "C.ipynb"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/3️⃣ ML相关概念/C.ipynb"
+
+["D.md"]
+title = "🧸 自然梯度&常规梯度"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/3️⃣ ML相关概念/D.md"
+comments = true
+
+["E.md"]
+title = "😖 相关系数与决定系数"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎁 机器学习/3️⃣ ML相关概念/E.md"
+comments = true

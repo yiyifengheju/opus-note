@@ -1,12 +1,40 @@
 ---
-title: 2️⃣ WSL
-comments: true
+title: 🎀 软件及配置/2️⃣ WSL
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🦢 [__WSL安装指定版本__](./A.md)
-- 🕊️ [__WSL修改初始目录__](./D.md)
-- ☃️ [__调用WSL命令__](./E.md)
+-    __[WSL安装指定版本](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[WSL修改初始目录](./D.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./D.md)
+
+-    __[调用WSL命令](./E.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./E.md)
 
 </div>

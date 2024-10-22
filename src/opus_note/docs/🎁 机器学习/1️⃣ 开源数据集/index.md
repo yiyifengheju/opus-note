@@ -1,10 +1,20 @@
 ---
-title: 1️⃣ 开源数据集
-comments: true
+title: 🎁 机器学习/1️⃣ 开源数据集
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 🐞 [__加利福尼亚房价数据集__](./A.ipynb)
+-    __[A.ipynb](./A.ipynb)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.ipynb)
 
 </div>

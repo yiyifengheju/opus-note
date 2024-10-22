@@ -1,0 +1,93 @@
+["A.md"]
+title = "🍓 系统安装记录"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/A.md"
+date = "2023.10.13"
+comments = true
+
+["AA.md"]
+title = "🍟 基础使用"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/AA.md"
+comments = true
+
+["B.md"]
+title = "🍅 安装软件"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/B.md"
+comments = true
+
+["C.md"]
+title = "🦴 修改镜像源"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/C.md"
+comments = true
+
+["D.md"]
+title = "🍎 安装字体"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/D.md"
+date = "2023.10.13"
+comments = true
+
+["F.md"]
+title = "🍬 配置Samba"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/F.md"
+comments = true
+
+["G.md"]
+title = "🍿 配置Jupyter远程访问"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/G.md"
+comments = true
+date = "2023.11.28"
+
+["H.md"]
+title = "🎈 配置SSH"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/H.md"
+comments = true
+date = "2023.11.28"
+
+["I.md"]
+title = "🎒 压缩命令汇总"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/I.md"
+comments = true
+date = "2024.02.03"
+
+["J.md"]
+title = "🎯 配置wget代理"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/J.md"
+comments = true
+
+["K.md"]
+title = "🐞 配置curl代理"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)/K.md"
+date = "2023.10.13"
+comments = true

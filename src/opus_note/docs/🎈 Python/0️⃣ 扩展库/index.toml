@@ -1,0 +1,55 @@
+["Argparse.md"]
+title = "😀 Argparse"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/0️⃣ 扩展库/Argparse.md"
+comments = true
+
+["Loguru.md"]
+title = "🤣 Loguru"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/0️⃣ 扩展库/Loguru.md"
+comments = true
+
+["Ruff.md"]
+title = "🤫 Ruff"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/0️⃣ 扩展库/Ruff.md"
+comments = true
+
+["SciencePlots.md"]
+title = "🥰 SciencePlots"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/0️⃣ 扩展库/SciencePlots.md"
+comments = true
+
+["TensorboardX.md"]
+title = "🤩 TensorbordX"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/0️⃣ 扩展库/TensorboardX.md"
+comments = true
+
+["tqdm.ipynb"]
+title = "tqdm.ipynb"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/0️⃣ 扩展库/tqdm.ipynb"
+
+["uv.md"]
+title = "🤠 uv"
+emoji = ""
+info = ""
+cover = ""
+path = "../docs/🎈 Python/0️⃣ 扩展库/uv.md"
+date = "2024.03.02"
+comments = true

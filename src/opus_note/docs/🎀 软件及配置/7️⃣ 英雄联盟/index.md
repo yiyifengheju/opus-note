@@ -1,11 +1,30 @@
 ---
-title: 7️⃣ 英雄联盟
-comments: true
+title: 🎀 软件及配置/7️⃣ 英雄联盟
+comments: false
+hide:
+   - toc
 ---
 
-<div class="grid cards" markdown>
+<div class="grid cards index-info" markdown>
 
-- 📪 [__修复4K分辨率下指针过小__](./A.md)
-- 📪 [__精彩时刻__](./B.md)
+-    __[修复4K分辨率下指针过小](./A.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./A.md)
+
+-    __[精彩时刻](./B.md)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./B.md)
 
 </div>
