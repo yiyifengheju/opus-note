@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :simple-opensourceinitiative: __[开源软件](./0️⃣ 开源软件/index.md)__
+-   :simple-opensourceinitiative:  __[开源软件](./0️⃣ 开源软件/index.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./0️⃣ 开源软件/index.md)
 
--   :simple-ubuntu: __[Linux(Ubuntu)](./1️⃣ Linux(Ubuntu)/index.md)__
+-   :simple-ubuntu:  __[Linux(Ubuntu)](./1️⃣ Linux(Ubuntu)/index.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./1️⃣ Linux(Ubuntu)/index.md)
 
--   :simple-linux: __[WSL](./2️⃣ WSL/index.md)__
+-   :simple-linux:  __[WSL](./2️⃣ WSL/index.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./2️⃣ WSL/index.md)
 
--   :fontawesome-brands-windows: __[10](./3️⃣ Windows 10/index.md)__
+-   :fontawesome-brands-windows:  __[Windows10](./3️⃣ Windows10/index.md)__
 
 	---
 
@@ -45,9 +45,9 @@ hide:
 
 	
 
-	[:octicons-arrow-right-24: Getting started](./3️⃣ Windows 10/index.md)
+	[:octicons-arrow-right-24: Getting started](./3️⃣ Windows10/index.md)
 
--   :fontawesome-brands-windows: __[Windows11](./4️⃣ Windows11/index.md)__
+-   :fontawesome-brands-windows:  __[Windows11](./4️⃣ Windows11/index.md)__
 
 	---
 
@@ -57,7 +57,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./4️⃣ Windows11/index.md)
 
--   :simple-git: __[Git](./5️⃣ Git/index.md)__
+-   :simple-git:  __[Git](./5️⃣ Git/index.md)__
 
 	---
 
@@ -67,7 +67,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./5️⃣ Git/index.md)
 
--   :material-apple: __[macOS](./6️⃣ macOS/index.md)__
+-   :material-apple:  __[macOS](./6️⃣ macOS/index.md)__
 
 	---
 
@@ -77,7 +77,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./6️⃣ macOS/index.md)
 
--   :simple-leagueoflegends: __[英雄联盟](./7️⃣ 英雄联盟/index.md)__
+-   :simple-leagueoflegends:  __[英雄联盟](./7️⃣ 英雄联盟/index.md)__
 
 	---
 

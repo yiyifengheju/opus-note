@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[串口通信](./A.md)__
+-     __[串口通信](./A.md)__
 
 	---
 

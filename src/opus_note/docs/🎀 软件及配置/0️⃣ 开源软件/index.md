@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[TheFuck](./A.md)__
+-     __[TheFuck](./A.md)__
 
 	---
 

@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Notion配置个人域名](./A.md)__
+-     __[Notion配置个人域名](./A.md)__
 
 	---
 

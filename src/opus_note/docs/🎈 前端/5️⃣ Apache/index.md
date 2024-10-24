@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[安装Apache](./A.md)__
+-     __[安装Apache](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[使用Apache2使用多个端口添加网站](./B.md)__
+-     __[使用Apache2使用多个端口添加网站](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[Cloudflare配置](./C.md)__
+-     __[Cloudflare配置](./C.md)__
 
 	---
 

@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Rye使用指南](./A.md)__
+-     __[Rye使用指南](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[Rye踩坑记录](./B.md)__
+-     __[Rye踩坑记录](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[Rye安装Jupyter](./C.md)__
+-     __[Rye安装Jupyter](./C.md)__
 
 	---
 

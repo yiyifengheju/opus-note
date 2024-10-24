@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[WebStorm环境配置](./A.md)__
+-     __[WebStorm环境配置](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[常用NPM工具](./AA.md)__
+-     __[常用NPM工具](./AA.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./AA.md)
 
--    __[前端常用CDN网站](./AAA.md)__
+-     __[前端常用CDN网站](./AAA.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./AAA.md)
 
--    __[安装NodeJS](./B.md)__
+-     __[安装NodeJS](./B.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[NPM查看软件版本](./C.md)__
+-     __[NPM查看软件版本](./C.md)__
 
 	---
 
@@ -57,7 +57,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./C.md)
 
--    __[NPM搭建网页服务器](./D.md)__
+-     __[NPM搭建网页服务器](./D.md)__
 
 	---
 

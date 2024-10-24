@@ -19,12 +19,12 @@ emoji = ":simple-linux:"
 cover = ""
 path = "../docs/🎀 软件及配置/2️⃣ WSL"
 
-["3️⃣ Windows 10"]
-title = "3️⃣ Windows 10"
+["3️⃣ Windows10"]
+title = "3️⃣ Windows10"
 info = ""
 emoji = ":fontawesome-brands-windows:"
 cover = ""
-path = "../docs/🎀 软件及配置/3️⃣ Windows 10"
+path = "../docs/🎀 软件及配置/3️⃣ Windows10"
 
 ["4️⃣ Windows11"]
 title = "4️⃣ Windows11"

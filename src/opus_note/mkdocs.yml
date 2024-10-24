@@ -149,6 +149,7 @@ plugins:
   # 搜索
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - awesome-pages
   # 需要安装 rye add mkdocs-glightbox
   - glightbox:
       zoomable: false
@@ -184,7 +185,6 @@ plugins:
   - mkdocs-jupyter:
       ignore: [".ipynb_checkpoints/*.ipynb"]
 #      ignore: [".ipynb_checkpoints/*.ipynb", "*.py", "*.ipynb"]
-  - awesome-pages
 
 
 extra:

@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Anaconda升级](./A.md)__
+-     __[Anaconda升级](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[Anaconda换源](./B.md)__
+-     __[Anaconda换源](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[Conda常用操作](./C.md)__
+-     __[Conda常用操作](./C.md)__
 
 	---
 

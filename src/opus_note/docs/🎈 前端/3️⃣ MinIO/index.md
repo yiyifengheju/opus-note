@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[简单使用](./A.md)__
+-     __[简单使用](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[ContentType文件类型](./B.md)__
+-     __[ContentType文件类型](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[MinIO搭建本地图床](./C.md)__
+-     __[MinIO搭建本地图床](./C.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./C.md)
 
--    __[MinIO的Python交互](./D.md)__
+-     __[MinIO的Python交互](./D.md)__
 
 	---
 

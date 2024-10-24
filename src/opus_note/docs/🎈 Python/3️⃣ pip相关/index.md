@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[pip常用命令](./A.md)__
+-     __[pip常用命令](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[pip换源](./B.md)__
+-     __[pip换源](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[pip升级第三方库](./C.md)__
+-     __[pip升级第三方库](./C.md)__
 
 	---
 

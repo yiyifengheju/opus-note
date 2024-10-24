@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Matplotlib绘图](./A.md)__
+-     __[Matplotlib绘图](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[过渡色](./B.md)__
+-     __[过渡色](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[Matplotlib中英文设置（一）](./C.md)__
+-     __[Matplotlib中英文设置（一）](./C.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./C.md)
 
--    __[Matplotlib中英文设置（二）](./D.md)__
+-     __[Matplotlib中英文设置（二）](./D.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./D.md)
 
--    __[PyEcharts绘图经验](./E.md)__
+-     __[PyEcharts绘图经验](./E.md)__
 
 	---
 

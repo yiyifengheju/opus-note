@@ -3,7 +3,7 @@ title = "📪 Win10常见报错及修复"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎀 软件及配置/3️⃣ Windows 10/A.md"
+path = "../docs/🎀 软件及配置/3️⃣ Windows10/A.md"
 comments = true
 
 ["B.md"]
@@ -11,7 +11,7 @@ title = "⛈️ WindowsTerminal美化"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎀 软件及配置/3️⃣ Windows 10/B.md"
+path = "../docs/🎀 软件及配置/3️⃣ Windows10/B.md"
 comments = true
 
 ["BB.md"]
@@ -19,7 +19,7 @@ title = "🖊️ SSH配置"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎀 软件及配置/3️⃣ Windows 10/BB.md"
+path = "../docs/🎀 软件及配置/3️⃣ Windows10/BB.md"
 comments = true
 
 ["C.md"]
@@ -27,7 +27,7 @@ title = "⌚ Windows美化"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎀 软件及配置/3️⃣ Windows 10/C.md"
+path = "../docs/🎀 软件及配置/3️⃣ Windows10/C.md"
 comments = true
 
 ["D.md"]
@@ -35,7 +35,7 @@ title = "☔ 修改PPT图片导出分辨率"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎀 软件及配置/3️⃣ Windows 10/D.md"
+path = "../docs/🎀 软件及配置/3️⃣ Windows10/D.md"
 comments = true
 
 ["E.md"]
@@ -43,6 +43,6 @@ title = "☔ 国家标准参考文献格式"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎀 软件及配置/3️⃣ Windows 10/E.md"
+path = "../docs/🎀 软件及配置/3️⃣ Windows10/E.md"
 date = 2022-10-04
 comments = true

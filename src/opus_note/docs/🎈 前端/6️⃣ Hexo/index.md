@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Hexo配置记录](./A.md)__
+-     __[Hexo配置记录](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[跳过Fancybox渲染](./B.md)__
+-     __[跳过Fancybox渲染](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[Hexo-NexT为文章添加介绍卡片](./C.md)__
+-     __[Hexo-NexT为文章添加介绍卡片](./C.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./C.md)
 
--    __[Hexo公式渲染](./D.md)__
+-     __[Hexo公式渲染](./D.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./D.md)
 
--    __[NexT主题美化](./E.md)__
+-     __[NexT主题美化](./E.md)__
 
 	---
 
@@ -57,7 +57,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./E.md)
 
--    __[NexT主题启用PJAX](./F.md)__
+-     __[NexT主题启用PJAX](./F.md)__
 
 	---
 
@@ -67,7 +67,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./F.md)
 
--    __[Hexo制作个人画廊](./G.md)__
+-     __[Hexo制作个人画廊](./G.md)__
 
 	---
 

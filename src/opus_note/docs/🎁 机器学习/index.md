@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :simple-kaggle: __[开源数据集](./1️⃣ 开源数据集/index.md)__
+-   :simple-kaggle:  __[开源数据集](./1️⃣ 开源数据集/index.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./1️⃣ 开源数据集/index.md)
 
--   :simple-scikitlearn: __[ML相关概念](./3️⃣ ML相关概念/index.md)__
+-   :simple-scikitlearn:  __[ML相关概念](./3️⃣ ML相关概念/index.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./3️⃣ ML相关概念/index.md)
 
--   :simple-scikitlearn: __[集成学习](./4️⃣ 集成学习/index.md)__
+-   :simple-scikitlearn:  __[集成学习](./4️⃣ 集成学习/index.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./4️⃣ 集成学习/index.md)
 
--   :simple-scikitlearn: __[超参数优化](./5️⃣ 超参数优化/index.md)__
+-   :simple-scikitlearn:  __[超参数优化](./5️⃣ 超参数优化/index.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./5️⃣ 超参数优化/index.md)
 
--   :simple-scikitlearn: __[模型可解释性](./6️⃣ 模型可解释性/index.md)__
+-   :simple-scikitlearn:  __[模型可解释性](./6️⃣ 模型可解释性/index.md)__
 
 	---
 
@@ -57,7 +57,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./6️⃣ 模型可解释性/index.md)
 
--   :simple-scikitlearn: __[置信学习](./7️⃣ 置信学习/index.md)__
+-   :simple-scikitlearn:  __[置信学习](./7️⃣ 置信学习/index.md)__
 
 	---
 
@@ -67,7 +67,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./7️⃣ 置信学习/index.md)
 
--   :simple-scikitlearn: __[NGBoost](./8️⃣ NGBoost/index.md)__
+-   :simple-scikitlearn:  __[NGBoost](./8️⃣ NGBoost/index.md)__
 
 	---
 
@@ -77,7 +77,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./8️⃣ NGBoost/index.md)
 
--   :simple-scikitlearn: __[CatBoost](./9️⃣ CatBoost/index.md)__
+-   :simple-scikitlearn:  __[CatBoost](./9️⃣ CatBoost/index.md)__
 
 	---
 

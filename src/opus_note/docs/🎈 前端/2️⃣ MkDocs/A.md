@@ -59,6 +59,18 @@ rye add neoteroi-mkdocs
     rye add mkdocstrings-python
     ```
 
+!!! note "管理页面顺序"
+    
+    ```bash
+    rye add mkdocs-awesome-pages-plugin
+    ```
+    
+    ```yaml
+    plugins:
+      - awesome-pages
+    ```
+
+
 ## 贰丨常用命令
 
 创建工程

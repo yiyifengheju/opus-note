@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Mkdocs新建环境](./A.md)__
+-     __[Mkdocs新建环境](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[MkDocs语法备忘](./B.md)__
+-     __[MkDocs语法备忘](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[MkDocs部署](./C.md)__
+-     __[MkDocs部署](./C.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./C.md)
 
--    __[MkDocs插件](./D.md)__
+-     __[MkDocs插件](./D.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./D.md)
 
--    __[MkDocs配置](./E.md)__
+-     __[MkDocs配置](./E.md)__
 
 	---
 
@@ -57,7 +57,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./E.md)
 
--    __[mkdocstrings-python经验总结](./F.md)__
+-     __[mkdocstrings-python经验总结](./F.md)__
 
 	---
 

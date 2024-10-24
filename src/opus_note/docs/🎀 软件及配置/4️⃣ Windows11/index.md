@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Win11配置](./A.md)__
+-     __[Win11配置](./A.md)__
 
 	---
 

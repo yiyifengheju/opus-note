@@ -1,5 +1,5 @@
 ---
-title: 🎀 软件及配置/3️⃣ Windows 10
+title: 🎀 软件及配置/3️⃣ Windows10
 comments: false
 hide:
    - toc
@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Win10常见报错及修复](./A.md)__
+-     __[Win10常见报错及修复](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[WindowsTerminal美化](./B.md)__
+-     __[WindowsTerminal美化](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[SSH配置](./BB.md)__
+-     __[SSH配置](./BB.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./BB.md)
 
--    __[Windows美化](./C.md)__
+-     __[Windows美化](./C.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./C.md)
 
--    __[修改PPT图片导出分辨率](./D.md)__
+-     __[修改PPT图片导出分辨率](./D.md)__
 
 	---
 
@@ -57,7 +57,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./D.md)
 
--    __[国家标准参考文献格式](./E.md)__
+-     __[国家标准参考文献格式](./E.md)__
 
 	---
 

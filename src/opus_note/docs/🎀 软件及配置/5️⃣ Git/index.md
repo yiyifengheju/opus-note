@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Git配置](./A.md)__
+-     __[Git配置](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--    __[Git基础使用](./B.md)__
+-     __[Git基础使用](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--    __[Commit规范](./C.md)__
+-     __[Commit规范](./C.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./C.md)
 
--    __[Git自动提交(Windows)](./D.md)__
+-     __[Git自动提交(Windows)](./D.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./D.md)
 
--    __[Git常见错误](./E.md)__
+-     __[Git常见错误](./E.md)__
 
 	---
 
