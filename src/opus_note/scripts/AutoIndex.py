@@ -18,7 +18,7 @@ import toml
 import yaml
 from loguru import logger
 
-EXCLUDE_FOLDERS = ['assets', 'blog', 'javascripts', 'stylesheets', '留言板', '🎁 信号处理', '🎈 其他编程']
+EXCLUDE_FOLDERS = ['assets', 'blog', 'javascripts', 'stylesheets', '留言板', '🍒 信号处理', '🍅 其他编程']
 SKIP_FOLDERS = ['index.toml', 'index.md', 'info.toml', 'nav.toml', '.ipynb_checkpoints', 'datalab-files',
                 'catboost_info', '.pages']
 TOML_FILE_TEMPLATE = {'title': "",

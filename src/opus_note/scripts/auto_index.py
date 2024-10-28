@@ -38,7 +38,7 @@ def generate_toml(path):
 
 
 def generate_index(path):
-    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\🎁 机器学习'
+    # path = r'C:\Users\Artmallo\PycharmProjects\opus-note\src\opus_note\docs\👺 机器学习'
     with open(os.path.join(path, 'info.toml'), "rb") as f:
         info = tomllib.load(f)
     folders = os.listdir(path)
@@ -109,10 +109,10 @@ def generate_index(path):
 
 if __name__ == '__main__':
     folders = ['🎀 软件及配置',
-               '🎁 信号处理',
-               '🎁 机器学习',
-               '🎈 Python',
-               '🎈 其他编程',
+               '🍒 信号处理',
+               '👺 机器学习',
+               '🐦 Python',
+               '🍅 其他编程',
                '🎈 前端',
                '🏅 我的脚本']
     path = f'../docs/{folders[5]}'

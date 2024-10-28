@@ -182,9 +182,9 @@ plugins:
       categories_toc: false
       pagination_per_page: 5
   # 需要安装 rye add mkdocs-jupyter
-  - mkdocs-jupyter:
-      ignore: [".ipynb_checkpoints/*.ipynb"]
-#      ignore: [".ipynb_checkpoints/*.ipynb", "*.py", "*.ipynb"]
+#  - mkdocs-jupyter:
+#      ignore: [".ipynb_checkpoints/*.ipynb"]
+##      ignore: [".ipynb_checkpoints/*.ipynb", "*.py", "*.ipynb"]
 
 
 extra:
