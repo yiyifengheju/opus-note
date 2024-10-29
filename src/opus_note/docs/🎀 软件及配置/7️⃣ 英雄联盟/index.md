@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[修复4K分辨率下指针过小](./A.md)__
+-    __[修复4K分辨率下指针过小](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--     __[精彩时刻](./B.md)__
+-    __[精彩时刻](./B.md)__
 
 	---
 

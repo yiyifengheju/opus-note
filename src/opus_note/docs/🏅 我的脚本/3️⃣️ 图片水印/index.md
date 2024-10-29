@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[Python添加图片水印](./A.md)__
+-    __[Python添加图片水印](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--     __[Gradio水印界面](./B.md)__
+-    __[Gradio水印界面](./B.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--     __[CSS实现图片水印](./C.md)__
+-    __[CSS实现图片水印](./C.md)__
 
 	---
 

@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[几个字体网站](./A.md)__
+-    __[几个字体网站](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--     __[CloudConvert在线压缩](./AA.md)__
+-    __[CloudConvert在线压缩](./AA.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./AA.md)
 
--     __[FontTools字体压缩](./B.md)__
+-    __[FontTools字体压缩](./B.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.md)
 
--     __[Fontmin字体子集](./C.md)__
+-    __[Fontmin字体子集](./C.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./C.md)
 
--     __[字体压缩终极方法](./D.md)__
+-    __[字体压缩终极方法](./D.md)__
 
 	---
 

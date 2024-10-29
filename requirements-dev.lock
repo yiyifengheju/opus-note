@@ -46,6 +46,8 @@ beautifulsoup4==4.12.3
     # via nbconvert
 bleach==6.1.0
     # via nbconvert
+bracex==2.5.post1
+    # via wcmatch
 catboost==1.2.5
     # via opus-note
 certifi==2024.7.4
@@ -77,6 +79,8 @@ comm==0.2.2
     # via ipywidgets
 contourpy==1.2.1
     # via matplotlib
+css-html-js-minify==2.5.5
+    # via opus-note
 cycler==0.12.1
     # via matplotlib
 datasets==2.20.0
@@ -258,9 +262,12 @@ mergedeep==1.3.4
 mistune==3.0.2
     # via nbconvert
 mkdocs==1.6.0
+    # via mkdocs-awesome-pages-plugin
     # via mkdocs-jupyter
     # via mkdocs-material
     # via neoteroi-mkdocs
+mkdocs-awesome-pages-plugin==2.9.3
+    # via opus-note
 mkdocs-get-deps==0.2.0
     # via mkdocs
 mkdocs-glightbox==0.4.0
@@ -277,6 +284,8 @@ multidict==6.0.5
     # via yarl
 multiprocess==0.70.16
     # via datasets
+natsort==8.4.0
+    # via mkdocs-awesome-pages-plugin
 nbclient==0.10.0
     # via nbconvert
 nbconvert==7.16.4
@@ -554,6 +563,8 @@ urllib3==2.2.2
     # via requests
 watchdog==4.0.1
     # via mkdocs
+wcmatch==10.0
+    # via mkdocs-awesome-pages-plugin
 wcwidth==0.2.13
     # via prompt-toolkit
 webcolors==24.6.0

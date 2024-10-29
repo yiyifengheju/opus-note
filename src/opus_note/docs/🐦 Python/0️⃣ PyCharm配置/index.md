@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[Pycharm配置](./A.md)__
+-    __[Pycharm配置](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--     __[创建requirements](./B.md)__
+-    __[创建requirements](./B.md)__
 
 	---
 

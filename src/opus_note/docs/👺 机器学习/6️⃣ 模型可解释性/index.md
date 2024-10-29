@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[Shapash](./A.md)__
+-    __[Shapash](./A.md)__
 
 	---
 

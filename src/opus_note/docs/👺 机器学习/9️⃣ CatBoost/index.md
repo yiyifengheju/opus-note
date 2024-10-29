@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[A0.ipynb](./A0.ipynb)__
+-    __[A0.ipynb](./A0.ipynb)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A0.ipynb)
 
--     __[fit](./Afit.md)__
+-    __[fit](./Afit.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./Afit.md)
 
--     __[predict](./Bpredict.md)__
+-    __[predict](./Bpredict.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./Bpredict.md)
 
--     __[calc_feature_statistics](./calc_feature_statistics.md)__
+-    __[calc_feature_statistics](./calc_feature_statistics.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./calc_feature_statistics.md)
 
--     __[calc_leaf_indexes](./calc_leaf_indexes.md)__
+-    __[calc_leaf_indexes](./calc_leaf_indexes.md)__
 
 	---
 
@@ -57,7 +57,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./calc_leaf_indexes.md)
 
--     __[compare](./compare.md)__
+-    __[compare](./compare.md)__
 
 	---
 
@@ -67,7 +67,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./compare.md)
 
--     __[copy](./copy.md)__
+-    __[copy](./copy.md)__
 
 	---
 
@@ -77,7 +77,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./copy.md)
 
--     __[eval_metrics](./eval_metrics.md)__
+-    __[eval_metrics](./eval_metrics.md)__
 
 	---
 
@@ -87,7 +87,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./eval_metrics.md)
 
--     __[get_all_params](./get_all_params.md)__
+-    __[get_all_params](./get_all_params.md)__
 
 	---
 
@@ -97,7 +97,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_all_params.md)
 
--     __[get_best_iteration](./get_best_iteration.md)__
+-    __[get_best_iteration](./get_best_iteration.md)__
 
 	---
 
@@ -107,7 +107,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_best_iteration.md)
 
--     __[get_best_score](./get_best_score.md)__
+-    __[get_best_score](./get_best_score.md)__
 
 	---
 
@@ -117,7 +117,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_best_score.md)
 
--     __[get_borders](./get_borders.md)__
+-    __[get_borders](./get_borders.md)__
 
 	---
 
@@ -127,7 +127,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_borders.md)
 
--     __[get_evals_result](./get_evals_result.md)__
+-    __[get_evals_result](./get_evals_result.md)__
 
 	---
 
@@ -137,7 +137,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_evals_result.md)
 
--     __[get_feature_importance](./get_feature_importance.md)__
+-    __[get_feature_importance](./get_feature_importance.md)__
 
 	---
 
@@ -147,7 +147,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_feature_importance.md)
 
--     __[get_object_importance](./get_object_importance.md)__
+-    __[get_object_importance](./get_object_importance.md)__
 
 	---
 
@@ -157,7 +157,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_object_importance.md)
 
--     __[get_param](./get_param.md)__
+-    __[get_param](./get_param.md)__
 
 	---
 
@@ -167,7 +167,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_param.md)
 
--     __[get_params](./get_params.md)__
+-    __[get_params](./get_params.md)__
 
 	---
 
@@ -177,7 +177,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_params.md)
 
--     __[get_scale_and_bias](./get_scale_and_bias.md)__
+-    __[get_scale_and_bias](./get_scale_and_bias.md)__
 
 	---
 
@@ -187,7 +187,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_scale_and_bias.md)
 
--     __[get_test_eval](./get_test_eval.md)__
+-    __[get_test_eval](./get_test_eval.md)__
 
 	---
 
@@ -197,7 +197,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./get_test_eval.md)
 
--     __[grid_search](./grid_search.md)__
+-    __[grid_search](./grid_search.md)__
 
 	---
 
@@ -207,7 +207,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./grid_search.md)
 
--     __[is_fitted](./is_fitted.md)__
+-    __[is_fitted](./is_fitted.md)__
 
 	---
 
@@ -217,7 +217,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./is_fitted.md)
 
--     __[load_model](./load_model.md)__
+-    __[load_model](./load_model.md)__
 
 	---
 
@@ -227,7 +227,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./load_model.md)
 
--     __[plot_predictions](./plot_predictions.md)__
+-    __[plot_predictions](./plot_predictions.md)__
 
 	---
 
@@ -237,7 +237,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./plot_predictions.md)
 
--     __[plot_tree](./plot_tree.md)__
+-    __[plot_tree](./plot_tree.md)__
 
 	---
 
@@ -247,7 +247,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./plot_tree.md)
 
--     __[randomized_search](./randomized_search.md)__
+-    __[randomized_search](./randomized_search.md)__
 
 	---
 
@@ -257,7 +257,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./randomized_search.md)
 
--     __[save_borders](./save_borders.md)__
+-    __[save_borders](./save_borders.md)__
 
 	---
 
@@ -267,7 +267,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./save_borders.md)
 
--     __[save_model](./save_model.md)__
+-    __[save_model](./save_model.md)__
 
 	---
 
@@ -277,7 +277,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./save_model.md)
 
--     __[select_features](./select_features.md)__
+-    __[select_features](./select_features.md)__
 
 	---
 
@@ -287,7 +287,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./select_features.md)
 
--     __[set_feature_names](./set_feature_names.md)__
+-    __[set_feature_names](./set_feature_names.md)__
 
 	---
 
@@ -297,7 +297,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./set_feature_names.md)
 
--     __[set_params](./set_params.md)__
+-    __[set_params](./set_params.md)__
 
 	---
 
@@ -307,7 +307,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./set_params.md)
 
--     __[set_scale_and_bias](./set_scale_and_bias.md)__
+-    __[set_scale_and_bias](./set_scale_and_bias.md)__
 
 	---
 

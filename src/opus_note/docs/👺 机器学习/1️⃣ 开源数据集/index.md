@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[A.ipynb](./A.ipynb)__
+-    __[A.ipynb](./A.ipynb)__
 
 	---
 

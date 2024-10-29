@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[Argparse](./Argparse.md)__
+-    __[Argparse](./Argparse.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./Argparse.md)
 
--     __[Loguru](./Loguru.md)__
+-    __[Loguru](./Loguru.md)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./Loguru.md)
 
--     __[Ruff](./Ruff.md)__
+-    __[Ruff](./Ruff.md)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./Ruff.md)
 
--     __[SciencePlots](./SciencePlots.md)__
+-    __[SciencePlots](./SciencePlots.md)__
 
 	---
 
@@ -47,7 +47,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./SciencePlots.md)
 
--     __[TensorbordX](./TensorboardX.md)__
+-    __[TensorbordX](./TensorboardX.md)__
 
 	---
 
@@ -57,7 +57,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./TensorboardX.md)
 
--     __[tqdm.ipynb](./tqdm.ipynb)__
+-    __[tqdm.ipynb](./tqdm.ipynb)__
 
 	---
 
@@ -67,7 +67,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./tqdm.ipynb)
 
--     __[uv](./uv.md)__
+-    __[uv](./uv.md)__
 
 	---
 

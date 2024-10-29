@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[A.ipynb](./A.ipynb)__
+-    __[A.ipynb](./A.ipynb)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.ipynb)
 
--     __[B.ipynb](./B.ipynb)__
+-    __[B.ipynb](./B.ipynb)__
 
 	---
 
@@ -27,7 +27,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./B.ipynb)
 
--     __[C.ipynb](./C.ipynb)__
+-    __[C.ipynb](./C.ipynb)__
 
 	---
 
@@ -37,7 +37,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./C.ipynb)
 
--     __[D.ipynb](./D.ipynb)__
+-    __[D.ipynb](./D.ipynb)__
 
 	---
 

@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--     __[基本语法](./A.md)__
+-    __[基本语法](./A.md)__
 
 	---
 
@@ -17,7 +17,7 @@ hide:
 
 	[:octicons-arrow-right-24: Getting started](./A.md)
 
--     __[标签](./B.md)__
+-    __[标签](./B.md)__
 
 	---
 

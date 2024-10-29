@@ -7,83 +7,83 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :simple-opensourceinitiative:  __[开源软件](./0️⃣ 开源软件/index.md)__
+-   :simple-opensourceinitiative: __[开源软件](./0️⃣ 开源软件/index.md)__
 
 	---
 
 	
 
-	开源软件是指源代码可以被公众查看、修改和增强的软件，它鼓励社区合作和创新。这类软件通常遵循特定的开源许可证，如GNU通用公共许可证（GPL）。
+	开源软件是指源代码可以被公众访问、使用、修改和分发的软件。遵循开源许可证，如MIT、GPL等，允许用户自由地查看、修改代码。
 
 	[:octicons-arrow-right-24: Getting started](./0️⃣ 开源软件/index.md)
 
--   :simple-ubuntu:  __[Linux(Ubuntu)](./1️⃣ Linux(Ubuntu)/index.md)__
+-   :simple-ubuntu: __[Linux(Ubuntu)](./1️⃣ Linux(Ubuntu)/index.md)__
 
 	---
 
 	
 
-	Ubuntu是一个基于Linux的开源操作系统，以其用户友好的界面和强大的社区支持而闻名。它适用于多种设备，包括桌面、服务器和云环境，提供了免费的更新和安全补丁。
+	Linux是一种开源的类UNIX操作系统，以其稳定性、安全性和灵活性闻名，广泛应用于服务器、桌面、移动设备和嵌入式系统。
 
 	[:octicons-arrow-right-24: Getting started](./1️⃣ Linux(Ubuntu)/index.md)
 
--   :simple-linux:  __[WSL](./2️⃣ WSL/index.md)__
+-   :simple-linux: __[WSL](./2️⃣ WSL/index.md)__
 
 	---
 
 	
 
-	WSL（Windows Subsystem for Linux）是微软开发的一项功能，它允许用户在Windows 10和Windows 11上原生运行Linux环境。
+	WSL（Windows Subsystem for Linux）是微软从Win10引入的功能，允许在Windows上运行Linux环境及其命令行工具和应用程序。
 
 	[:octicons-arrow-right-24: Getting started](./2️⃣ WSL/index.md)
 
--   :fontawesome-brands-windows:  __[Windows10](./3️⃣ Windows10/index.md)__
+-   :fontawesome-brands-windows: __[Windows10](./3️⃣ Windows10/index.md)__
 
 	---
 
 	
 
-	
+	Windows 10是微软于2015年推出的操作系统，提供了全新的开始菜单、Cortana语音助手、Edge浏览器等功能，支持多设备无缝操作。
 
 	[:octicons-arrow-right-24: Getting started](./3️⃣ Windows10/index.md)
 
--   :fontawesome-brands-windows:  __[Windows11](./4️⃣ Windows11/index.md)__
+-   :fontawesome-brands-windows: __[Windows11](./4️⃣ Windows11/index.md)__
 
 	---
 
 	
 
-	
+	Windows 11是微软于2021年推出的操作系统，提供了新版开始菜单，支持与时代相符的混合工作环境，并侧重于提高用户的工作效率。
 
 	[:octicons-arrow-right-24: Getting started](./4️⃣ Windows11/index.md)
 
--   :simple-git:  __[Git](./5️⃣ Git/index.md)__
+-   :simple-git: __[Git](./5️⃣ Git/index.md)__
 
 	---
 
 	
 
-	Git是一个开源的分布式版本控制系统，用于有效、高速地处理从小到大的项目版本管理。它由Linus Torvalds创建，支持分支和合并操作，广泛用于软件开发中以协调代码变更和多人协作。
+	Git是一个开源的分布式版本控制系统，用于处理项目版本管理。由Linus Torvalds创建，用于软件开发中以协调代码变更和多人协作。
 
 	[:octicons-arrow-right-24: Getting started](./5️⃣ Git/index.md)
 
--   :material-apple:  __[macOS](./6️⃣ macOS/index.md)__
+-   :material-apple: __[macOS](./6️⃣ macOS/index.md)__
 
 	---
 
 	
 
-	
+	macOS是苹果公司开发的桌面操作系统，专为Mac电脑设计。它以Unix为基础，提供直观的图形用户界面和强大的多任务能力。
 
 	[:octicons-arrow-right-24: Getting started](./6️⃣ macOS/index.md)
 
--   :simple-leagueoflegends:  __[英雄联盟](./7️⃣ 英雄联盟/index.md)__
+-   :simple-leagueoflegends: __[英雄联盟](./7️⃣ 英雄联盟/index.md)__
 
 	---
 
 	
 
-	
+	英雄联盟（League of Legends）是Riot Games开发的英雄对战网游，游戏以丰富的英雄角色、多样的游戏模式和团队竞技为特色。
 
 	[:octicons-arrow-right-24: Getting started](./7️⃣ 英雄联盟/index.md)
 
