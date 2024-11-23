@@ -1,5 +1,5 @@
 ---
-title: 🎀 软件及配置/7️⃣ 英雄联盟
+title: 7️⃣ 英雄联盟
 comments: false
 hide:
    - toc
@@ -7,24 +7,12 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[修复4K分辨率下指针过小](./A.md)__
+-   :material-folder-open:&emsp;__[🎀 软件及配置/7️⃣ 英雄联盟](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[📪 修复4K分辨率下指针过小](./A.md)
 
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
-
--    __[精彩时刻](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
+	&emsp;&emsp;[📪 精彩时刻](./B.md)
 
 </div>

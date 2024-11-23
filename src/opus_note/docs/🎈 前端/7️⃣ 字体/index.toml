@@ -3,7 +3,7 @@ title = "🦞 几个字体网站"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/7️⃣ 字体/A.md"
+path = "./🎈 前端/7️⃣ 字体/A.md"
 comments = true
 
 ["AA.md"]
@@ -11,7 +11,7 @@ title = "🎀 CloudConvert在线压缩"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/7️⃣ 字体/AA.md"
+path = "./🎈 前端/7️⃣ 字体/AA.md"
 comments = true
 
 ["B.md"]
@@ -19,7 +19,7 @@ title = "💥 FontTools字体压缩"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/7️⃣ 字体/B.md"
+path = "./🎈 前端/7️⃣ 字体/B.md"
 comments = true
 
 ["C.md"]
@@ -27,7 +27,7 @@ title = "🧧 Fontmin字体子集"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/7️⃣ 字体/C.md"
+path = "./🎈 前端/7️⃣ 字体/C.md"
 comments = true
 
 ["D.md"]
@@ -35,5 +35,5 @@ title = "🥩 字体压缩终极方法"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/7️⃣ 字体/D.md"
+path = "./🎈 前端/7️⃣ 字体/D.md"
 comments = true

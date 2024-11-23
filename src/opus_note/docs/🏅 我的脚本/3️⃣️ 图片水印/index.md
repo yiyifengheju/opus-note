@@ -1,5 +1,5 @@
 ---
-title: 🏅 我的脚本/3️⃣️ 图片水印
+title: 3️⃣️ 图片水印
 comments: false
 hide:
    - toc
@@ -7,34 +7,14 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Python添加图片水印](./A.md)__
+-   :material-folder-open:&emsp;__[🏅 我的脚本/3️⃣️ 图片水印](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🦩 Python添加图片水印](./A.md)
 
-	
+	&emsp;&emsp;[🦩 Gradio水印界面](./B.md)
 
-	[:octicons-arrow-right-24: Getting started](./A.md)
-
--    __[Gradio水印界面](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
-
--    __[CSS实现图片水印](./C.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.md)
+	&emsp;&emsp;[🦩 CSS实现图片水印](./C.md)
 
 </div>

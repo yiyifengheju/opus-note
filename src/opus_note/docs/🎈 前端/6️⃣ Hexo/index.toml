@@ -3,7 +3,7 @@ title = "🐬 Hexo配置记录"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/6️⃣ Hexo/A.md"
+path = "./🎈 前端/6️⃣ Hexo/A.md"
 date = 2021-06-26
 comments = true
 
@@ -12,7 +12,7 @@ title = "👗 跳过Fancybox渲染"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/6️⃣ Hexo/B.md"
+path = "./🎈 前端/6️⃣ Hexo/B.md"
 comments = true
 
 ["C.md"]
@@ -20,7 +20,7 @@ title = "🛌 Hexo-NexT为文章添加介绍卡片"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/6️⃣ Hexo/C.md"
+path = "./🎈 前端/6️⃣ Hexo/C.md"
 date = 2023-10-12
 comments = true
 
@@ -29,7 +29,7 @@ title = "🛌 Hexo公式渲染"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/6️⃣ Hexo/D.md"
+path = "./🎈 前端/6️⃣ Hexo/D.md"
 date = 2022-05-30
 comments = true
 
@@ -38,7 +38,7 @@ title = "🛌 NexT主题美化"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/6️⃣ Hexo/E.md"
+path = "./🎈 前端/6️⃣ Hexo/E.md"
 date = 2021-08-20
 comments = true
 
@@ -47,7 +47,7 @@ title = "🛌 NexT主题启用PJAX"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/6️⃣ Hexo/F.md"
+path = "./🎈 前端/6️⃣ Hexo/F.md"
 date = 2021-08-31
 comments = true
 
@@ -56,6 +56,6 @@ title = "🛌 Hexo制作个人画廊"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/6️⃣ Hexo/G.md"
+path = "./🎈 前端/6️⃣ Hexo/G.md"
 date = 2021-07-12
 comments = true

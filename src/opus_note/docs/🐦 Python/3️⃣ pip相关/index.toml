@@ -3,7 +3,7 @@ title = "⛄ pip常用命令"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/3️⃣ pip相关/A.md"
+path = "./🐦 Python/3️⃣ pip相关/A.md"
 comments = true
 
 ["B.md"]
@@ -11,7 +11,7 @@ title = "🛁 pip换源"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/3️⃣ pip相关/B.md"
+path = "./🐦 Python/3️⃣ pip相关/B.md"
 comments = true
 
 ["C.md"]
@@ -19,5 +19,5 @@ title = "🎧 pip升级第三方库"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/3️⃣ pip相关/C.md"
+path = "./🐦 Python/3️⃣ pip相关/C.md"
 comments = true

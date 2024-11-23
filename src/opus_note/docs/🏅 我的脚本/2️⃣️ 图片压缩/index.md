@@ -1,5 +1,5 @@
 ---
-title: 🏅 我的脚本/2️⃣️ 图片压缩
+title: 2️⃣️ 图片压缩
 comments: false
 hide:
    - toc
@@ -7,24 +7,12 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[图片压缩](./A.md)__
+-   :material-folder-open:&emsp;__[🏅 我的脚本/2️⃣️ 图片压缩](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🎃️ 图片压缩](./A.md)
 
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
-
--    __[图片压缩(tinypng)](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
+	&emsp;&emsp;[🎃️ 图片压缩(tinypng)](./B.md)
 
 </div>

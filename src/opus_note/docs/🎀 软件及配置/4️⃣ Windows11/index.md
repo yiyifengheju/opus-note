@@ -1,5 +1,5 @@
 ---
-title: 🎀 软件及配置/4️⃣ Windows11
+title: 4️⃣ Windows11
 comments: false
 hide:
    - toc
@@ -7,14 +7,10 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Win11配置](./A.md)__
+-   :material-folder-open:&emsp;__[🎀 软件及配置/4️⃣ Windows11](./index.md)__
 
 	---
 
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[🐽 Win11配置](./A.md)
 
 </div>

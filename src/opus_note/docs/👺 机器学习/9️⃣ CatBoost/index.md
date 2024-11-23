@@ -1,5 +1,5 @@
 ---
-title: 👺 机器学习/9️⃣ CatBoost
+title: 9️⃣ CatBoost
 comments: false
 hide:
    - toc
@@ -7,314 +7,86 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[A0.ipynb](./A0.ipynb)__
+-   :material-folder-open:&emsp;__[👺 机器学习/9️⃣ CatBoost](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[A0.ipynb](./A0.ipynb)
 
-	
+	&emsp;&emsp;[datasets](./Adatasets.md)
 
-	[:octicons-arrow-right-24: Getting started](./A0.ipynb)
+	&emsp;&emsp;[🐔 fit](./Afit.md)
 
--    __[fit](./Afit.md)__
+	&emsp;&emsp;[🦢 predict](./Bpredict.md)
 
-	---
+	&emsp;&emsp;[FeaturesData](./FeaturesData.md)
 
-	
+	&emsp;&emsp;[CatBoostIpythonWidget](./IpythonWidget.md)
 
-	
+	&emsp;&emsp;[Pool](./Pool.md)
 
-	[:octicons-arrow-right-24: Getting started](./Afit.md)
+	&emsp;&emsp;[Shrink](./Shrink.md)
 
--    __[predict](./Bpredict.md)__
+	&emsp;&emsp;[🏐 calc_feature_statistics](./calc_feature_statistics.md)
 
-	---
+	&emsp;&emsp;[⛄ calc_leaf_indexes](./calc_leaf_indexes.md)
 
-	
+	&emsp;&emsp;[⛄ compare](./compare.md)
 
-	
+	&emsp;&emsp;[⛄ copy](./copy.md)
 
-	[:octicons-arrow-right-24: Getting started](./Bpredict.md)
+	&emsp;&emsp;[cv](./cv.md)
 
--    __[calc_feature_statistics](./calc_feature_statistics.md)__
+	&emsp;&emsp;[⛄ eval_metrics](./eval_metrics.md)
 
-	---
+	&emsp;&emsp;[⛄ get_all_params](./get_all_params.md)
 
-	
+	&emsp;&emsp;[⛄ get_best_iteration](./get_best_iteration.md)
 
-	
+	&emsp;&emsp;[⛄ get_best_score](./get_best_score.md)
 
-	[:octicons-arrow-right-24: Getting started](./calc_feature_statistics.md)
+	&emsp;&emsp;[⛄ get_borders](./get_borders.md)
 
--    __[calc_leaf_indexes](./calc_leaf_indexes.md)__
+	&emsp;&emsp;[⛄ get_evals_result](./get_evals_result.md)
 
-	---
+	&emsp;&emsp;[⛄ get_feature_importance](./get_feature_importance.md)
 
-	
+	&emsp;&emsp;[⛄ get_object_importance](./get_object_importance.md)
 
-	
+	&emsp;&emsp;[⛄ get_param](./get_param.md)
 
-	[:octicons-arrow-right-24: Getting started](./calc_leaf_indexes.md)
+	&emsp;&emsp;[⛄ get_params](./get_params.md)
 
--    __[compare](./compare.md)__
+	&emsp;&emsp;[⛄ get_scale_and_bias](./get_scale_and_bias.md)
 
-	---
+	&emsp;&emsp;[⛄ get_test_eval](./get_test_eval.md)
 
-	
+	&emsp;&emsp;[⛄ grid_search](./grid_search.md)
 
-	
+	&emsp;&emsp;[⛄ is_fitted](./is_fitted.md)
 
-	[:octicons-arrow-right-24: Getting started](./compare.md)
+	&emsp;&emsp;[⛄ load_model](./load_model.md)
 
--    __[copy](./copy.md)__
+	&emsp;&emsp;[⛄ plot_predictions](./plot_predictions.md)
 
-	---
+	&emsp;&emsp;[⛄ plot_tree](./plot_tree.md)
 
-	
+	&emsp;&emsp;[⛄ randomized_search](./randomized_search.md)
 
-	
+	&emsp;&emsp;[⛄ save_borders](./save_borders.md)
 
-	[:octicons-arrow-right-24: Getting started](./copy.md)
+	&emsp;&emsp;[⛄ save_model](./save_model.md)
 
--    __[eval_metrics](./eval_metrics.md)__
+	&emsp;&emsp;[⛄ select_features](./select_features.md)
 
-	---
+	&emsp;&emsp;[⛄ set_feature_names](./set_feature_names.md)
 
-	
+	&emsp;&emsp;[⛄ set_params](./set_params.md)
 
-	
+	&emsp;&emsp;[⛄ set_scale_and_bias](./set_scale_and_bias.md)
 
-	[:octicons-arrow-right-24: Getting started](./eval_metrics.md)
+	&emsp;&emsp;[staged_predict](./staged_predict.md)
 
--    __[get_all_params](./get_all_params.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_all_params.md)
-
--    __[get_best_iteration](./get_best_iteration.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_best_iteration.md)
-
--    __[get_best_score](./get_best_score.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_best_score.md)
-
--    __[get_borders](./get_borders.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_borders.md)
-
--    __[get_evals_result](./get_evals_result.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_evals_result.md)
-
--    __[get_feature_importance](./get_feature_importance.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_feature_importance.md)
-
--    __[get_object_importance](./get_object_importance.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_object_importance.md)
-
--    __[get_param](./get_param.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_param.md)
-
--    __[get_params](./get_params.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_params.md)
-
--    __[get_scale_and_bias](./get_scale_and_bias.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_scale_and_bias.md)
-
--    __[get_test_eval](./get_test_eval.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./get_test_eval.md)
-
--    __[grid_search](./grid_search.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./grid_search.md)
-
--    __[is_fitted](./is_fitted.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./is_fitted.md)
-
--    __[load_model](./load_model.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./load_model.md)
-
--    __[plot_predictions](./plot_predictions.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./plot_predictions.md)
-
--    __[plot_tree](./plot_tree.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./plot_tree.md)
-
--    __[randomized_search](./randomized_search.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./randomized_search.md)
-
--    __[save_borders](./save_borders.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./save_borders.md)
-
--    __[save_model](./save_model.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./save_model.md)
-
--    __[select_features](./select_features.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./select_features.md)
-
--    __[set_feature_names](./set_feature_names.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./set_feature_names.md)
-
--    __[set_params](./set_params.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./set_params.md)
-
--    __[set_scale_and_bias](./set_scale_and_bias.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./set_scale_and_bias.md)
+	&emsp;&emsp;[virtual_ensembles_predict](./virtual_ensembles_predict.md)
 
 </div>

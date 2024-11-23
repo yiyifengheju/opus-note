@@ -1,5 +1,5 @@
 ---
-title: 🐦 Python/5️⃣ Python可视化
+title: 5️⃣ Python可视化
 comments: false
 hide:
    - toc
@@ -7,54 +7,18 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Matplotlib绘图](./A.md)__
+-   :material-folder-open:&emsp;__[🐦 Python/5️⃣ Python可视化](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🍎 Matplotlib绘图](./A.md)
 
-	
+	&emsp;&emsp;[🍉 过渡色](./B.md)
 
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[🍒 Matplotlib中英文设置（一）](./C.md)
 
--    __[过渡色](./B.md)__
+	&emsp;&emsp;[🍓 Matplotlib中英文设置（二）](./D.md)
 
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
-
--    __[Matplotlib中英文设置（一）](./C.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.md)
-
--    __[Matplotlib中英文设置（二）](./D.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./D.md)
-
--    __[PyEcharts绘图经验](./E.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./E.md)
+	&emsp;&emsp;[🍅 PyEcharts绘图经验](./E.md)
 
 </div>

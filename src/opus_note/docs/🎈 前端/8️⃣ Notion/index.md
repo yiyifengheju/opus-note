@@ -1,5 +1,5 @@
 ---
-title: 🎈 前端/8️⃣ Notion
+title: 8️⃣ Notion
 comments: false
 hide:
    - toc
@@ -7,14 +7,10 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Notion配置个人域名](./A.md)__
+-   :material-folder-open:&emsp;__[🎈 前端/8️⃣ Notion](./index.md)__
 
 	---
 
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[🐬 Notion配置个人域名](./A.md)
 
 </div>

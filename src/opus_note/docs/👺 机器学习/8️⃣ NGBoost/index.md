@@ -1,5 +1,5 @@
 ---
-title: 👺 机器学习/8️⃣ NGBoost
+title: 8️⃣ NGBoost
 comments: false
 hide:
    - toc
@@ -7,54 +7,18 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[NGBoost总览](./A.md)__
+-   :material-folder-open:&emsp;__[👺 机器学习/8️⃣ NGBoost](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🤷🏻 NGBoost总览](./A.md)
 
-	
+	&emsp;&emsp;[B.ipynb](./B.ipynb)
 
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[C.ipynb](./C.ipynb)
 
--    __[B.ipynb](./B.ipynb)__
+	&emsp;&emsp;[D.ipynb](./D.ipynb)
 
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.ipynb)
-
--    __[C.ipynb](./C.ipynb)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.ipynb)
-
--    __[D.ipynb](./D.ipynb)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./D.ipynb)
-
--    __[E.ipynb](./E.ipynb)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./E.ipynb)
+	&emsp;&emsp;[E.ipynb](./E.ipynb)
 
 </div>

@@ -1,5 +1,5 @@
 ---
-title: 🐦 Python/2️⃣ Conda相关
+title: 2️⃣ Conda相关
 comments: false
 hide:
    - toc
@@ -7,34 +7,14 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Anaconda升级](./A.md)__
+-   :material-folder-open:&emsp;__[🐦 Python/2️⃣ Conda相关](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🏇 Anaconda升级](./A.md)
 
-	
+	&emsp;&emsp;[🪵 Anaconda换源](./B.md)
 
-	[:octicons-arrow-right-24: Getting started](./A.md)
-
--    __[Anaconda换源](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
-
--    __[Conda常用操作](./C.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.md)
+	&emsp;&emsp;[🏈 Conda常用操作](./C.md)
 
 </div>

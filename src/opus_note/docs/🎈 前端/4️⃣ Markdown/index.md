@@ -1,5 +1,5 @@
 ---
-title: 🎈 前端/4️⃣ Markdown
+title: 4️⃣ Markdown
 comments: false
 hide:
    - toc
@@ -7,24 +7,12 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[基本语法](./A.md)__
+-   :material-folder-open:&emsp;__[🎈 前端/4️⃣ Markdown](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🍋 基本语法](./A.md)
 
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
-
--    __[标签](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
+	&emsp;&emsp;[👷🏻 标签](./B.md)
 
 </div>

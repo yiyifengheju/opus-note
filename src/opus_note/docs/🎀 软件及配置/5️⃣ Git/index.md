@@ -1,5 +1,5 @@
 ---
-title: 🎀 软件及配置/5️⃣ Git
+title: 5️⃣ Git
 comments: false
 hide:
    - toc
@@ -7,54 +7,20 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Git配置](./A.md)__
+-   :material-folder-open:&emsp;__[🎀 软件及配置/5️⃣ Git](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🩹 Git配置](./A.md)
 
-	
+	&emsp;&emsp;[👗 Git基础使用](./B.md)
 
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[🥏 Git Commit规范](./C.md)
 
--    __[Git基础使用](./B.md)__
+	&emsp;&emsp;[🐠 Git自动提交(Windows)](./D.md)
 
-	---
+	&emsp;&emsp;[🛢️ Git常见错误](./E.md)
 
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
-
--    __[Commit规范](./C.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.md)
-
--    __[Git自动提交(Windows)](./D.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./D.md)
-
--    __[Git常见错误](./E.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./E.md)
+	&emsp;&emsp;[Git技巧](./F.md)
 
 </div>

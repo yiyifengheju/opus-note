@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[koko-learn](./1️⃣ koko-learn/index.md)__
+-    __[koko-learn](./1️⃣ koko-learn)__
 
 	---
 
@@ -15,19 +15,9 @@ hide:
 
 	
 
-	[:octicons-arrow-right-24: Getting started](./1️⃣ koko-learn/index.md)
+	[:octicons-arrow-right-24: Getting started](./1️⃣ koko-learn)
 
--    __[koko-film](./2️⃣ koko-film/index.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./2️⃣ koko-film/index.md)
-
--    __[图片压缩](./2️⃣️ 图片压缩/index.md)__
+-    __[koko-film](./2️⃣ koko-film)__
 
 	---
 
@@ -35,9 +25,9 @@ hide:
 
 	
 
-	[:octicons-arrow-right-24: Getting started](./2️⃣️ 图片压缩/index.md)
+	[:octicons-arrow-right-24: Getting started](./2️⃣ koko-film)
 
--    __[图片水印](./3️⃣️ 图片水印/index.md)__
+-    __[图片压缩](./2️⃣️ 图片压缩)__
 
 	---
 
@@ -45,6 +35,16 @@ hide:
 
 	
 
-	[:octicons-arrow-right-24: Getting started](./3️⃣️ 图片水印/index.md)
+	[:octicons-arrow-right-24: Getting started](./2️⃣️ 图片压缩)
+
+-    __[图片水印](./3️⃣️ 图片水印)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./3️⃣️ 图片水印)
 
 </div>

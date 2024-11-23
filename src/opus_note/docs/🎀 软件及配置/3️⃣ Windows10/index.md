@@ -1,5 +1,5 @@
 ---
-title: 🎀 软件及配置/3️⃣ Windows10
+title: 3️⃣ Windows10
 comments: false
 hide:
    - toc
@@ -7,64 +7,20 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Win10常见报错及修复](./A.md)__
+-   :material-folder-open:&emsp;__[🎀 软件及配置/3️⃣ Windows10](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[📪 Win10常见报错及修复](./A.md)
 
-	
+	&emsp;&emsp;[⛈️ WindowsTerminal美化](./B.md)
 
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[🖊️ SSH配置](./BB.md)
 
--    __[WindowsTerminal美化](./B.md)__
+	&emsp;&emsp;[⌚ Windows美化](./C.md)
 
-	---
+	&emsp;&emsp;[☔ 修改PPT图片导出分辨率](./D.md)
 
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
-
--    __[SSH配置](./BB.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./BB.md)
-
--    __[Windows美化](./C.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.md)
-
--    __[修改PPT图片导出分辨率](./D.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./D.md)
-
--    __[国家标准参考文献格式](./E.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./E.md)
+	&emsp;&emsp;[☔ 国家标准参考文献格式](./E.md)
 
 </div>

@@ -1,5 +1,5 @@
 ---
-title: 👺 机器学习/5️⃣ 超参数优化
+title: 5️⃣ 超参数优化
 comments: false
 hide:
    - toc
@@ -7,44 +7,16 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[A.ipynb](./A.ipynb)__
+-   :material-folder-open:&emsp;__[👺 机器学习/5️⃣ 超参数优化](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[A.ipynb](./A.ipynb)
 
-	
+	&emsp;&emsp;[B.ipynb](./B.ipynb)
 
-	[:octicons-arrow-right-24: Getting started](./A.ipynb)
+	&emsp;&emsp;[C.ipynb](./C.ipynb)
 
--    __[B.ipynb](./B.ipynb)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.ipynb)
-
--    __[C.ipynb](./C.ipynb)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.ipynb)
-
--    __[D.ipynb](./D.ipynb)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./D.ipynb)
+	&emsp;&emsp;[D.ipynb](./D.ipynb)
 
 </div>

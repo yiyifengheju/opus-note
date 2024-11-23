@@ -1,5 +1,5 @@
 ---
-title: 🐦 Python/0️⃣ 扩展库
+title: 0️⃣ 扩展库
 comments: false
 hide:
    - toc
@@ -7,74 +7,22 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Argparse](./Argparse.md)__
+-   :material-folder-open:&emsp;__[🐦 Python/0️⃣ 扩展库](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[😀 Argparse](./Argparse.md)
 
-	
+	&emsp;&emsp;[🤣 Loguru](./Loguru.md)
 
-	[:octicons-arrow-right-24: Getting started](./Argparse.md)
+	&emsp;&emsp;[🤫 Ruff](./Ruff.md)
 
--    __[Loguru](./Loguru.md)__
+	&emsp;&emsp;[🥰 SciencePlots](./SciencePlots.md)
 
-	---
+	&emsp;&emsp;[🤩 TensorbordX](./TensorboardX.md)
 
-	
+	&emsp;&emsp;[tqdm.ipynb](./tqdm.ipynb)
 
-	
-
-	[:octicons-arrow-right-24: Getting started](./Loguru.md)
-
--    __[Ruff](./Ruff.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./Ruff.md)
-
--    __[SciencePlots](./SciencePlots.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./SciencePlots.md)
-
--    __[TensorbordX](./TensorboardX.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./TensorboardX.md)
-
--    __[tqdm.ipynb](./tqdm.ipynb)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./tqdm.ipynb)
-
--    __[uv](./uv.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./uv.md)
+	&emsp;&emsp;[🤠 uv](./uv.md)
 
 </div>

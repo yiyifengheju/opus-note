@@ -1,5 +1,5 @@
 ---
-title: 🐦 Python/9️⃣ Python硬件编程
+title: 9️⃣ Python硬件编程
 comments: false
 hide:
    - toc
@@ -7,14 +7,10 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[串口通信](./A.md)__
+-   :material-folder-open:&emsp;__[🐦 Python/9️⃣ Python硬件编程](./index.md)__
 
 	---
 
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[🏝️ 串口通信](./A.md)
 
 </div>

@@ -1,5 +1,5 @@
 ---
-title: 🐦 Python/1️⃣ Rye相关
+title: 1️⃣ Rye相关
 comments: false
 hide:
    - toc
@@ -7,34 +7,14 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Rye使用指南](./A.md)__
+-   :material-folder-open:&emsp;__[🐦 Python/1️⃣ Rye相关](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🥎 Rye使用指南](./A.md)
 
-	
+	&emsp;&emsp;[🧩 Rye踩坑记录](./B.md)
 
-	[:octicons-arrow-right-24: Getting started](./A.md)
-
--    __[Rye踩坑记录](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
-
--    __[Rye安装Jupyter](./C.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.md)
+	&emsp;&emsp;[🔫 Rye安装Jupyter](./C.md)
 
 </div>

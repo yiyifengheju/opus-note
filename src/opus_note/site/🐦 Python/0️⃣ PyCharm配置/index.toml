@@ -3,7 +3,7 @@ title = "🎤 Pycharm配置"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ PyCharm配置/A.md"
+path = "./🐦 Python/0️⃣ PyCharm配置/A.md"
 comments = true
 
 ["B.md"]
@@ -11,5 +11,5 @@ title = "🌩️ 创建requirements"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ PyCharm配置/B.md"
+path = "./🐦 Python/0️⃣ PyCharm配置/B.md"
 comments = true

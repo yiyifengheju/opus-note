@@ -1,5 +1,5 @@
 ---
-title: 🐦 Python/0️⃣ PyCharm配置
+title: 0️⃣ PyCharm配置
 comments: false
 hide:
    - toc
@@ -7,24 +7,12 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[Pycharm配置](./A.md)__
+-   :material-folder-open:&emsp;__[🐦 Python/0️⃣ PyCharm配置](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🎤 Pycharm配置](./A.md)
 
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
-
--    __[创建requirements](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
+	&emsp;&emsp;[🌩️ 创建requirements](./B.md)
 
 </div>

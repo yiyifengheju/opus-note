@@ -3,7 +3,7 @@ title = "🦢 WSL安装指定版本"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎀 软件及配置/2️⃣ WSL/A.md"
+path = "./🎀 软件及配置/2️⃣ WSL/A.md"
 comments = true
 
 ["D.md"]
@@ -11,7 +11,7 @@ title = "🕊️ WSL修改初始目录"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎀 软件及配置/2️⃣ WSL/D.md"
+path = "./🎀 软件及配置/2️⃣ WSL/D.md"
 comments = true
 
 ["E.md"]
@@ -19,5 +19,5 @@ title = "☃️ 调用WSL命令"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎀 软件及配置/2️⃣ WSL/E.md"
+path = "./🎀 软件及配置/2️⃣ WSL/E.md"
 comments = true

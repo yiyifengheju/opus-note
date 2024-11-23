@@ -3,7 +3,7 @@ title = "🍋 基本语法"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/4️⃣ Markdown/A.md"
+path = "./🎈 前端/4️⃣ Markdown/A.md"
 comments = true
 
 ["B.md"]
@@ -11,5 +11,5 @@ title = "👷🏻 标签"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/4️⃣ Markdown/B.md"
+path = "./🎈 前端/4️⃣ Markdown/B.md"
 comments = true

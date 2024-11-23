@@ -1,5 +1,5 @@
 ---
-title: 🎈 前端/1️⃣ 环境配置
+title: 1️⃣ 环境配置
 comments: false
 hide:
    - toc
@@ -7,64 +7,20 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[WebStorm环境配置](./A.md)__
+-   :material-folder-open:&emsp;__[🎈 前端/1️⃣ 环境配置](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🦢 WebStorm环境配置](./A.md)
 
-	
+	&emsp;&emsp;[🐔 常用NPM工具](./AA.md)
 
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[🏐 前端常用CDN网站](./AAA.md)
 
--    __[常用NPM工具](./AA.md)__
+	&emsp;&emsp;[⛄ 安装NodeJS](./B.md)
 
-	---
+	&emsp;&emsp;[🍙 NPM查看软件版本](./C.md)
 
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./AA.md)
-
--    __[前端常用CDN网站](./AAA.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./AAA.md)
-
--    __[安装NodeJS](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
-
--    __[NPM查看软件版本](./C.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.md)
-
--    __[NPM搭建网页服务器](./D.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./D.md)
+	&emsp;&emsp;[🎳 NPM搭建网页服务器](./D.md)
 
 </div>

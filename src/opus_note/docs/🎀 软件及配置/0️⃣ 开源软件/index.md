@@ -1,5 +1,5 @@
 ---
-title: 🎀 软件及配置/0️⃣ 开源软件
+title: 0️⃣ 开源软件
 comments: false
 hide:
    - toc
@@ -7,14 +7,10 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[TheFuck](./A.md)__
+-   :material-folder-open:&emsp;__[🎀 软件及配置/0️⃣ 开源软件](./index.md)__
 
 	---
 
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[🤩️ TheFuck](./A.md)
 
 </div>

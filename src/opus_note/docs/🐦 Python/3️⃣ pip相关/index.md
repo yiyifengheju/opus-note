@@ -1,5 +1,5 @@
 ---
-title: 🐦 Python/3️⃣ pip相关
+title: 3️⃣ pip相关
 comments: false
 hide:
    - toc
@@ -7,34 +7,14 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[pip常用命令](./A.md)__
+-   :material-folder-open:&emsp;__[🐦 Python/3️⃣ pip相关](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[⛄ pip常用命令](./A.md)
 
-	
+	&emsp;&emsp;[🛁 pip换源](./B.md)
 
-	[:octicons-arrow-right-24: Getting started](./A.md)
-
--    __[pip换源](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
-
--    __[pip升级第三方库](./C.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.md)
+	&emsp;&emsp;[🎧 pip升级第三方库](./C.md)
 
 </div>

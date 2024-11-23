@@ -3,7 +3,7 @@ title = "😀 Mkdocs新建环境"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/2️⃣ MkDocs/A.md"
+path = "./🎈 前端/2️⃣ MkDocs/A.md"
 comments = true
 
 ["B.md"]
@@ -11,7 +11,7 @@ title = "😆 MkDocs语法备忘"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/2️⃣ MkDocs/B.md"
+path = "./🎈 前端/2️⃣ MkDocs/B.md"
 comments = true
 
 ["C.md"]
@@ -19,7 +19,7 @@ title = "😍 MkDocs部署"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/2️⃣ MkDocs/C.md"
+path = "./🎈 前端/2️⃣ MkDocs/C.md"
 comments = true
 
 ["D.md"]
@@ -27,7 +27,7 @@ title = "😎 MkDocs插件"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/2️⃣ MkDocs/D.md"
+path = "./🎈 前端/2️⃣ MkDocs/D.md"
 comments = true
 
 ["E.md"]
@@ -35,7 +35,7 @@ title = "😎 MkDocs配置"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/2️⃣ MkDocs/E.md"
+path = "./🎈 前端/2️⃣ MkDocs/E.md"
 date = 2023-02-04
 comments = true
 
@@ -44,6 +44,6 @@ title = "😎 mkdocstrings-python经验总结"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🎈 前端/2️⃣ MkDocs/F.md"
+path = "./🎈 前端/2️⃣ MkDocs/F.md"
 date = 2024-09-24
 comments = true

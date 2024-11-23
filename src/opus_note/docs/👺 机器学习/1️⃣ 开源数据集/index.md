@@ -1,5 +1,5 @@
 ---
-title: 👺 机器学习/1️⃣ 开源数据集
+title: 1️⃣ 开源数据集
 comments: false
 hide:
    - toc
@@ -7,14 +7,10 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[A.ipynb](./A.ipynb)__
+-   :material-folder-open:&emsp;__[👺 机器学习/1️⃣ 开源数据集](./index.md)__
 
 	---
 
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.ipynb)
+	&emsp;&emsp;[A.ipynb](./A.ipynb)
 
 </div>

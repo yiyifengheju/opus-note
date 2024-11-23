@@ -3,7 +3,7 @@ title = "🐽 Python多线程(一)"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ 基础编程/A.md"
+path = "./🐦 Python/0️⃣ 基础编程/A.md"
 comments = true
 
 ["B.md"]
@@ -11,7 +11,7 @@ title = "🐙 Python多线程(二)"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ 基础编程/B.md"
+path = "./🐦 Python/0️⃣ 基础编程/B.md"
 comments = true
 
 ["C.md"]
@@ -19,7 +19,7 @@ title = "🎃 ThreadPoolExecutor按顺序获取结果"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ 基础编程/C.md"
+path = "./🐦 Python/0️⃣ 基础编程/C.md"
 comments = true
 
 ["CC.ipynb"]
@@ -27,14 +27,14 @@ title = "CC.ipynb"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ 基础编程/CC.ipynb"
+path = "./🐦 Python/0️⃣ 基础编程/CC.ipynb"
 
 ["D.md"]
 title = "🏀 getattr()动态获取对象属性和方法"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ 基础编程/D.md"
+path = "./🐦 Python/0️⃣ 基础编程/D.md"
 comments = true
 
 ["E.md"]
@@ -42,7 +42,7 @@ title = "🍘 使用`Literal`提高Python代码的类型安全性"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ 基础编程/E.md"
+path = "./🐦 Python/0️⃣ 基础编程/E.md"
 date = "2024.07.24"
 comments = true
 
@@ -51,7 +51,7 @@ title = "🦀 `ThreadPoolExecutor`确定可使用的最大`max_workers`"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ 基础编程/F.md"
+path = "./🐦 Python/0️⃣ 基础编程/F.md"
 date = "2024.07.24"
 comments = true
 
@@ -60,5 +60,5 @@ title = "🐖 文件操作"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/🐦 Python/0️⃣ 基础编程/G.md"
+path = "./🐦 Python/0️⃣ 基础编程/G.md"
 comments = true

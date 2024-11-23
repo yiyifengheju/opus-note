@@ -10,14 +10,14 @@
 #   universal: false
 
 -e file:.
-aiohappyeyeballs==2.3.2
+aiohappyeyeballs==2.4.3
     # via aiohttp
-aiohttp==3.10.0
+aiohttp==3.11.7
     # via datasets
     # via fsspec
 aiosignal==1.3.1
     # via aiohttp
-anyio==4.4.0
+anyio==4.6.2.post1
     # via httpx
     # via jupyter-server
 argon2-cffi==23.1.0
@@ -30,7 +30,7 @@ asttokens==2.4.1
     # via stack-data
 async-lru==2.0.4
     # via jupyterlab
-attrs==23.2.0
+attrs==24.2.0
     # via aiohttp
     # via jsonschema
     # via referencing
@@ -39,33 +39,33 @@ autograd==1.7.0
     # via lifelines
 autograd-gamma==0.5.0
     # via lifelines
-babel==2.15.0
+babel==2.16.0
     # via jupyterlab-server
     # via mkdocs-material
 beautifulsoup4==4.12.3
     # via nbconvert
-bleach==6.1.0
+bleach==6.2.0
     # via nbconvert
 bracex==2.5.post1
     # via wcmatch
-catboost==1.2.5
+catboost==1.2.7
     # via opus-note
-certifi==2024.7.4
+certifi==2024.8.30
     # via httpcore
     # via httpx
     # via requests
-cffi==1.16.0
+cffi==1.17.1
     # via argon2-cffi-bindings
-charset-normalizer==3.3.2
+charset-normalizer==3.4.0
     # via requests
-cleanlab==2.6.6
+cleanlab==2.7.0
     # via opus-note
 cleanvision==0.3.6
     # via cleanlab
 click==8.1.7
     # via mkdocs
     # via neoteroi-mkdocs
-cloudpickle==3.0.0
+cloudpickle==3.1.0
     # via shap
 colorama==0.4.6
     # via click
@@ -77,15 +77,15 @@ colorama==0.4.6
 comm==0.2.2
     # via ipykernel
     # via ipywidgets
-contourpy==1.2.1
+contourpy==1.3.1
     # via matplotlib
 css-html-js-minify==2.5.5
     # via opus-note
 cycler==0.12.1
     # via matplotlib
-datasets==2.20.0
+datasets==3.1.0
     # via cleanlab
-debugpy==1.8.2
+debugpy==1.8.9
     # via ipykernel
 decorator==5.1.1
     # via ipython
@@ -98,24 +98,24 @@ essentials==1.1.5
     # via essentials-openapi
 essentials-openapi==1.0.9
     # via neoteroi-mkdocs
-executing==2.0.1
+executing==2.1.0
     # via stack-data
 fastjsonschema==2.20.0
     # via nbformat
-filelock==3.15.4
+filelock==3.16.1
     # via datasets
     # via huggingface-hub
-fonttools==4.53.1
+fonttools==4.55.0
     # via matplotlib
     # via opus-note
 formulaic==1.0.2
     # via lifelines
 fqdn==1.5.1
     # via jsonschema
-frozenlist==1.4.1
+frozenlist==1.5.0
     # via aiohttp
     # via aiosignal
-fsspec==2024.5.0
+fsspec==2024.9.0
     # via cleanvision
     # via datasets
     # via huggingface-hub
@@ -125,14 +125,14 @@ graphviz==0.20.3
     # via catboost
 h11==0.14.0
     # via httpcore
-httpcore==1.0.5
+httpcore==1.0.7
     # via httpx
-httpx==0.27.0
+httpx==0.27.2
     # via jupyterlab
     # via neoteroi-mkdocs
-huggingface-hub==0.24.3
+huggingface-hub==0.26.2
     # via datasets
-idna==3.7
+idna==3.10
     # via anyio
     # via httpx
     # via jsonschema
@@ -147,16 +147,15 @@ ipykernel==6.29.5
     # via jupyter-console
     # via jupyterlab
     # via mkdocs-jupyter
-    # via qtconsole
-ipython==8.26.0
+ipython==8.29.0
     # via ipykernel
     # via ipywidgets
     # via jupyter-console
-ipywidgets==8.1.3
+ipywidgets==8.1.5
     # via jupyter
 isoduration==20.11.0
     # via jsonschema
-jedi==0.19.1
+jedi==0.19.2
     # via ipython
 jinja2==3.1.4
     # via jupyter-server
@@ -168,24 +167,23 @@ jinja2==3.1.4
     # via neoteroi-mkdocs
 joblib==1.4.2
     # via scikit-learn
-json5==0.9.25
+json5==0.9.28
     # via jupyterlab-server
 jsonpointer==3.0.0
     # via jsonschema
-jsonschema==4.22.0
+jsonschema==4.23.0
     # via jupyter-events
     # via jupyterlab-server
     # via nbformat
-jsonschema-specifications==2023.12.1
+jsonschema-specifications==2024.10.1
     # via jsonschema
-jupyter==1.0.0
+jupyter==1.1.1
     # via opus-note
-jupyter-client==8.6.2
+jupyter-client==8.6.3
     # via ipykernel
     # via jupyter-console
     # via jupyter-server
     # via nbclient
-    # via qtconsole
 jupyter-console==6.6.3
     # via jupyter
 jupyter-core==5.7.2
@@ -197,7 +195,6 @@ jupyter-core==5.7.2
     # via nbclient
     # via nbconvert
     # via nbformat
-    # via qtconsole
 jupyter-events==0.10.0
     # via jupyter-server
 jupyter-lsp==2.2.5
@@ -210,7 +207,8 @@ jupyter-server==2.14.2
     # via notebook-shim
 jupyter-server-terminals==0.5.3
     # via jupyter-server
-jupyterlab==4.2.4
+jupyterlab==4.2.6
+    # via jupyter
     # via notebook
     # via opus-note
 jupyterlab-pygments==0.3.0
@@ -218,19 +216,19 @@ jupyterlab-pygments==0.3.0
 jupyterlab-server==2.27.3
     # via jupyterlab
     # via notebook
-jupyterlab-widgets==3.0.11
+jupyterlab-widgets==3.0.13
     # via ipywidgets
-jupytext==1.16.2
+jupytext==1.16.4
     # via mkdocs-jupyter
-kiwisolver==1.4.5
+kiwisolver==1.4.7
     # via matplotlib
-lifelines==0.29.0
+lifelines==0.30.0
     # via ngboost
 llvmlite==0.43.0
     # via numba
 loguru==0.7.2
     # via opus-note
-markdown==3.6
+markdown==3.7
     # via mkdocs
     # via mkdocs-material
     # via pymdown-extensions
@@ -243,7 +241,7 @@ markupsafe==2.1.5
     # via jinja2
     # via mkdocs
     # via nbconvert
-matplotlib==3.9.1
+matplotlib==3.9.2
     # via catboost
     # via cleanlab
     # via cleanvision
@@ -252,7 +250,7 @@ matplotlib==3.9.1
 matplotlib-inline==0.1.7
     # via ipykernel
     # via ipython
-mdit-py-plugins==0.4.1
+mdit-py-plugins==0.4.2
     # via jupytext
 mdurl==0.1.2
     # via markdown-it-py
@@ -261,7 +259,7 @@ mergedeep==1.3.4
     # via mkdocs-get-deps
 mistune==3.0.2
     # via nbconvert
-mkdocs==1.6.0
+mkdocs==1.6.1
     # via mkdocs-awesome-pages-plugin
     # via mkdocs-jupyter
     # via mkdocs-material
@@ -272,14 +270,14 @@ mkdocs-get-deps==0.2.0
     # via mkdocs
 mkdocs-glightbox==0.4.0
     # via opus-note
-mkdocs-jupyter==0.24.8
+mkdocs-jupyter==0.25.1
     # via opus-note
-mkdocs-material==9.5.34
+mkdocs-material==9.5.45
     # via mkdocs-jupyter
     # via opus-note
 mkdocs-material-extensions==1.3.1
     # via mkdocs-material
-multidict==6.0.5
+multidict==6.1.0
     # via aiohttp
     # via yarl
 multiprocess==0.70.16
@@ -303,7 +301,7 @@ nest-asyncio==1.6.0
     # via ipykernel
 ngboost==0.5.1
     # via opus-note
-notebook==7.2.1
+notebook==7.2.2
     # via jupyter
     # via opus-note
 notebook-shim==0.2.4
@@ -325,7 +323,6 @@ numpy==1.26.4
     # via ngboost
     # via numba
     # via pandas
-    # via pyarrow
     # via pywavelets
     # via scikit-learn
     # via scipy
@@ -333,7 +330,7 @@ numpy==1.26.4
     # via shap
 overrides==7.7.0
     # via jupyter-server
-packaging==24.1
+packaging==24.2
     # via datasets
     # via huggingface-hub
     # via ipykernel
@@ -345,12 +342,10 @@ packaging==24.1
     # via mkdocs
     # via nbconvert
     # via plotly
-    # via qtconsole
-    # via qtpy
     # via shap
-paginate==0.5.6
+paginate==0.5.7
     # via mkdocs-material
-pandas==2.2.2
+pandas==2.2.3
     # via catboost
     # via cleanlab
     # via cleanvision
@@ -366,28 +361,29 @@ parso==0.8.4
     # via jedi
 pathspec==0.12.1
     # via mkdocs
-pillow==10.4.0
+pillow==11.0.0
     # via cleanvision
     # via imagehash
     # via matplotlib
     # via opus-note
-platformdirs==4.2.2
+platformdirs==4.3.6
     # via jupyter-core
     # via mkdocs-get-deps
-plotly==5.24.0
+plotly==5.24.1
     # via catboost
-prometheus-client==0.20.0
+prometheus-client==0.21.0
     # via jupyter-server
-prompt-toolkit==3.0.47
+prompt-toolkit==3.0.48
     # via ipython
     # via jupyter-console
-psutil==6.0.0
+propcache==0.2.0
+    # via aiohttp
+    # via yarl
+psutil==6.1.0
     # via ipykernel
-pure-eval==0.2.2
+pure-eval==0.2.3
     # via stack-data
-pyarrow==17.0.0
-    # via datasets
-pyarrow-hotfix==0.6
+pyarrow==18.0.0
     # via datasets
 pycparser==2.22
     # via cffi
@@ -397,11 +393,10 @@ pygments==2.18.0
     # via mkdocs-jupyter
     # via mkdocs-material
     # via nbconvert
-    # via qtconsole
     # via rich
-pymdown-extensions==10.8.1
+pymdown-extensions==10.12
     # via mkdocs-material
-pyparsing==3.1.2
+pyparsing==3.2.0
     # via matplotlib
 python-dateutil==2.9.0.post0
     # via arrow
@@ -411,17 +406,17 @@ python-dateutil==2.9.0.post0
     # via pandas
 python-json-logger==2.0.7
     # via jupyter-events
-pytz==2024.1
+pytz==2024.2
     # via pandas
-pywavelets==1.6.0
+pywavelets==1.7.0
     # via imagehash
-pywin32==306
+pywin32==308
     # via jupyter-core
-pywinpty==2.0.13
+pywinpty==2.0.14
     # via jupyter-server
     # via jupyter-server-terminals
     # via terminado
-pyyaml==6.0.1
+pyyaml==6.0.2
     # via datasets
     # via essentials-openapi
     # via huggingface-hub
@@ -433,21 +428,16 @@ pyyaml==6.0.1
     # via pyyaml-env-tag
 pyyaml-env-tag==0.1
     # via mkdocs
-pyzmq==26.0.3
+pyzmq==26.2.0
     # via ipykernel
     # via jupyter-client
     # via jupyter-console
     # via jupyter-server
-    # via qtconsole
-qtconsole==5.5.2
-    # via jupyter
-qtpy==2.4.1
-    # via qtconsole
 referencing==0.35.1
     # via jsonschema
     # via jsonschema-specifications
     # via jupyter-events
-regex==2024.7.24
+regex==2024.11.6
     # via mkdocs-material
     # via opus-note
 requests==2.32.3
@@ -461,17 +451,17 @@ rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
     # via jsonschema
     # via jupyter-events
-rich==13.7.1
+rich==13.9.4
     # via neoteroi-mkdocs
-rpds-py==0.18.1
+rpds-py==0.21.0
     # via jsonschema
     # via referencing
-scikit-learn==1.5.1
+scikit-learn==1.5.2
     # via cleanlab
     # via ngboost
     # via opus-note
     # via shap
-scipy==1.14.0
+scipy==1.14.1
     # via autograd-gamma
     # via catboost
     # via formulaic
@@ -484,13 +474,12 @@ seaborn==0.13.2
     # via opus-note
 send2trash==1.8.3
     # via jupyter-server
-setuptools==72.1.0
+setuptools==75.6.0
     # via jupyterlab
 shap==0.46.0
     # via opus-note
 six==1.16.0
     # via asttokens
-    # via bleach
     # via catboost
     # via python-dateutil
     # via rfc3339-validator
@@ -499,7 +488,7 @@ slicer==0.0.8
 sniffio==1.3.1
     # via anyio
     # via httpx
-soupsieve==2.5
+soupsieve==2.6
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
@@ -507,25 +496,25 @@ tabulate==0.9.0
     # via cleanvision
 tenacity==9.0.0
     # via plotly
-termcolor==2.4.0
+termcolor==2.5.0
     # via cleanlab
 terminado==0.18.1
     # via jupyter-server
     # via jupyter-server-terminals
 threadpoolctl==3.5.0
     # via scikit-learn
-tinycss2==1.3.0
+tinycss2==1.4.0
     # via nbconvert
 toml==0.10.2
     # via opus-note
-tornado==6.4.1
+tornado==6.4.2
     # via ipykernel
     # via jupyter-client
     # via jupyter-server
     # via jupyterlab
     # via notebook
     # via terminado
-tqdm==4.66.4
+tqdm==4.67.0
     # via cleanlab
     # via cleanvision
     # via datasets
@@ -548,39 +537,38 @@ traitlets==5.14.3
     # via nbclient
     # via nbconvert
     # via nbformat
-    # via qtconsole
-types-python-dateutil==2.9.0.20240316
+types-python-dateutil==2.9.0.20241003
     # via arrow
 typing-extensions==4.12.2
     # via formulaic
     # via huggingface-hub
     # via ipython
-tzdata==2024.1
+tzdata==2024.2
     # via pandas
 uri-template==1.3.0
     # via jsonschema
-urllib3==2.2.2
+urllib3==2.2.3
     # via requests
-watchdog==4.0.1
+watchdog==6.0.0
     # via mkdocs
 wcmatch==10.0
     # via mkdocs-awesome-pages-plugin
 wcwidth==0.2.13
     # via prompt-toolkit
-webcolors==24.6.0
+webcolors==24.11.1
     # via jsonschema
 webencodings==0.5.1
     # via bleach
     # via tinycss2
 websocket-client==1.8.0
     # via jupyter-server
-widgetsnbextension==4.0.11
+widgetsnbextension==4.0.13
     # via ipywidgets
 win32-setctime==1.1.0
     # via loguru
-wrapt==1.16.0
+wrapt==1.17.0
     # via formulaic
-xxhash==3.4.1
+xxhash==3.5.0
     # via datasets
-yarl==1.9.4
+yarl==1.18.0
     # via aiohttp

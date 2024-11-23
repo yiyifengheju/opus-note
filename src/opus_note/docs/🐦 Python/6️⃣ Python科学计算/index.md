@@ -1,5 +1,5 @@
 ---
-title: 🐦 Python/6️⃣ Python科学计算
+title: 6️⃣ Python科学计算
 comments: false
 hide:
    - toc
@@ -7,34 +7,14 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[A.ipynb](./A.ipynb)__
+-   :material-folder-open:&emsp;__[🐦 Python/6️⃣ Python科学计算](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[A.ipynb](./A.ipynb)
 
-	
+	&emsp;&emsp;[🐟 Numpy](./B.md)
 
-	[:octicons-arrow-right-24: Getting started](./A.ipynb)
-
--    __[Numpy](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
-
--    __[Scipy](./C.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./C.md)
+	&emsp;&emsp;[🥣 Scipy](./C.md)
 
 </div>

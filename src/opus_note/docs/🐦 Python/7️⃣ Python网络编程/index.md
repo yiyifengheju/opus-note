@@ -1,5 +1,5 @@
 ---
-title: 🐦 Python/7️⃣ Python网络编程
+title: 7️⃣ Python网络编程
 comments: false
 hide:
    - toc
@@ -7,14 +7,10 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[搭建HTTP服务](./A.md)__
+-   :material-folder-open:&emsp;__[🐦 Python/7️⃣ Python网络编程](./index.md)__
 
 	---
 
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
+	&emsp;&emsp;[🩳 搭建HTTP服务](./A.md)
 
 </div>

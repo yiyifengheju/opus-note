@@ -1,5 +1,5 @@
 ---
-title: 👺 机器学习/7️⃣ 置信学习
+title: 7️⃣ 置信学习
 comments: false
 hide:
    - toc
@@ -7,54 +7,18 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--    __[cl1.ipynb](./cl1.ipynb)__
+-   :material-folder-open:&emsp;__[👺 机器学习/7️⃣ 置信学习](./index.md)__
 
 	---
 
-	
+	&emsp;&emsp;[🍁 置信学习](./A.md)
 
-	
+	&emsp;&emsp;[🍁 问题](./B.md)
 
-	[:octicons-arrow-right-24: Getting started](./cl1.ipynb)
+	&emsp;&emsp;[cl1.ipynb](./cl1.ipynb)
 
--    __[cl2.ipynb](./cl2.ipynb)__
+	&emsp;&emsp;[cl2.ipynb](./cl2.ipynb)
 
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./cl2.ipynb)
-
--    __[cl3.ipynb](./cl3.ipynb)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./cl3.ipynb)
-
--    __[置信学习](./A.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./A.md)
-
--    __[问题](./B.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./B.md)
+	&emsp;&emsp;[cl3.ipynb](./cl3.ipynb)
 
 </div>

@@ -3,7 +3,7 @@ title = "🤷🏻 NGBoost总览"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/👺 机器学习/8️⃣ NGBoost/A.md"
+path = "./👺 机器学习/8️⃣ NGBoost/A.md"
 date = "2024.08.28"
 comments = true
 
@@ -12,25 +12,25 @@ title = "B.ipynb"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/👺 机器学习/8️⃣ NGBoost/B.ipynb"
+path = "./👺 机器学习/8️⃣ NGBoost/B.ipynb"
 
 ["C.ipynb"]
 title = "C.ipynb"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/👺 机器学习/8️⃣ NGBoost/C.ipynb"
+path = "./👺 机器学习/8️⃣ NGBoost/C.ipynb"
 
 ["D.ipynb"]
 title = "D.ipynb"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/👺 机器学习/8️⃣ NGBoost/D.ipynb"
+path = "./👺 机器学习/8️⃣ NGBoost/D.ipynb"
 
 ["E.ipynb"]
 title = "E.ipynb"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/👺 机器学习/8️⃣ NGBoost/E.ipynb"
+path = "./👺 机器学习/8️⃣ NGBoost/E.ipynb"

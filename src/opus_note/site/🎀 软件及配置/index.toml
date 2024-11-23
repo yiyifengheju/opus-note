@@ -3,53 +3,53 @@ title = "0️⃣ 开源软件"
 emoji = ":simple-opensourceinitiative:"
 info = "开源软件是指源代码可以被公众访问、使用、修改和分发的软件。遵循开源许可证，如MIT、GPL等，允许用户自由地查看、修改代码。"
 cover = ""
-path = "../docs/🎀 软件及配置/0️⃣ 开源软件"
+path = "./🎀 软件及配置/0️⃣ 开源软件"
 
 ["1️⃣ Linux(Ubuntu)"]
 title = "1️⃣ Linux(Ubuntu)"
 info = "Linux是一种开源的类UNIX操作系统，以其稳定性、安全性和灵活性闻名，广泛应用于服务器、桌面、移动设备和嵌入式系统。"
 emoji = ":simple-ubuntu:"
 cover = ""
-path = "../docs/🎀 软件及配置/1️⃣ Linux(Ubuntu)"
+path = "./🎀 软件及配置/1️⃣ Linux(Ubuntu)"
 
 ["2️⃣ WSL"]
 title = "2️⃣ WSL"
 info = "WSL（Windows Subsystem for Linux）是微软从Win10引入的功能，允许在Windows上运行Linux环境及其命令行工具和应用程序。"
 emoji = ":simple-linux:"
 cover = ""
-path = "../docs/🎀 软件及配置/2️⃣ WSL"
+path = "./🎀 软件及配置/2️⃣ WSL"
 
 ["3️⃣ Windows10"]
 title = "3️⃣ Windows10"
 cover = ""
 emoji = ":fontawesome-brands-windows:"
 info = "Windows 10是微软于2015年推出的操作系统，提供了全新的开始菜单、Cortana语音助手、Edge浏览器等功能，支持多设备无缝操作。"
-path = "../docs/🎀 软件及配置/3️⃣ Windows10"
+path = "./🎀 软件及配置/3️⃣ Windows10"
 
 ["4️⃣ Windows11"]
 title = "4️⃣ Windows11"
 info = "Windows 11是微软于2021年推出的操作系统，提供了新版开始菜单，支持与时代相符的混合工作环境，并侧重于提高用户的工作效率。"
 emoji = ":fontawesome-brands-windows:"
 cover = ""
-path = "../docs/🎀 软件及配置/4️⃣ Windows11"
+path = "./🎀 软件及配置/4️⃣ Windows11"
 
 ["5️⃣ Git"]
 title = "5️⃣ Git"
 info = "Git是一个开源的分布式版本控制系统，用于处理项目版本管理。由Linus Torvalds创建，用于软件开发中以协调代码变更和多人协作。"
 emoji = ":simple-git:"
 cover = ""
-path = "../docs/🎀 软件及配置/5️⃣ Git"
+path = "./🎀 软件及配置/5️⃣ Git"
 
 ["6️⃣ macOS"]
 title = "6️⃣ macOS"
 cover = ""
 emoji = ":material-apple:"
 info = "macOS是苹果公司开发的桌面操作系统，专为Mac电脑设计。它以Unix为基础，提供直观的图形用户界面和强大的多任务能力。"
-path = "../docs/🎀 软件及配置/6️⃣ macOS"
+path = "./🎀 软件及配置/6️⃣ macOS"
 
 ["7️⃣ 英雄联盟"]
 title = "7️⃣ 英雄联盟"
 cover = ""
 emoji = ":simple-leagueoflegends:"
 info = "英雄联盟（League of Legends）是Riot Games开发的英雄对战网游，游戏以丰富的英雄角色、多样的游戏模式和团队竞技为特色。"
-path = "../docs/🎀 软件及配置/7️⃣ 英雄联盟"
+path = "./🎀 软件及配置/7️⃣ 英雄联盟"

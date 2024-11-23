@@ -7,7 +7,7 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :simple-anaconda: __[环境配置](./1️⃣ 环境配置/index.md)__
+-   :simple-anaconda: __[环境配置](./1️⃣ 环境配置)__
 
 	---
 
@@ -15,19 +15,9 @@ hide:
 
 	
 
-	[:octicons-arrow-right-24: Getting started](./1️⃣ 环境配置/index.md)
+	[:octicons-arrow-right-24: Getting started](./1️⃣ 环境配置)
 
--   :simple-materialformkdocs: __[MkDocs](./2️⃣ MkDocs/index.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./2️⃣ MkDocs/index.md)
-
--   :simple-minio: __[MinIO](./3️⃣ MinIO/index.md)__
+-   :simple-materialformkdocs: __[MkDocs](./2️⃣ MkDocs)__
 
 	---
 
@@ -35,19 +25,9 @@ hide:
 
 	
 
-	[:octicons-arrow-right-24: Getting started](./3️⃣ MinIO/index.md)
+	[:octicons-arrow-right-24: Getting started](./2️⃣ MkDocs)
 
--   :simple-markdown: __[Markdown](./4️⃣ Markdown/index.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./4️⃣ Markdown/index.md)
-
--   :simple-apache: __[Apache](./5️⃣ Apache/index.md)__
+-   :simple-minio: __[MinIO](./3️⃣ MinIO)__
 
 	---
 
@@ -55,19 +35,9 @@ hide:
 
 	
 
-	[:octicons-arrow-right-24: Getting started](./5️⃣ Apache/index.md)
+	[:octicons-arrow-right-24: Getting started](./3️⃣ MinIO)
 
--   :simple-hexo: __[Hexo](./6️⃣ Hexo/index.md)__
-
-	---
-
-	
-
-	
-
-	[:octicons-arrow-right-24: Getting started](./6️⃣ Hexo/index.md)
-
--   :fontawesome-solid-font: __[字体](./7️⃣ 字体/index.md)__
+-   :simple-markdown: __[Markdown](./4️⃣ Markdown)__
 
 	---
 
@@ -75,9 +45,9 @@ hide:
 
 	
 
-	[:octicons-arrow-right-24: Getting started](./7️⃣ 字体/index.md)
+	[:octicons-arrow-right-24: Getting started](./4️⃣ Markdown)
 
--   :simple-notion: __[Notion](./8️⃣ Notion/index.md)__
+-   :simple-apache: __[Apache](./5️⃣ Apache)__
 
 	---
 
@@ -85,6 +55,36 @@ hide:
 
 	
 
-	[:octicons-arrow-right-24: Getting started](./8️⃣ Notion/index.md)
+	[:octicons-arrow-right-24: Getting started](./5️⃣ Apache)
+
+-   :simple-hexo: __[Hexo](./6️⃣ Hexo)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./6️⃣ Hexo)
+
+-   :fontawesome-solid-font: __[字体](./7️⃣ 字体)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./7️⃣ 字体)
+
+-   :simple-notion: __[Notion](./8️⃣ Notion)__
+
+	---
+
+	
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./8️⃣ Notion)
 
 </div>

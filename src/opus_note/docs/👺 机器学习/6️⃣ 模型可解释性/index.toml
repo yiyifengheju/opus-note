@@ -3,6 +3,42 @@ title = "🍁 Shapash"
 emoji = ""
 info = ""
 cover = ""
-path = "../docs/👺 机器学习/6️⃣ 模型可解释性/A.md"
+path = "./👺 机器学习/6️⃣ 模型可解释性/A.md"
 date = "2023.12.20"
+comments = true
+
+["B.md"]
+title = "通俗讲解SHAP值计算"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/6️⃣ 模型可解释性/B.md"
+date = "2024.10.20"
+comments = true
+
+["C - 副本.md"]
+title = "广义加性模型"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/6️⃣ 模型可解释性/C - 副本.md"
+date = "2024.10.20"
+comments = true
+
+["C.md"]
+title = "黑盒/白盒/玻璃盒模型"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/6️⃣ 模型可解释性/C.md"
+date = "2024.10.20"
+comments = true
+
+["D.md"]
+title = "SHAP背景数据集"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/6️⃣ 模型可解释性/D.md"
+date = "2024.10.20"
 comments = true

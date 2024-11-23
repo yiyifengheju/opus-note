@@ -18,7 +18,7 @@ import toml
 import yaml
 from loguru import logger
 
-EXCLUDE_FOLDERS = ['assets', 'blog', 'javascripts', 'stylesheets', '留言板', '🍒 信号处理', '🍅 其他编程']
+EXCLUDE_FOLDERS = ['assets', 'blog', 'javascripts', 'stylesheets', '留言板', '🍅 其他编程']
 SKIP_FOLDERS = ['index.toml', 'index.md', 'info.toml', 'nav.toml', '.ipynb_checkpoints', 'datalab-files',
                 'catboost_info', '.pages']
 TOML_FILE_TEMPLATE = {'title': "",
@@ -27,6 +27,7 @@ TOML_FILE_TEMPLATE = {'title': "",
                       'cover': "",
                       'path': ""
                       }
+SVG_FOLDER = ':material-folder-open:'
 
 
 class AutoIndex:
@@ -100,13 +101,40 @@ class AutoIndex:
             f.writelines(info_head)
 
         files = os.listdir(f'{self.path}/{c1_folder}')
+        files = sorted(files, reverse=False)
         for file in files:
             if file in SKIP_FOLDERS:
                 continue
             if os.path.isfile(f'{self.path}/{c1_folder}/{file}'):
                 continue
             else:
-                self._generate_index(f'{c1_folder}/{file}')
+                # self._generate_index(f'{c1_folder}/{file}')
+                # 修改这里不再嵌套，直接使用目录
+                self._generate_mulu(f'{c1_folder}/{file}')
+
+    def _generate_mulu(self, path):
+        with open(f'{self.path}/{path}/index.toml', "rb") as f:
+            info_dict = tomllib.load(f)
+        title = os.path.split(path)[-1]
+        info_head = ['---\n',
+                     f'title: {title}\n',
+                     'comments: false\n',
+                     'hide:\n',
+                     '   - toc\n',
+                     '---\n',
+                     '\n'
+                     '<div class="grid cards index-info" markdown>\n\n',
+                     f'-   {SVG_FOLDER}&emsp;__[{path}](./index.md)__\n\n',
+                     '\t---\n\n',
+                     ]
+        for key in info_dict.keys():
+            tit = info_dict[key]['title']
+            pth = os.path.split(info_dict[key]['path'])[-1]
+            info = f'\t&emsp;&emsp;[{tit}](./{pth})\n\n'
+            info_head.append(info)
+        with open(f'{self.path}/{path}/index.md', 'w', encoding='utf-8') as f:
+            info_head.append('</div>')
+            f.writelines(info_head)
 
     def _check_toml(self, c1_folder):
         info_dict = {}
@@ -116,12 +144,14 @@ class AutoIndex:
             with open(f'{self.path}/{c1_folder}/index.toml', "rb") as f:
                 info_dict = tomllib.load(f)
             for c2_folder in c2_folders:
+                if c2_folder in ['index.toml', 'index.md', 'info.toml', 'nav.toml', '.pages']:
+                    continue
                 if c2_folder in SKIP_FOLDERS:
                     continue
                 if c2_folder not in info_dict.keys():
                     info_dict[c2_folder] = self._get_toml_template(c2_folder)
                 pth_file = f'{self.path}/{c1_folder}/{c2_folder}'
-                info_dict[c2_folder].update({'path': pth_file})
+                info_dict[c2_folder].update({'path': f'./{c1_folder}/{c2_folder}'})
                 if os.path.isfile(pth_file):
                     if c2_folder.endswith('.ipynb'):
                         meta = ''
@@ -133,6 +163,8 @@ class AutoIndex:
         else:
             logger.info(f'{c1_folder}/index.toml 🎉🎉')
             for c2_folder in c2_folders:
+                if c2_folder in ['index.toml', 'index.md', 'info.toml', 'nav.toml', '.pages']:
+                    continue
                 if c2_folder in SKIP_FOLDERS:
                     continue
                 if c2_folder not in info_dict.keys():
@@ -146,8 +178,10 @@ class AutoIndex:
                         meta = self._get_metadata(pth_file)
                     info_dict[c2_folder].update(meta)
                 else:
+                    print(c1_folder, c2_folder)
                     self._check_toml(f'{c1_folder}/{c2_folder}')
         with open(f'{self.path}/{c1_folder}/index.toml', "w", encoding='utf-8') as f:
+            info_dict = {k: info_dict[k] for k in sorted(info_dict.keys())}
             toml.dump(info_dict, f)
 
     def run(self):
