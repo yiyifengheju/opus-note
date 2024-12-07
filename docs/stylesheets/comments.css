@@ -1,0 +1,28 @@
+div#waline {
+    margin-top: 100px;
+}
+
+.wl-editor {
+    min-height: 2rem !important;
+}
+
+.wl-count {
+    font-size: 0.85rem !important;
+}
+
+.wl-empty {
+    font-size: 0.8rem !important;
+}
+
+.wl-card .wl-delete, .wl-card .wl-like, .wl-card .wl-reply, .wl-card .wl-edit {
+    padding-right: 20px;
+}
+
+.wl-panel {
+    background: none !important;
+}
+
+:root {
+    --waline-avatar-size: 2rem !important;
+    --waline-font-size: 0.85rem !important;
+}

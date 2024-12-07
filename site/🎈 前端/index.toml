@@ -1,0 +1,55 @@
+["1️⃣ 环境配置"]
+title = "1️⃣ 环境配置"
+info = ""
+emoji = ":simple-anaconda:"
+cover = ""
+path = "./🎈 前端/1️⃣ 环境配置"
+
+["2️⃣ MkDocs"]
+title = "2️⃣ MkDocs"
+info = ""
+emoji = ":simple-materialformkdocs:"
+cover = ""
+path = "./🎈 前端/2️⃣ MkDocs"
+
+["3️⃣ MinIO"]
+title = "3️⃣ MinIO"
+info = ""
+emoji = ":simple-minio:"
+cover = ""
+path = "./🎈 前端/3️⃣ MinIO"
+
+["4️⃣ Markdown"]
+title = "4️⃣ Markdown"
+info = ""
+emoji = ":simple-markdown:"
+cover = ""
+path = "./🎈 前端/4️⃣ Markdown"
+
+["5️⃣ Apache"]
+title = "5️⃣ Apache"
+info = ""
+emoji = ":simple-apache:"
+cover = ""
+path = "./🎈 前端/5️⃣ Apache"
+
+["6️⃣ Hexo"]
+title = "6️⃣ Hexo"
+info = ""
+emoji = ":simple-hexo:"
+cover = ""
+path = "./🎈 前端/6️⃣ Hexo"
+
+["7️⃣ 字体"]
+title = "7️⃣ 字体"
+info = ""
+emoji = ":fontawesome-solid-font:"
+cover = ""
+path = "./🎈 前端/7️⃣ 字体"
+
+["8️⃣ Notion"]
+title = "8️⃣ Notion"
+info = ""
+emoji = ":simple-notion:"
+cover = ""
+path = "./🎈 前端/8️⃣ Notion"

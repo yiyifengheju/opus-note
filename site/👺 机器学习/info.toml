@@ -1,0 +1,31 @@
+["1️⃣ 开源数据集"]
+info = "一些常见数据集的简单使用"
+emoji = ":simple-kaggle:"
+
+["3️⃣ ML相关概念"]
+info = "一些机器学习相关概念、理解"
+emoji = ":simple-scikitlearn:"
+
+["4️⃣ 集成学习"]
+info = ""
+emoji = ":simple-scikitlearn:"
+
+["5️⃣ 超参数优化"]
+info = ""
+emoji = ":simple-scikitlearn:"
+
+["6️⃣ 模型可解释性"]
+info = ""
+emoji = ":simple-scikitlearn:"
+
+["7️⃣ 置信学习"]
+info = ""
+emoji = ":simple-scikitlearn:"
+
+["8️⃣ NGBoost"]
+info = ""
+emoji = ":simple-scikitlearn:"
+
+["9️⃣ CatBoost"]
+info = ""
+emoji = ":simple-scikitlearn:"
