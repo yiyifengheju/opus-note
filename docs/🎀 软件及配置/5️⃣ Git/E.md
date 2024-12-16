@@ -74,6 +74,21 @@ autoProxy=true
 git config --global credential.helper store
 ```
 
+### 5. 报ssh拒绝连接，无法`git clone`
+
+```bash
+ssh -T git@github.com
+# ssh: connect to host github.com port 22: Connection refused
+```
+
+解决方法：新建文件`~/.ssh/config`，写入：
+
+```bash
+Host github.com
+Hostname ssh.github.com
+port 443
+```
+
 
 
 

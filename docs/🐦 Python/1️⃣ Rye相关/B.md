@@ -181,3 +181,65 @@ export CXX=/usr/bin/g++
 export CC=/usr/bin/gcc
 ```
 
+### 陆丨无法生成虚拟环境
+
+【问题复现】
+
+```bash
+PS D:\Projects\PycharmProjects\koko-learn> rye sync
+Downloading cpython@3.11.10
+Checking checksum
+Unpacking
+Downloaded cpython@3.11.10
+Reusing already existing virtualenv
+Generating production lockfile: D:\Projects\PycharmProjects\koko-learn\requirements.lock
+Generating dev lockfile: D:\Projects\PycharmProjects\koko-learn\requirements-dev.lock
+Installing dependencies
+  Caused by: Failed to build `koko-learn @ file:///D:/Projects/PycharmProjects/koko-learn`
+  Caused by: Failed to create temporary virtualenv
+  Caused by: Could not find a suitable Python executable for the virtual environment based on the interpreter: C:\Users\mastermao\.rye\py\cpython@3.11.8\install\python.exe
+error: Installation of dependencies failed in venv at D:\Projects\PycharmProjects\koko-learn\.venv. uv exited with status: exit code: 2
+```
+
+【解决方案】
+
+第一步，删除`.venv`目录
+
+第二步，重新`rye sync`
+
+如果不成功，将目录换个名字
+
+### 柒丨证书错误
+
+【问题复现】
+
+```bash
+PS C:\Users\mastermao\py311> rye sync
+Reusing already existing virtualenv
+Generating production lockfile: C:\Users\mastermao\py311\requirements.lock
+error: Failed to download `tqdm==4.67.1`
+  Caused by: Request failed after 3 retries
+  Caused by: error sending request for url (https://files.pythonhosted.org/packages/d0/30/dc54f88dd4a2b5dc8a0279bdd7270e735851848b762aeb1c1184ed1f6b14/tqdm-4.67.1-py3-none-any.whl.metadata)
+  Caused by: client error (Connect)
+  Caused by: invalid peer certificate: UnknownIssuer
+error: could not write production lockfile for project
+
+Caused by:
+    Failed to run uv compile C:\Users\mastermao\AppData\Local\Temp\.tmpjWwcb9\requirements.txt. uv exited with status: exit code: 2
+```
+
+【解决方案】
+
+方法1：重新链接证书（不奏效）[^1]
+
+方法2：换源（可能和公司网络有关）
+
+```toml
+[[sources]]
+name = "douban"
+url = "https://mirrors.cloud.tencent.com/pypi/simple/"
+```
+
+
+
+[^1]: Hatena Blog，@もぐわい (id:b1u3)，[Rye で invalid peer certificate が出るので、インストールできない](https://b1u3.hateblo.jp/entry/2024/10/11/233230)

@@ -1,3 +1,10 @@
+["0️⃣ ML相关概念"]
+title = "0️⃣ ML相关概念"
+emoji = ":simple-scikitlearn:"
+info = "机器学习是一种通过数据训练模型，使计算机能够自动改进和预测的技术，广泛应用于图像识别、自然语言处理等领域。"
+cover = ""
+path = "./👺 机器学习/0️⃣ ML相关概念"
+
 ["1️⃣ 开源数据集"]
 title = "1️⃣ 开源数据集"
 info = "开源数据集是指其许可证允许任何人免费使用、分发和修改的数据集。它们对于机器学习、数据分析和其他研究领域至关重要。"
@@ -12,12 +19,12 @@ info = ""
 cover = ""
 path = "./👺 机器学习/2️⃣ 特征选择"
 
-["3️⃣ ML相关概念"]
-title = "3️⃣ ML相关概念"
-info = "机器学习是一种通过数据训练模型，使计算机能够自动改进和预测的技术，广泛应用于图像识别、自然语言处理等领域。"
-emoji = ":simple-scikitlearn:"
+["3️⃣ 半监督学习"]
+title = "3️⃣ 半监督学习"
+emoji = ""
+info = ""
 cover = ""
-path = "./👺 机器学习/3️⃣ ML相关概念"
+path = "./👺 机器学习/3️⃣ 半监督学习"
 
 ["4️⃣ 集成学习"]
 title = "4️⃣ 集成学习"
@@ -60,3 +67,10 @@ info = "CatBoost是一种高效的梯度提升决策树算法，特别擅长处�
 emoji = ":simple-scikitlearn:"
 cover = ""
 path = "./👺 机器学习/9️⃣ CatBoost"
+
+["🔟 scikit-learn"]
+title = "🔟 scikit-learn"
+emoji = ":simple-scikitlearn:"
+info = ""
+cover = ""
+path = "./👺 机器学习/🔟 scikit-learn"

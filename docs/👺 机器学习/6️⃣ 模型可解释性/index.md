@@ -13,6 +13,8 @@ hide:
 
 	&emsp;&emsp;[🍁 Shapash](./A.md)
 
+	&emsp;&emsp;[模型可解释性：SHAP](./AA.md)
+
 	&emsp;&emsp;[通俗讲解SHAP值计算](./B.md)
 
 	&emsp;&emsp;[广义加性模型](./C - 副本.md)

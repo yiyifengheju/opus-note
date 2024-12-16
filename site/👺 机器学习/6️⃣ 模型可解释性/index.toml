@@ -7,6 +7,15 @@ path = "./👺 机器学习/6️⃣ 模型可解释性/A.md"
 date = "2023.12.20"
 comments = true
 
+["AA.md"]
+title = "模型可解释性：SHAP"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/6️⃣ 模型可解释性/AA.md"
+date = "2024.10.20"
+comments = true
+
 ["B.md"]
 title = "通俗讲解SHAP值计算"
 emoji = ""
