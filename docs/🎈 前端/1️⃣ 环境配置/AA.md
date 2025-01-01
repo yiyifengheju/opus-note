@@ -10,7 +10,7 @@ CSSO（CSS Optimizer）是一种用于优化CSS（层叠样式表）代码的工
 Terminal运行[^1]：
 
 ```bash
-sudo npm install -g csso-cli
+npm install -g csso-cli
 ```
 
 ### 2. Sass/SCSS
@@ -20,7 +20,7 @@ SCSS是一种CSS预处理器，扩展了CSS的功能，包括变量、嵌套规�
 Terminal运行[^2]：
 
 ```bash
-sudo npm install -g sass
+npm install -g sass
 ```
 
 ### 3. Less
@@ -40,7 +40,7 @@ UglifyJS是一个JavaScript代码压缩工具，能够减小文件大小、提�
 Terminal运行[^3]：
 
 ```bash
-sudo npm install --g uglify-js
+npm install --g uglify-js
 ```
 
 
