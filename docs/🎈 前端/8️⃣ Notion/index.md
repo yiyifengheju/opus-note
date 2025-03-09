@@ -7,10 +7,11 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🎈 前端/8️⃣ Notion](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🎈 前端/8️⃣ Notion](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[🐬 Notion配置个人域名](./A.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🐬 Notion配置个人域名](./A.md)
 
 </div>

@@ -7,10 +7,11 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🐦 Python/9️⃣ Python硬件编程](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🐦 Python/9️⃣ Python硬件编程](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[🏝️ 串口通信](./A.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🏝️ 串口通信](./A.md)
 
 </div>

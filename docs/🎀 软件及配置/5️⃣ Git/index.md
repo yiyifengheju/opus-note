@@ -7,20 +7,23 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🎀 软件及配置/5️⃣ Git](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🎀 软件及配置/5️⃣ Git](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[🩹 Git配置](./A.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🩹 Git配置](./A.md)
 
-	&emsp;&emsp;[👗 Git基础使用](./B.md)
+	&emsp;:material-arrow-expand-right:&emsp;[👗 Git基础使用](./B.md)
 
-	&emsp;&emsp;[🥏 Git Commit规范](./C.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🥏 Git Commit规范](./C.md)
 
-	&emsp;&emsp;[🐠 Git自动提交(Windows)](./D.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🐠 Git自动提交(Windows)](./D.md)
 
-	&emsp;&emsp;[🛢️ Git常见错误](./E.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🛢️ Git常见错误](./E.md)
 
-	&emsp;&emsp;[Git技巧](./F.md)
+	&emsp;:material-arrow-expand-right:&emsp;[Git技巧](./F.md)
+
+	&emsp;:material-arrow-expand-right:&emsp;[git-cliff](./G.md)
 
 </div>

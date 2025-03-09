@@ -7,10 +7,11 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[👺 机器学习/1️⃣ 开源数据集](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[👺 机器学习/1️⃣ 开源数据集](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[A.ipynb](./A.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[A.ipynb](./A.ipynb)
 
 </div>

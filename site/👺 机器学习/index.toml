@@ -14,14 +14,14 @@ path = "./👺 机器学习/1️⃣ 开源数据集"
 
 ["2️⃣ 特征选择"]
 title = "2️⃣ 特征选择"
-emoji = ""
+emoji = ":simple-futurelearn:"
 info = ""
 cover = ""
 path = "./👺 机器学习/2️⃣ 特征选择"
 
 ["3️⃣ 半监督学习"]
 title = "3️⃣ 半监督学习"
-emoji = ""
+emoji = ":simple-namecheap:"
 info = ""
 cover = ""
 path = "./👺 机器学习/3️⃣ 半监督学习"
@@ -67,6 +67,20 @@ info = "CatBoost是一种高效的梯度提升决策树算法，特别擅长处�
 emoji = ":simple-scikitlearn:"
 cover = ""
 path = "./👺 机器学习/9️⃣ CatBoost"
+
+[MLOps]
+title = "MLOps"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/MLOps"
+
+[pytorch]
+title = "pytorch"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/pytorch"
 
 ["🔟 scikit-learn"]
 title = "🔟 scikit-learn"

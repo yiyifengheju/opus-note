@@ -1,0 +1,51 @@
+["A.md"]
+title = "🎀 Rust安装"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍐 Rust/1️⃣ 环境配置/A.md"
+date = "2024.07.01"
+comments = true
+
+["B.md"]
+title = "Rust踩坑记录"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍐 Rust/1️⃣ 环境配置/B.md"
+date = "2024.07.01"
+
+["C.md"]
+title = "Rust相关概念"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍐 Rust/1️⃣ 环境配置/C.md"
+date = "2024.07.01"
+
+["D.md"]
+title = "常用命令(rustup)"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍐 Rust/1️⃣ 环境配置/D.md"
+date = "2024.02.15"
+comments = true
+
+["E.md"]
+title = "常用命令(rustc)"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍐 Rust/1️⃣ 环境配置/E.md"
+date = "2025.02.08"
+comments = true
+
+["F.md"]
+title = "常用命令(cargo)"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍐 Rust/1️⃣ 环境配置/F.md"
+date = "2025.02.08"
+comments = true

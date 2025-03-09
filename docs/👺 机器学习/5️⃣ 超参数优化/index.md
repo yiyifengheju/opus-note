@@ -7,16 +7,17 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[👺 机器学习/5️⃣ 超参数优化](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[👺 机器学习/5️⃣ 超参数优化](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[A.ipynb](./A.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[随机网格搜索](./A.ipynb)
 
-	&emsp;&emsp;[B.ipynb](./B.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[对半网格搜索](./B.ipynb)
 
-	&emsp;&emsp;[C.ipynb](./C.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[贝叶斯优化](./C.ipynb)
 
-	&emsp;&emsp;[D.ipynb](./D.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[Optuna调参](./D.ipynb)
 
 </div>

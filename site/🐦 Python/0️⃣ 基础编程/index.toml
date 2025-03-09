@@ -62,3 +62,11 @@ info = ""
 cover = ""
 path = "./🐦 Python/0️⃣ 基础编程/G.md"
 comments = true
+
+["H.md"]
+title = "🐖 抽象基类"
+emoji = ""
+info = ""
+cover = ""
+path = "./🐦 Python/0️⃣ 基础编程/H.md"
+comments = true

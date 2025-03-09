@@ -7,10 +7,11 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🍒 信号处理/2️⃣ 基础知识](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🍒 信号处理/2️⃣ 基础知识](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[频谱和功率谱](./A.md)
+	&emsp;:material-arrow-expand-right:&emsp;[频谱和功率谱](./A.md)
 
 </div>

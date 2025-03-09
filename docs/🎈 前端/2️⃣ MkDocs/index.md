@@ -7,20 +7,21 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🎈 前端/2️⃣ MkDocs](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🎈 前端/2️⃣ MkDocs](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[😀 Mkdocs新建环境](./A.md)
+	&emsp;:material-arrow-expand-right:&emsp;[😀 Mkdocs新建环境](./A.md)
 
-	&emsp;&emsp;[😆 MkDocs语法备忘](./B.md)
+	&emsp;:material-arrow-expand-right:&emsp;[😆 MkDocs语法备忘](./B.md)
 
-	&emsp;&emsp;[😍 MkDocs部署](./C.md)
+	&emsp;:material-arrow-expand-right:&emsp;[😍 MkDocs部署](./C.md)
 
-	&emsp;&emsp;[😎 MkDocs插件](./D.md)
+	&emsp;:material-arrow-expand-right:&emsp;[😎 MkDocs插件](./D.md)
 
-	&emsp;&emsp;[😎 MkDocs配置](./E.md)
+	&emsp;:material-arrow-expand-right:&emsp;[😎 MkDocs配置](./E.md)
 
-	&emsp;&emsp;[😎 mkdocstrings-python经验总结](./F.md)
+	&emsp;:material-arrow-expand-right:&emsp;[😎 mkdocstrings-python经验总结](./F.md)
 
 </div>

@@ -1,9 +1,9 @@
-["0️⃣ 开源软件"]
-title = "0️⃣ 开源软件"
+["0️⃣ 软件推荐"]
+title = "0️⃣ 软件推荐"
 emoji = ":simple-opensourceinitiative:"
-info = "开源软件是指源代码可以被公众访问、使用、修改和分发的软件。遵循开源许可证，如MIT、GPL等，允许用户自由地查看、修改代码。"
+info = "日常工作生活用到的一些软件"
 cover = ""
-path = "./🎀 软件及配置/0️⃣ 开源软件"
+path = "./🎀 软件及配置/0️⃣ 软件推荐"
 
 ["1️⃣ Linux(Ubuntu)"]
 title = "1️⃣ Linux(Ubuntu)"

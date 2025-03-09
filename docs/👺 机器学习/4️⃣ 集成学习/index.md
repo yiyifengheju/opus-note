@@ -7,18 +7,19 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[👺 机器学习/4️⃣ 集成学习](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[👺 机器学习/4️⃣ 集成学习](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[A.ipynb](./A.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[A.ipynb](./A.ipynb)
 
-	&emsp;&emsp;[B.ipynb](./B.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[B.ipynb](./B.ipynb)
 
-	&emsp;&emsp;[C.ipynb](./C.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[C.ipynb](./C.ipynb)
 
-	&emsp;&emsp;[D.ipynb](./D.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[D.ipynb](./D.ipynb)
 
-	&emsp;&emsp;[E.ipynb](./E.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[E.ipynb](./E.ipynb)
 
 </div>

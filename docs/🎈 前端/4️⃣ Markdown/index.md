@@ -7,12 +7,13 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🎈 前端/4️⃣ Markdown](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🎈 前端/4️⃣ Markdown](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[🍋 基本语法](./A.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🍋 基本语法](./A.md)
 
-	&emsp;&emsp;[👷🏻 标签](./B.md)
+	&emsp;:material-arrow-expand-right:&emsp;[👷🏻 标签](./B.md)
 
 </div>

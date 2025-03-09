@@ -3,7 +3,7 @@ title: 🧩 Rye踩坑记录
 comments: true
 ---
 
-## 壹丨本地算法库更新后，使用`remove`和`add`不能生效
+### 1. 本地算法库更新后，使用`remove`和`add`不能生效
 
 【问题描述】
 
@@ -24,7 +24,9 @@ rye add my_project --path path/to/my_project
 rye sync
 ```
 
-## 贰丨网络代理原因导致Rye安装不上
+
+
+### 2. 网络代理原因导致Rye安装不上
 
 【问题描述】
 
@@ -61,7 +63,7 @@ export https_proxy='http://<UserName>:<Password>@<IP>:<PORT>'
 
 第二步，执行`./rye-x86_64-linux`，正常安装
 
-## 叁丨`rye build`报错
+### 3. `rye build`报错
 
 【问题描述】
 
@@ -85,7 +87,7 @@ name = "example"
 url = "https://example.cn/simple"
 ```
 
-## 肆丨添加了弃用的库，导致后续命令一直报错
+### 4. 添加了弃用的库，导致后续命令一直报错
 
 【问题复现】
 
@@ -131,7 +133,9 @@ nano pyproject.toml
 
 在`[project]`下`dependencies`中，删除`"distribute>=0.7.3"`，然后重新执行同步。
 
-## 伍丨CMake配置错误导致无法安装库
+
+
+### 5. CMake配置错误导致无法安装库
 
 【问题复现】
 
@@ -181,7 +185,7 @@ export CXX=/usr/bin/g++
 export CC=/usr/bin/gcc
 ```
 
-### 陆丨无法生成虚拟环境
+### 6. 无法生成虚拟环境
 
 【问题复现】
 
@@ -209,7 +213,7 @@ error: Installation of dependencies failed in venv at D:\Projects\PycharmProject
 
 如果不成功，将目录换个名字
 
-### 柒丨证书错误
+### 7. 证书错误
 
 【问题复现】
 
@@ -242,4 +246,62 @@ url = "https://mirrors.cloud.tencent.com/pypi/simple/"
 
 
 
+### 8. RuntimeError: use_libuv was requested but PyTorch was build without libuv support
+
+解决方法：将`use_libuv`禁用：在`.env`中添加环境变量：
+
+```toml
+USE_LIBUV="0"
+```
+
+> 参考：https://github.com/RVC-Boss/GPT-SoVITS/issues/1357
+
+### 9. TypeError: Descriptors cannot not be created directly. - protobuf version bug
+
+问题分析：问题根源来自于`protobuf`库在`4.21.0`版本发生更改。
+
+解决方法：将`protobuf`降级[^2]
+
+```bash
+rye add protobuf==3.21.1
+```
+
+### 10. Rye设置缓存路径（实际设置uv的缓存路径）
+
+环境变量添加用户变量：
+
+```yaml
+变量名：UV_CACHE_DIR
+变量值：path/to/dir
+```
+
+### 11. 安装中提示：
+
+```bash
+  x Failed to download and build `pycrypto==2.6.1`
+  `-> Build backend failed to build wheel through `build_wheel` (exit code: 1)
+
+      [stderr]
+      warning: GMP or MPIR library not found; Not building Crypto.PublicKey._fastmath.  
+      error: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft   
+      C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/      
+
+error: Installation of dependencies failed in venv at \\?\I:\PycharmProjects\koko-learn\.venv. uv exited with status: exit code: 1
+```
+
+【原因分析】构建中需要GMP库或MPIR库，缺少Microsoft Visual C++ 14.0
+
+【解决方法1】安装[Microsoft C++ Build Tools](https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/)
+
+【解决方法2】基于MSYS2安装GMP或MPIR库
+
+# TODO
+
+
+
+
+
+
+
 [^1]: Hatena Blog，@もぐわい (id:b1u3)，[Rye で invalid peer certificate が出るので、インストールできない](https://b1u3.hateblo.jp/entry/2024/10/11/233230)
+[^2]:GitHub，[RuntimeError: use_libuv was requested but PyTorch was build without libuv support](https://github.com/RVC-Boss/GPT-SoVITS/issues/1357)

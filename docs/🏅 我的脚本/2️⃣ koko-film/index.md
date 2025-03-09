@@ -7,7 +7,8 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🏅 我的脚本/2️⃣ koko-film](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🏅 我的脚本/2️⃣ koko-film](./index.md)__
+{ .cards }
 
 	---
 

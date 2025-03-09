@@ -81,3 +81,30 @@ cover = ""
 path = "./👺 机器学习/0️⃣ ML相关概念/J.md"
 date = "2024.12.16"
 comments = true
+
+["K.md"]
+title = "平均损失"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/0️⃣ ML相关概念/K.md"
+date = "2024.12.16"
+comments = true
+
+["L.md"]
+title = "随机最大池化"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/0️⃣ ML相关概念/L.md"
+date = "2024.12.16"
+comments = true
+
+["M.md"]
+title = "pytorch推理模式"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/0️⃣ ML相关概念/M.md"
+date = "2024.12.16"
+comments = true

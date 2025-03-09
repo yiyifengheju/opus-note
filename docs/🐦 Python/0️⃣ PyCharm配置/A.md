@@ -89,7 +89,26 @@ JetBrains默认设置的代码自动补全区分大小写。
 
 > EN：Preferences——Editor——Inspections——General——Duplicated code fragment，取消勾选
 
-### 5. 插件
+### 5. 自动优化代码
+
+添加File Watcher：
+
+```
+名称：PyCompile
+
+文件类型：Python
+作用域：项目文件
+
+程序：python
+实参：-OO -m compileall $FileName$
+要刷新的输出路径：
+工作目录：$FileDir$
+环境变量：
+
+取消勾选：自动保存编辑的文件以触发观察程序
+```
+
+### 6. 插件
 
 * Chinese（Simplified）Language Pack/中文语言包 
 * WebP Support——支持`.webp`图片

@@ -7,10 +7,11 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🍒 信号处理/1️⃣ 生物医学信号处理](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🍒 信号处理/1️⃣ 生物医学信号处理](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[绪论](./A 绪论.md)
+	&emsp;:material-arrow-expand-right:&emsp;[绪论](./A 绪论.md)
 
 </div>

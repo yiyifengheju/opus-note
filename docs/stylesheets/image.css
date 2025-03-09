@@ -25,13 +25,13 @@ img {
     max-width: 85%;
     /* max-height: 480px; */
     display: grid;
-    box-shadow: 0 5px 10px rgba(20,20,20,.2);
+    box-shadow: 0 5px 10px rgba(20, 20, 20, .2);
     border-radius: 5px;
     margin: 10px auto 0;
 }
 
 /*放大图片大小控制*/
-.gslide-media{
+.gslide-media {
     max-width: 85% !important;
     min-width: 60% !important;
 }
@@ -40,4 +40,180 @@ img {
 .inline-img {
     display: flex;
     justify-content: space-between;
+}
+
+/*图标相关*/
+p.cards {
+    display: flex;
+    align-items: center;
+    height: 30px;
+}
+
+/*介绍字体*/
+p.description {
+    font-size: 0.73rem;
+}
+
+/*LOGO*/
+body {
+    caret-color: rgba(0, 0, 0, 0);
+}
+
+input {
+    caret-color: #000;
+}
+
+
+.md-typeset .grid.cards > ul > li {
+    border: .07rem solid var(--md-default-fg-color--lightest) !important;
+}
+
+.icon {
+    font-size: 2em;
+}
+
+
+.simple-opensourceinitiative {
+    color: #3DA639;
+}
+
+.simple-ubuntu {
+    color: #E95420;
+}
+
+.simple-linux {
+    color: #FCC624;
+}
+
+.fontawesome-brands-windows {
+    color: #06B6D4;
+}
+
+.simple-git {
+    color: #F05032;
+}
+
+.material-apple {
+    color: #000000;
+}
+
+.simple-leagueoflegends {
+    color: #C28F2C;
+}
+
+.simple-materialformkdocs {
+    color: #526CFE;
+}
+
+.simple-minio {
+    color: #C72E49;
+}
+
+.simple-markdown {
+    color: #000000;
+}
+
+.simple-apache {
+    color: #D22128;
+}
+
+.simple-hexo {
+    color: #0E83CD;
+}
+
+.fontawesome-solid-font {
+    color: #363636;
+}
+
+.simple-notion {
+    color: #000000;
+}
+
+.simple-pycharm {
+    color: #000000;
+}
+
+.octicons-terminal-16 {
+    color: #241F31;
+}
+
+.simple-pypi {
+    color: #3775A9;
+}
+
+.simple-rye {
+    color: #000000;
+}
+
+.simple-anaconda {
+    color: #44A833;
+}
+
+.simple-python {
+    color: #3776AB;
+}
+
+.simple-kaggle {
+    color: #20BEFF;
+}
+
+.simple-scikitlearn {
+    color: #F7931E;
+}
+
+.simple-futurelearn {
+    color: #DE00A5;
+}
+
+.simple-namecheap {
+    color: #DE3723;
+}
+
+.svg_folder {
+    font-size: 2em;
+    color: #DE3723;
+}
+
+.simple-clion {
+    color: #000000;
+}
+
+.simple-c {
+    color: #A8B9CC;
+}
+
+.simple-rust {
+    color: #000000;
+}
+
+.simple-arduino {
+    color: #00878F;
+}
+
+.simple-doxygen {
+    color: #2C4AA8;
+}
+
+.simple-plotly {
+    color: #3F4F75;
+}
+
+.simple-flutter {
+    color: #02569B;
+}
+
+.simple-flask {
+    color: #000000;
+}
+
+.simple-numpy {
+    color: #013243;
+}
+
+.simple-scipy {
+    color: #8CAAE6;
+}
+
+.simple-javascript {
+    color: #F7DF1E;
 }

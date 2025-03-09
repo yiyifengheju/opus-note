@@ -7,14 +7,15 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🐦 Python/6️⃣ Python科学计算](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🐦 Python/6️⃣ Python科学计算](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[A.ipynb](./A.ipynb)
+	&emsp;:material-arrow-expand-right:&emsp;[A.ipynb](./A.ipynb)
 
-	&emsp;&emsp;[🐟 Numpy](./B.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🐟 Numpy](./B.md)
 
-	&emsp;&emsp;[🥣 Scipy](./C.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🥣 Scipy](./C.md)
 
 </div>

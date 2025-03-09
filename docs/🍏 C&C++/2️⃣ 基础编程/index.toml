@@ -1,0 +1,23 @@
+["A.md"]
+title = "💖 基础编程"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/2️⃣ 基础编程/A.md"
+comments = true
+
+["B.md"]
+title = "🧰 Python调用C经验总结"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/2️⃣ 基础编程/B.md"
+comments = true
+
+["C.md"]
+title = "🧰 errno常见错误类型"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/2️⃣ 基础编程/C.md"
+comments = true

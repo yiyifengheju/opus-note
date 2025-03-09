@@ -1,27 +1,27 @@
 ["1️⃣ 生物医学信号处理"]
 title = "1️⃣ 生物医学信号处理"
-emoji = ""
+emoji = ":simple-scipy:"
 info = ""
 cover = ""
 path = "./🍒 信号处理/1️⃣ 生物医学信号处理"
 
 ["2️⃣ 基础知识"]
 title = "2️⃣ 基础知识"
-emoji = ""
+emoji = ":simple-scipy:"
 info = ""
 cover = ""
 path = "./🍒 信号处理/2️⃣ 基础知识"
 
 ["3️⃣ 滤波器设计"]
 title = "3️⃣ 滤波器设计"
-emoji = ""
+emoji = ":simple-scipy:"
 info = ""
 cover = ""
 path = "./🍒 信号处理/3️⃣ 滤波器设计"
 
 ["4️⃣ 常用技巧"]
 title = "4️⃣ 常用技巧"
-emoji = ""
+emoji = ":simple-scipy:"
 info = ""
 cover = ""
 path = "./🍒 信号处理/4️⃣ 常用技巧"

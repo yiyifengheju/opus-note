@@ -7,12 +7,13 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
--   :material-folder-open:&emsp;__[🏅 我的脚本/2️⃣️ 图片压缩](./index.md)__
+-   :material-folder-open:{.svg_folder}&emsp;__[🏅 我的脚本/2️⃣️ 图片压缩](./index.md)__
+{ .cards }
 
 	---
 
-	&emsp;&emsp;[🎃️ 图片压缩](./A.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🎃️ 图片压缩](./A.md)
 
-	&emsp;&emsp;[🎃️ 图片压缩(tinypng)](./B.md)
+	&emsp;:material-arrow-expand-right:&emsp;[🎃️ 图片压缩(tinypng)](./B.md)
 
 </div>
