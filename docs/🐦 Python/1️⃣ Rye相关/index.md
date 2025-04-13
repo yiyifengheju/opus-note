@@ -18,4 +18,6 @@ hide:
 
 	&emsp;:material-arrow-expand-right:&emsp;[🔫 Rye安装Jupyter](./C.md)
 
+	&emsp;:material-arrow-expand-right:&emsp;[配置项目A调用项目B](./D.md)
+
 </div>

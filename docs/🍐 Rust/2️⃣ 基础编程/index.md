@@ -14,7 +14,7 @@ hide:
 
 	&emsp;:material-arrow-expand-right:&emsp;[pub mode](./A.md)
 
-	&emsp;:material-arrow-expand-right:&emsp;[Rust安](./B.md)
+	&emsp;:material-arrow-expand-right:&emsp;[Rust学习](./B.md)
 
 	&emsp;:material-arrow-expand-right:&emsp;[Rust踩坑指南](./C.md)
 

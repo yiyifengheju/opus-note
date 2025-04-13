@@ -31,12 +31,28 @@ cover = ""
 path = "./🍏 C&C++/1️⃣ 环境配置/C.md"
 comments = true
 
+["CC.md"]
+title = "Ubuntu安装依赖库"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/1️⃣ 环境配置/CC.md"
+date = "2025.04.12"
+
 ["D.md"]
 title = "🧁 C工程添加开源库（以FFTW为例）"
 emoji = ""
 info = ""
 cover = ""
 path = "./🍏 C&C++/1️⃣ 环境配置/D.md"
+comments = true
+
+["E.md"]
+title = "🧁 CLion配置"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/1️⃣ 环境配置/E.md"
 comments = true
 
 ["EE.md"]

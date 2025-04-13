@@ -13,3 +13,11 @@ info = ""
 cover = ""
 path = "./🐦 Python/0️⃣ PyCharm配置/B.md"
 comments = true
+
+["C.md"]
+title = "Jupyter Lab插件"
+emoji = ""
+info = ""
+cover = ""
+path = "./🐦 Python/0️⃣ PyCharm配置/C.md"
+date = "2025.04.12"

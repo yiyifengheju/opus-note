@@ -16,4 +16,6 @@ hide:
 
 	&emsp;:material-arrow-expand-right:&emsp;[🌩️ 创建requirements](./B.md)
 
+	&emsp;:material-arrow-expand-right:&emsp;[Jupyter Lab插件](./C.md)
+
 </div>

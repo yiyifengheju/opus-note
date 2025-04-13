@@ -17,26 +17,22 @@ Git-cliff 的主要特点包括：
 以Python环境为例：
 
 === "Rye"
-
-````
-``` bash
-# 全局安装
-rye install git-cliff
-rye sync
-
-# 当前环境安装
-rye add git-cliff
-rye sync
-```
-````
+    
+    ``` bash
+    # 全局安装
+    rye install git-cliff
+    rye sync
+    
+    # 当前环境安装
+    rye add git-cliff
+    rye sync
+    ```
 
 === "pip"
-
-````
-``` bash
-pip install git-cliff
-```
-````
+    
+    ``` bash
+    pip install git-cliff
+    ```
 
 ## 贰丨简单使用
 

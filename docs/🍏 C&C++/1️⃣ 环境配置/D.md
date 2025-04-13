@@ -76,33 +76,6 @@ target_include_directories(signal_processing PUBLIC ${CMAKE_CURRENT_SOURCE_DIR} 
 
 ## 叁丨测试用例
 
-??? note "算法无关的一些定义"
-
-    ```C
-    typedef float f32;
-    typedef double f64;
-    typedef size_t usize;
-    typedef int i32;
-    typedef long int i64;
-
-    #define MAX_LENGTH 2000
-
-    typedef struct {
-        f64 data[MAX_LENGTH];
-        usize length;
-    } Array1;
-
-    typedef struct {
-        double real;
-        double imag;
-    } Complex;
-
-    typedef struct {
-        Complex data[MAX_LENGTH];
-        usize length;
-    } Array1_Complex;
-    ```
-
 ```
 #include <fftw3.h>
 #include "../c_ndarray/c_ndarray.h"

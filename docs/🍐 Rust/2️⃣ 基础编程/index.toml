@@ -8,12 +8,12 @@ date = "2025.02.08"
 comments = true
 
 ["B.md"]
-title = "Rust安"
+title = "Rust学习"
 emoji = ""
 info = ""
 cover = ""
 path = "./🍐 Rust/2️⃣ 基础编程/B.md"
-date = "2024.02.15"
+date = "2025.04.12"
 
 ["C.md"]
 title = "Rust踩坑指南"

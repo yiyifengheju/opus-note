@@ -6,6 +6,15 @@ cover = ""
 path = "./🍏 C&C++/2️⃣ 基础编程/A.md"
 comments = true
 
+["AA.md"]
+title = "Rust与C数据类型对比"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/2️⃣ 基础编程/AA.md"
+date = "2025.02.08"
+comments = true
+
 ["B.md"]
 title = "🧰 Python调用C经验总结"
 emoji = ""
@@ -21,3 +30,19 @@ info = ""
 cover = ""
 path = "./🍏 C&C++/2️⃣ 基础编程/C.md"
 comments = true
+
+["CC.md"]
+title = "常用宏定义和宏替换指令"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/2️⃣ 基础编程/CC.md"
+date = "2025.04.12"
+
+["D.md"]
+title = "C内存对齐"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/2️⃣ 基础编程/D.md"
+date = "2025.04.12"

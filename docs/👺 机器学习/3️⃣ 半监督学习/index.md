@@ -14,4 +14,8 @@ hide:
 
 	&emsp;:material-arrow-expand-right:&emsp;[一致性正则化半监督学习的缺点](./A.md)
 
+	&emsp;:material-arrow-expand-right:&emsp;[半监督学习](./B.md)
+
+	&emsp;:material-arrow-expand-right:&emsp;[一致性正则化半监督学习](./C.md)
+
 </div>

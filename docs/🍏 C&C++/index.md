@@ -7,6 +7,16 @@ hide:
 
 <div class="grid cards index-info" markdown>
 
+-   { . .icon } &ensp;&ensp;__[编译基础知识](./0️⃣ 编译基础知识){ .icon_title }__
+{ .cards }
+
+	---
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./0️⃣ 编译基础知识)
+{ .description }
+
 -   :simple-clion:{ .simple-clion .icon } &ensp;&ensp;__[环境配置](./1️⃣ 环境配置){ .icon_title }__
 { .cards }
 
@@ -45,6 +55,16 @@ hide:
 	
 
 	[:octicons-arrow-right-24: Getting started](./4️⃣ 嵌入式编程)
+{ .description }
+
+-   { . .icon } &ensp;&ensp;__[经验总结](./5️⃣ 经验总结){ .icon_title }__
+{ .cards }
+
+	---
+
+	
+
+	[:octicons-arrow-right-24: Getting started](./5️⃣ 经验总结)
 { .description }
 
 </div>
