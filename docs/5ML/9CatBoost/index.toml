@@ -1,0 +1,340 @@
+["A0.ipynb"]
+title = "A0.ipynb"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/A0.ipynb"
+
+["Adatasets.md"]
+title = "datasets"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/Adatasets.md"
+date = "2024.09.05"
+comments = true
+
+["Afit.md"]
+title = "🐔 fit"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/Afit.md"
+comments = true
+
+["Bpredict.md"]
+title = "🦢 predict"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/Bpredict.md"
+date = "2024.09.05"
+comments = true
+
+["FeaturesData.md"]
+title = "FeaturesData"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/FeaturesData.md"
+comments = true
+
+["IpythonWidget.md"]
+title = "CatBoostIpythonWidget"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/IpythonWidget.md"
+comments = true
+
+["Pool.md"]
+title = "Pool"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/Pool.md"
+comments = true
+
+["Shrink.md"]
+title = "Shrink"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/Shrink.md"
+comments = true
+
+["calc_feature_statistics.md"]
+title = "🏐 calc_feature_statistics"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/calc_feature_statistics.md"
+date = "2024.09.05"
+comments = true
+
+["calc_leaf_indexes.md"]
+title = "⛄ calc_leaf_indexes"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/calc_leaf_indexes.md"
+date = "2024.09.05"
+comments = true
+
+["compare.md"]
+title = "⛄ compare"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/compare.md"
+date = "2024.09.05"
+comments = true
+
+["copy.md"]
+title = "⛄ copy"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/copy.md"
+date = "2024.09.05"
+comments = true
+
+["cv.md"]
+title = "cv"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/cv.md"
+comments = true
+
+["eval_metrics.md"]
+title = "⛄ eval_metrics"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/eval_metrics.md"
+date = "2024.09.05"
+comments = true
+
+["get_all_params.md"]
+title = "⛄ get_all_params"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_all_params.md"
+date = "2024.09.05"
+comments = true
+
+["get_best_iteration.md"]
+title = "⛄ get_best_iteration"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_best_iteration.md"
+date = "2024.09.05"
+comments = true
+
+["get_best_score.md"]
+title = "⛄ get_best_score"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_best_score.md"
+date = "2024.09.05"
+comments = true
+
+["get_borders.md"]
+title = "⛄ get_borders"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_borders.md"
+date = "2024.09.05"
+comments = true
+
+["get_evals_result.md"]
+title = "⛄ get_evals_result"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_evals_result.md"
+date = "2024.09.05"
+comments = true
+
+["get_feature_importance.md"]
+title = "⛄ get_feature_importance"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_feature_importance.md"
+date = "2024.09.05"
+comments = true
+
+["get_object_importance.md"]
+title = "⛄ get_object_importance"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_object_importance.md"
+date = "2024.09.05"
+comments = true
+
+["get_param.md"]
+title = "⛄ get_param"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_param.md"
+date = "2024.09.05"
+comments = true
+
+["get_params.md"]
+title = "⛄ get_params"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_params.md"
+date = "2024.09.05"
+comments = true
+
+["get_scale_and_bias.md"]
+title = "⛄ get_scale_and_bias"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_scale_and_bias.md"
+date = "2024.09.05"
+comments = true
+
+["get_test_eval.md"]
+title = "⛄ get_test_eval"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/get_test_eval.md"
+date = "2024.09.05"
+comments = true
+
+["grid_search.md"]
+title = "⛄ grid_search"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/grid_search.md"
+date = "2024.09.05"
+comments = true
+
+["is_fitted.md"]
+title = "⛄ is_fitted"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/is_fitted.md"
+date = "2024.09.05"
+comments = true
+
+["load_model.md"]
+title = "⛄ load_model"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/load_model.md"
+date = "2024.09.05"
+comments = true
+
+["plot_predictions.md"]
+title = "⛄ plot_predictions"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/plot_predictions.md"
+date = "2024.09.05"
+comments = true
+
+["plot_tree.md"]
+title = "⛄ plot_tree"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/plot_tree.md"
+date = "2024.09.05"
+comments = true
+
+["randomized_search.md"]
+title = "⛄ randomized_search"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/randomized_search.md"
+date = "2024.09.05"
+comments = true
+
+["save_borders.md"]
+title = "⛄ save_borders"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/save_borders.md"
+date = "2024.09.05"
+comments = true
+
+["save_model.md"]
+title = "⛄ save_model"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/save_model.md"
+date = "2024.09.05"
+comments = true
+
+["select_features.md"]
+title = "⛄ select_features"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/select_features.md"
+date = "2024.09.05"
+comments = true
+
+["set_feature_names.md"]
+title = "⛄ set_feature_names"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/set_feature_names.md"
+date = "2024.09.05"
+comments = true
+
+["set_params.md"]
+title = "⛄ set_params"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/set_params.md"
+date = "2024.09.05"
+comments = true
+
+["set_scale_and_bias.md"]
+title = "⛄ set_scale_and_bias"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/set_scale_and_bias.md"
+date = "2024.09.05"
+comments = true
+
+["staged_predict.md"]
+title = "staged_predict"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/staged_predict.md"
+comments = true
+
+["virtual_ensembles_predict.md"]
+title = "virtual_ensembles_predict"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/9CatBoost/virtual_ensembles_predict.md"
+comments = true

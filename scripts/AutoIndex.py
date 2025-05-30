@@ -169,6 +169,7 @@ class AutoIndex:
                 info_dict[c2_folder].update({"path": f"./{c1_folder}/{c2_folder}"})
                 if Path(pth_file).is_file():
                     meta = "" if c2_folder.endswith(".ipynb") else self._get_metadata(pth_file)
+                    print(pth_file)
                     info_dict[c2_folder].update(meta)
                 else:
                     self._check_toml(f"{c1_folder}/{c2_folder}")

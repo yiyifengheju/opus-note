@@ -1,0 +1,10 @@
+nav:
+    - index.md
+    - 0️⃣ PyCharm配置: 0env
+    - 0️⃣ 基础编程: 0coding
+    - 0️⃣ 扩展库: 0packages
+    - 1️⃣ Rye相关: 1rye
+    - 2️⃣ Conda相关: 2conda
+    - 3️⃣ pip相关: 3pip
+    - 4️⃣ Python GUI编程: 4gui
+    - 5️⃣ Python可视化: 5visdom

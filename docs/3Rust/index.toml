@@ -1,0 +1,27 @@
+[1env]
+title = "1env"
+emoji = ""
+info = ""
+cover = ""
+path = "./3Rust/1env"
+
+["1️⃣ 环境配置"]
+title = "1️⃣ 环境配置"
+emoji = ":simple-rust:"
+info = ""
+cover = ""
+path = "./🍐 Rust/1️⃣ 环境配置"
+
+[2coding]
+title = "2coding"
+emoji = ""
+info = ""
+cover = ""
+path = "./3Rust/2coding"
+
+["2️⃣ 基础编程"]
+title = "2️⃣ 基础编程"
+emoji = ":simple-rust:"
+info = ""
+cover = ""
+path = "./🍐 Rust/2️⃣ 基础编程"

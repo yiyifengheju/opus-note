@@ -1,0 +1,90 @@
+[0compile]
+title = "0compile"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/0compile"
+
+["0️⃣ 编译基础知识"]
+title = "0️⃣ 编译基础知识"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/0️⃣ 编译基础知识"
+
+[1env]
+title = "1env"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/1env"
+
+["1️⃣ 环境配置"]
+title = "1️⃣ 环境配置"
+emoji = ":simple-clion:"
+info = ""
+cover = ""
+path = "./🍏 C&C++/1️⃣ 环境配置"
+
+[2coding]
+title = "2coding"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/2coding"
+
+["2️⃣ 基础编程"]
+title = "2️⃣ 基础编程"
+emoji = ":simple-c:"
+info = ""
+cover = ""
+path = "./🍏 C&C++/2️⃣ 基础编程"
+
+[3api_docs]
+title = "3api_docs"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/3api_docs"
+
+["3️⃣ C工程API文档"]
+title = "3️⃣ C工程API文档"
+emoji = ":simple-doxygen:"
+info = ""
+cover = ""
+path = "./🍏 C&C++/3️⃣ C工程API文档"
+
+[4embedded]
+title = "4embedded"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/4embedded"
+
+["4️⃣ 嵌入式编程"]
+title = "4️⃣ 嵌入式编程"
+emoji = ":simple-arduino:"
+info = ""
+cover = ""
+path = "./🍏 C&C++/4️⃣ 嵌入式编程"
+
+[5experience]
+title = "5experience"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/5experience"
+
+["5️⃣ 经验总结"]
+title = "5️⃣ 经验总结"
+emoji = ""
+info = ""
+cover = ""
+path = "./🍏 C&C++/5️⃣ 经验总结"
+
+[6thoughts]
+title = "6thoughts"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/6thoughts"

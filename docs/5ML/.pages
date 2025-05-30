@@ -1,0 +1,15 @@
+nav:
+    - index.md
+    - 0️⃣ ML相关概念: ML_Noun
+    - 1️⃣ 开源数据集: 1DataSets
+    - 2️⃣ 特征选择: 2FeaSelect
+    - 3️⃣ 半监督学习: 3semi_learn
+    - 4️⃣ 集成学习: 4ensemble
+    - 5️⃣ 超参数优化: 5param_opti
+    - 6️⃣ 模型可解释性: 6explainable_ml
+    - 7️⃣ 置信学习: 7confidence_learning
+    - 8️⃣ NGBoost: 8NGBoost
+    - 9️⃣ CatBoost: 9CatBoost
+    - 🔟 scikit-learn: 10sklearn
+    - 1️⃣1️⃣ MLOps: 11MLOps
+    - 1️⃣2️⃣ pytorch: 12pytorch

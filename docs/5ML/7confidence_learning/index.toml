@@ -1,0 +1,38 @@
+["A.md"]
+title = "🍁 置信学习"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/7confidence_learning/A.md"
+date = "2024.08.20"
+comments = true
+
+["B.md"]
+title = "🍁 问题"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/7confidence_learning/B.md"
+date = "2024.08.20"
+comments = true
+
+["cl1.ipynb"]
+title = "cl1.ipynb"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/7confidence_learning/cl1.ipynb"
+
+["cl2.ipynb"]
+title = "cl2.ipynb"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/7confidence_learning/cl2.ipynb"
+
+["cl3.ipynb"]
+title = "cl3.ipynb"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/7confidence_learning/cl3.ipynb"

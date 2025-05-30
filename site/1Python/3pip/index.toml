@@ -1,0 +1,23 @@
+["A.md"]
+title = "⛄ pip常用命令"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/3pip/A.md"
+comments = true
+
+["B.md"]
+title = "🛁 pip换源"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/3pip/B.md"
+comments = true
+
+["C.md"]
+title = "🎧 pip升级第三方库"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/3pip/C.md"
+comments = true

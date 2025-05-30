@@ -1,0 +1,39 @@
+["A.md"]
+title = "🍎 Matplotlib绘图"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/5visdom/A.md"
+comments = true
+
+["B.md"]
+title = "🍉 过渡色"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/5visdom/B.md"
+comments = true
+
+["C.md"]
+title = "🍒 Matplotlib中英文设置（一）"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/5visdom/C.md"
+comments = true
+
+["D.md"]
+title = "🍓 Matplotlib中英文设置（二）"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/5visdom/D.md"
+comments = true
+
+["E.md"]
+title = "🍅 PyEcharts绘图经验"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/5visdom/E.md"
+comments = true

@@ -1,0 +1,31 @@
+["A.md"]
+title = "🥎 Rye使用指南"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/1rye/A.md"
+comments = true
+
+["B.md"]
+title = "🧩 Rye踩坑记录"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/1rye/B.md"
+comments = true
+
+["C.md"]
+title = "🔫 Rye安装Jupyter"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/1rye/C.md"
+comments = true
+
+["D.md"]
+title = "配置项目A调用项目B"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/1rye/D.md"
+date = "2025.04.11"

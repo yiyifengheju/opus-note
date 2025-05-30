@@ -1,0 +1,58 @@
+["A.md"]
+title = "🩹 Git配置"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/5Git/A.md"
+comments = true
+
+["B.md"]
+title = "👗 Git基础使用"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/5Git/B.md"
+comments = true
+
+["C.md"]
+title = "🥏 Git Commit规范"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/5Git/C.md"
+comments = true
+
+["D.md"]
+title = "🐠 Git自动提交(Windows)"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/5Git/D.md"
+comments = true
+date = "2024.02.03"
+
+["E.md"]
+title = "🛢️ Git常见错误"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/5Git/E.md"
+comments = true
+
+["F.md"]
+title = "Git技巧"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/5Git/F.md"
+comments = true
+date = "2024.10.23"
+
+["G.md"]
+title = "git-cliff"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/5Git/G.md"
+date = 2024-08-13
+comments = true

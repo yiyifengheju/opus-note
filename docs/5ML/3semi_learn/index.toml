@@ -1,0 +1,25 @@
+["A.md"]
+title = "一致性正则化半监督学习的缺点"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/3semi_learn/A.md"
+date = 2024-12-16
+comments = true
+
+["B.md"]
+title = "半监督学习"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/3semi_learn/B.md"
+date = 2024-12-30
+comments = true
+
+["C.md"]
+title = "一致性正则化半监督学习"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/3semi_learn/C.md"
+date = "2025.04.12"

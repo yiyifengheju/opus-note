@@ -1,0 +1,47 @@
+["A.md"]
+title = "🦢 WebStorm环境配置"
+emoji = ""
+info = ""
+cover = ""
+path = "./4HTML/1env/A.md"
+comments = true
+
+["AA.md"]
+title = "🐔 常用NPM工具"
+emoji = ""
+info = ""
+cover = ""
+path = "./4HTML/1env/AA.md"
+comments = true
+
+["AAA.md"]
+title = "🏐 前端常用CDN网站"
+emoji = ""
+info = ""
+cover = ""
+path = "./4HTML/1env/AAA.md"
+comments = true
+
+["B.md"]
+title = "⛄ 安装NodeJS"
+emoji = ""
+info = ""
+cover = ""
+path = "./4HTML/1env/B.md"
+comments = true
+
+["C.md"]
+title = "🍙 NPM查看软件版本"
+emoji = ""
+info = ""
+cover = ""
+path = "./4HTML/1env/C.md"
+comments = true
+
+["D.md"]
+title = "🎳 NPM搭建网页服务器"
+emoji = ""
+info = ""
+cover = ""
+path = "./4HTML/1env/D.md"
+comments = true

@@ -1,0 +1,139 @@
+[0coding]
+title = "0coding"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/0coding"
+
+[0env]
+title = "0env"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/0env"
+
+[0packages]
+title = "0packages"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/0packages"
+
+["0️⃣ PyCharm配置"]
+title = "0️⃣ PyCharm配置"
+info = ""
+emoji = ":simple-pycharm:"
+cover = ""
+path = "./🐦 Python/0️⃣ PyCharm配置"
+
+["0️⃣ 基础编程"]
+title = "0️⃣ 基础编程"
+info = ""
+emoji = ":octicons-terminal-16:"
+cover = ""
+path = "./🐦 Python/0️⃣ 基础编程"
+
+["0️⃣ 扩展库"]
+title = "0️⃣ 扩展库"
+info = ""
+emoji = ":simple-pypi:"
+cover = ""
+path = "./🐦 Python/0️⃣ 扩展库"
+
+[1rye]
+title = "1rye"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/1rye"
+
+["1️⃣ Rye相关"]
+title = "1️⃣ Rye相关"
+info = ""
+emoji = ":simple-rye:"
+cover = ""
+path = "./🐦 Python/1️⃣ Rye相关"
+
+[2conda]
+title = "2conda"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/2conda"
+
+["2️⃣ Conda相关"]
+title = "2️⃣ Conda相关"
+info = ""
+emoji = ":simple-anaconda:"
+cover = ""
+path = "./🐦 Python/2️⃣ Conda相关"
+
+[3pip]
+title = "3pip"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/3pip"
+
+["3️⃣ pip相关"]
+title = "3️⃣ pip相关"
+info = ""
+emoji = ":simple-pypi:"
+cover = ""
+path = "./🐦 Python/3️⃣ pip相关"
+
+[4gui]
+title = "4gui"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/4gui"
+
+[5visdom]
+title = "5visdom"
+emoji = ""
+info = ""
+cover = ""
+path = "./1Python/5visdom"
+
+["5️⃣ Python可视化"]
+title = "5️⃣ Python可视化"
+info = ""
+emoji = ":simple-plotly:"
+cover = ""
+path = "./🐦 Python/5️⃣ Python可视化"
+
+["6️⃣ Python科学计算"]
+title = "6️⃣ Python科学计算"
+info = ""
+emoji = ":simple-numpy:"
+cover = ""
+path = "./🐦 Python/6️⃣ Python科学计算"
+
+["7️⃣ Python网络编程"]
+title = "7️⃣ Python网络编程"
+info = ""
+emoji = ":simple-flask:"
+cover = ""
+path = "./🐦 Python/7️⃣ Python网络编程"
+
+["8️⃣ Python GUI编程"]
+title = "8️⃣ Python GUI编程"
+info = ""
+emoji = ":simple-flutter:"
+cover = ""
+path = "./🐦 Python/8️⃣ Python GUI编程"
+
+["9️⃣ Python硬件编程"]
+title = "9️⃣ Python硬件编程"
+info = ""
+emoji = ":simple-arduino:"
+cover = ""
+path = "./🐦 Python/9️⃣ Python硬件编程"
+
+["🔟 其他"]
+title = "🔟 其他"
+info = ""
+emoji = ":simple-python:"
+cover = ""
+path = "./🐦 Python/🔟 其他"

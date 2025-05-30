@@ -1,0 +1,31 @@
+["C.md"]
+title = "为C工程生成类似Rust的版本信息"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/5experience/C.md"
+date = "2025.04.12"
+
+["E.md"]
+title = "C中设计Array"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/5experience/E.md"
+date = "2025.04.12"
+
+["F.md"]
+title = "C工程化经验总结"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/5experience/F.md"
+date = "2025.04.12"
+
+["G.md"]
+title = "C工程化常见报错"
+emoji = ""
+info = ""
+cover = ""
+path = "./2C&C++/5experience/G.md"
+date = "2025.04.12"

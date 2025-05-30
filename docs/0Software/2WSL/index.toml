@@ -1,0 +1,23 @@
+["A.md"]
+title = "🦢 WSL安装指定版本"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/2WSL/A.md"
+comments = true
+
+["D.md"]
+title = "🕊️ WSL修改初始目录"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/2WSL/D.md"
+comments = true
+
+["E.md"]
+title = "☃️ 调用WSL命令"
+emoji = ""
+info = ""
+cover = ""
+path = "./0Software/2WSL/E.md"
+comments = true

@@ -1,0 +1,10 @@
+nav:
+    - index.md
+    - 1️⃣ 环境配置: 1env
+    - 2️⃣ MkDocs: 2MkDocs
+    - 3️⃣ MinIO: 3MinIO
+    - 4️⃣ Markdown: 4Markdown
+    - 5️⃣ Apache: 5Apache
+    - 6️⃣ Hexo: 6Hexo
+    - 7️⃣ 字体: 7Fonts
+    - 8️⃣ Notion: 8Notion

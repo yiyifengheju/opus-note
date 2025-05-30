@@ -1,0 +1,27 @@
+["A.ipynb"]
+title = "随机网格搜索"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/5param_opti/A.ipynb"
+
+["B.ipynb"]
+title = "对半网格搜索"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/5param_opti/B.ipynb"
+
+["C.ipynb"]
+title = "贝叶斯优化"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/5param_opti/C.ipynb"
+
+["D.ipynb"]
+title = "Optuna调参"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/5param_opti/D.ipynb"

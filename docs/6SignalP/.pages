@@ -1,0 +1,7 @@
+nav:
+    - index.md
+    - 1️⃣ 生物医学信号处理: 1sp
+    - 2️⃣ 基础知识: 2base
+    - 3️⃣ 滤波器设计: 3filter
+    - 3️⃣ C工程API文档: 3api_docs
+    - 4️⃣ 常用技巧: 4experience

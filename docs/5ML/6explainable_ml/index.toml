@@ -1,0 +1,53 @@
+["A.md"]
+title = "🍁 Shapash"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/6explainable_ml/A.md"
+date = "2023.12.20"
+comments = true
+
+["AA.md"]
+title = "模型可解释性：SHAP"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/6explainable_ml/AA.md"
+date = "2024.10.20"
+comments = true
+
+["B.md"]
+title = "通俗讲解SHAP值计算"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/6explainable_ml/B.md"
+date = "2024.10.20"
+comments = true
+
+["C - 副本.md"]
+title = "广义加性模型"
+emoji = ""
+info = ""
+cover = ""
+path = "./👺 机器学习/6️⃣ 模型可解释性/C - 副本.md"
+date = "2024.10.20"
+comments = true
+
+["C.md"]
+title = "黑盒/白盒/玻璃盒模型"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/6explainable_ml/C.md"
+date = "2024.10.20"
+comments = true
+
+["D.md"]
+title = "SHAP背景数据集"
+emoji = ""
+info = ""
+cover = ""
+path = "./5ML/6explainable_ml/D.md"
+date = "2024.10.20"
+comments = true

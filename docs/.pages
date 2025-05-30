@@ -1,11 +1,11 @@
 nav:
     - index.md
-    - blog
-    - 🎀 软件及配置
-    - 🐦 Python
-    - 🍏 C&C++
-    - 🍐 Rust
-    - 🎈 前端
-    - 👺 机器学习
-    - 🍒 信号处理
-    - 🏅 我的脚本
+    - 博客: blog
+    - 🎀 软件及配置: 0Software
+    - 🐦 Python: 1Python
+    - 🍏 C&C++: 2C&C++
+    - 🍐 Rust: 3Rust
+    - 🎈 前端: 4HTML
+    - 👺 机器学习: 5ML
+    - 🍒 信号处理: 6SignalP
+    - 🏅 我的脚本: 7MyScripts

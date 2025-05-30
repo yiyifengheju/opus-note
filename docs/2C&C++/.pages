@@ -1,0 +1,9 @@
+nav:
+    - index.md
+    - 0️⃣ 编译基础知识: 0compile
+    - 1️⃣ 环境配置: 1env
+    - 2️⃣ 基础编程: 2coding
+    - 3️⃣ C工程API文档: 3api_docs
+    - 4️⃣ 嵌入式编程: 4embedded
+    - 5️⃣ 经验总结: 5experience
+    - 6️⃣ 一些思考: 6thoughts
